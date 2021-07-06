@@ -1,0 +1,1697 @@
+,short_form,context,long_form,label
+0,CA,IgG 1840 UI/ml ( 751-1.560 UI/ml ) . El marcador < start > CA < end >,carbohydrate antiger,1
+1,CA,IgG 1840 UI/ml ( 751-1.560 UI/ml ) . El marcador < start > CA < end >,california,0
+2,CA,IgG 1840 UI/ml ( 751-1.560 UI/ml ) . El marcador < start > CA < end >,cancer antiger,0
+3,FA,"UI/ml , GPT 371 UI/ml , GGT 632 UI/ml , < start > FA < end >",fosfatasa alcalino,1
+4,FA,"UI/ml , GPT 371 UI/ml , GGT 632 UI/ml , < start > FA < end >",faceta articular,0
+5,mg,". La analítica mostró los siguientes datos : bilirrubina 19,44 < start > mg < end >",miligramo,1
+6,mg,". La analítica mostró los siguientes datos : bilirrubina 19,44 < start > mg < end >",miligramar,0
+7,mg,inició tratamiento con corticoides ( metilprednisolona a dosis de 32 < start > mg < end >,miligramo,1
+8,mg,inició tratamiento con corticoides ( metilprednisolona a dosis de 32 < start > mg < end >,miligramar,0
+9,F,"AMA-2 , ANCA , LKM1 , SMA , SLA y < start > F < end >",filamentous,1
+10,F,"AMA-2 , ANCA , LKM1 , SMA , SLA y < start > F < end >",fenilalanina,0
+11,F,"AMA-2 , ANCA , LKM1 , SMA , SLA y < start > F < end >",french,0
+12,mg,( 600 mg/6 horas ) y Tobramicina ( 50 m < start > g/ < end >,miligramo,1
+13,mg,( 600 mg/6 horas ) y Tobramicina ( 50 m < start > g/ < end >,miligramar,0
+14,mg,"( 400 mg/12 horas ) , Clindamicina ( 600 m < start > g/ < end >",miligramo,1
+15,mg,"( 400 mg/12 horas ) , Clindamicina ( 600 m < start > g/ < end >",miligramar,0
+16,mg,"( 400 mg/12 horas ) , Teicoplanina ( 400 m < start > g/ < end >",miligramo,1
+17,mg,"( 400 mg/12 horas ) , Teicoplanina ( 400 m < start > g/ < end >",miligramar,0
+18,mg,antibiótico intravenoso de amplio espectro con Ciprofloxacino ( 400 m < start > g/ < end >,miligramo,1
+19,mg,antibiótico intravenoso de amplio espectro con Ciprofloxacino ( 400 m < start > g/ < end >,miligramar,0
+20,mg,", VSG 90 mm1a hora , la PCR en 23,8 < start > mg < end >",miligramo,1
+21,mg,", VSG 90 mm1a hora , la PCR en 23,8 < start > mg < end >",miligramar,0
+22,mg,", la PCR en 23,8 mg/dl ( VN < 0,3 < start > mg < end >",miligramo,1
+23,mg,", la PCR en 23,8 mg/dl ( VN < 0,3 < start > mg < end >",miligramar,0
+24,PCR,"de 775 µg/dl , VSG 90 mm1a hora , la < start > PCR < end >",proteina c reactivo,1
+25,PCR,"de 775 µg/dl , VSG 90 mm1a hora , la < start > PCR < end >",polimerase chain reaction,0
+26,PCR,"la fiebre , descenso paulatino hasta la normalización de P < start > CR < end >",proteina c reactivo,1
+27,PCR,"la fiebre , descenso paulatino hasta la normalización de P < start > CR < end >",polimerase chain reaction,0
+28,PET,. En este punto se decidió la realización de un < start > PET < end >,positr emissior tomograph,1
+29,PET,. En este punto se decidió la realización de un < start > PET < end >,emision positron,0
+30,T2,"entre 7-10 mm , hipointensas en T1 e hiperintensas en < start > T2 < end >",tiempo relajacion transversal,1
+31,T2,"entre 7-10 mm , hipointensas en T1 e hiperintensas en < start > T2 < end >",tamano 2,0
+32,T1,"y múltiples lesiones de entre 7-10 mm , hipointensas en < start > T1 < end >",tiempo relajacion longitudinal,1
+33,T1,"y múltiples lesiones de entre 7-10 mm , hipointensas en < start > T1 < end >",primero vertebra toracico,0
+34,mg,se inicia tratamiento con ácido acetilsalicílico a dosis de 100 < start > mg < end >,miligramo,1
+35,mg,se inicia tratamiento con ácido acetilsalicílico a dosis de 100 < start > mg < end >,miligramar,0
+36,T1,infarto isquémico . Se completa la resonancia con secuencias en < start > T1 < end >,tiempo relajacion longitudinal,1
+37,T1,infarto isquémico . Se completa la resonancia con secuencias en < start > T1 < end >,primero vertebra toracico,0
+38,T2,del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en < start > T2 < end >,tiempo relajacion transversal,1
+39,T2,del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en < start > T2 < end >,tamano 2,0
+40,AV,"de nuevo actitud expectante , con recuperación de AV , < start > q < end >",agudeza visual,1
+41,AV,"de nuevo actitud expectante , con recuperación de AV , < start > q < end >",arteriovenoso,0
+42,AV,"de nuevo actitud expectante , con recuperación de AV , < start > q < end >",auriculoventricular,0
+43,AV,por pérdida aguda de visión en OD . Presentaba AV < start > co < end >,agudeza visual,1
+44,AV,por pérdida aguda de visión en OD . Presentaba AV < start > co < end >,arteriovenoso,0
+45,AV,por pérdida aguda de visión en OD . Presentaba AV < start > co < end >,auriculoventricular,0
+46,AV,La fotocoagulación causó la trombosis del aneurisma . La AV < start > d < end >,agudeza visual,1
+47,AV,La fotocoagulación causó la trombosis del aneurisma . La AV < start > d < end >,arteriovenoso,0
+48,AV,La fotocoagulación causó la trombosis del aneurisma . La AV < start > d < end >,auriculoventricular,0
+49,AV,". La evolución fue buena , con recuperación de A < start > V < end >",agudeza visual,1
+50,AV,". La evolución fue buena , con recuperación de A < start > V < end >",arteriovenoso,0
+51,AV,". La evolución fue buena , con recuperación de A < start > V < end >",auriculoventricular,0
+52,AV,"patológicos oftalmológicos ni generales . A la exploración , mostró < start > AV < end >",agudeza visual,1
+53,AV,"patológicos oftalmológicos ni generales . A la exploración , mostró < start > AV < end >",arteriovenoso,0
+54,AV,"patológicos oftalmológicos ni generales . A la exploración , mostró < start > AV < end >",auriculoventricular,0
+55,AV,85 años enviado por pérdida brusca de agudeza visual ( < start > AV < end >,agudeza visual,1
+56,AV,85 años enviado por pérdida brusca de agudeza visual ( < start > AV < end >,arteriovenoso,0
+57,AV,85 años enviado por pérdida brusca de agudeza visual ( < start > AV < end >,auriculoventricular,0
+58,AV,trombosis del mismo . Actualmente el paciente presenta AV d < start > e < end >,agudeza visual,1
+59,AV,trombosis del mismo . Actualmente el paciente presenta AV d < start > e < end >,arteriovenoso,0
+60,AV,trombosis del mismo . Actualmente el paciente presenta AV d < start > e < end >,auriculoventricular,0
+61,FO,OD de MM y 4/10 con OI . En FO < start > ha < end >,fondo ojo,1
+62,FO,OD de MM y 4/10 con OI . En FO < start > ha < end >,fibroma osificante,0
+63,FO,MM ) en OI . En fondo de ojo ( < start > FO < end >,fondo ojo,1
+64,FO,MM ) en OI . En fondo de ojo ( < start > FO < end >,fibroma osificante,0
+65,MM,visión en OD . Presentaba AV con OD de MM < start > y < end >,mieloma multiple,1
+66,MM,visión en OD . Presentaba AV con OD de MM < start > y < end >,movimiento mano,0
+67,MM,"la exploración , mostró AV de movimiento de manos ( < start > MM < end >",mieloma multiple,1
+68,MM,"la exploración , mostró AV de movimiento de manos ( < start > MM < end >",movimiento mano,0
+69,MM,visión en OD . Presentaba AV con OD de MM < start > y < end >,mieloma multiple,0
+70,MM,visión en OD . Presentaba AV con OD de MM < start > y < end >,movimiento mano,1
+71,MM,"la exploración , mostró AV de movimiento de manos ( < start > MM < end >",mieloma multiple,0
+72,MM,"la exploración , mostró AV de movimiento de manos ( < start > MM < end >",movimiento mano,1
+73,mg,"de Retinol 1,5 mg/dl ( Valor de referencia : 3,5-7,5 < start > mg < end >",miligramo,1
+74,mg,"de Retinol 1,5 mg/dl ( Valor de referencia : 3,5-7,5 < start > mg < end >",miligramar,0
+75,mg,"albúmina de 2,42 g/dl y Proteína Transportadora de Retinol 1,5 < start > mg < end >",miligramo,1
+76,mg,"albúmina de 2,42 g/dl y Proteína Transportadora de Retinol 1,5 < start > mg < end >",miligramar,0
+77,Q,de sangre periférica . Se observó una mutación ( Q1 < start > 5 < end >,glutamina,1
+78,Q,de sangre periférica . Se observó una mutación ( Q1 < start > 5 < end >,onda q,0
+79,mg,"proteinuria de 427 mg/24 h , con albuminuria de 120 < start > mg < end >",miligramo,1
+80,mg,"proteinuria de 427 mg/24 h , con albuminuria de 120 < start > mg < end >",miligramar,0
+81,mg,"renal normal , creatinina 0,8 mg/dl , proteinuria de 427 < start > mg < end >",miligramo,1
+82,mg,"renal normal , creatinina 0,8 mg/dl , proteinuria de 427 < start > mg < end >",miligramar,0
+83,mg,"de transferan normales . Función renal normal , creatinina 0,8 < start > mg < end >",miligramo,1
+84,mg,"de transferan normales . Función renal normal , creatinina 0,8 < start > mg < end >",miligramar,0
+85,mg,"bajo . Presentaba anemia hemolítica severa , hemoglobina de 7,7 < start > mg < end >",miligramo,1
+86,mg,"bajo . Presentaba anemia hemolítica severa , hemoglobina de 7,7 < start > mg < end >",miligramar,0
+87,mg,"La función renal se mantuvo normal , con proteinuria 130 < start > mg < end >",miligramo,1
+88,mg,"La función renal se mantuvo normal , con proteinuria 130 < start > mg < end >",miligramar,0
+89,PET,. La tomografía por emisión de positrones ( P < start > ET ) < end >,positr emissior tomograph,1
+90,PET,. La tomografía por emisión de positrones ( P < start > ET ) < end >,emision positron,0
+91,mg,( rango 200-400 ) . Bioquímica : glucosa 82 mg < start > /d < end >,miligramo,1
+92,mg,( rango 200-400 ) . Bioquímica : glucosa 82 mg < start > /d < end >,miligramar,0
+93,mg,", Cl 103 mEq/l . Proteína C reactiva 1,05 mg < start > /d < end >",miligramo,1
+94,mg,", Cl 103 mEq/l . Proteína C reactiva 1,05 mg < start > /d < end >",miligramar,0
+95,mg,"g/dl , albúmina 3,5 g/dl , calcio total 8,6 mg < start > /d < end >",miligramo,1
+96,mg,"g/dl , albúmina 3,5 g/dl , calcio total 8,6 mg < start > /d < end >",miligramar,0
+97,mg,"mg/dl , creatinina 0,40 mg/dl , bilirrubina total/directa 0,4/0,2 mg < start > /d < end >",miligramo,1
+98,mg,"mg/dl , creatinina 0,40 mg/dl , bilirrubina total/directa 0,4/0,2 mg < start > /d < end >",miligramar,0
+99,mg,"82 mg/dl , urea 20 mg/dl , creatinina 0,40 mg < start > /d < end >",miligramo,1
+100,mg,"82 mg/dl , urea 20 mg/dl , creatinina 0,40 mg < start > /d < end >",miligramar,0
+101,mg,". Bioquímica : glucosa 82 mg/dl , urea 20 mg < start > /d < end >",miligramo,1
+102,mg,". Bioquímica : glucosa 82 mg/dl , urea 20 mg < start > /d < end >",miligramar,0
+103,K,"127 UI/l . Iones : Na 130 mEq/l , K < start > 3 < end >",kalium,1
+104,K,"127 UI/l . Iones : Na 130 mEq/l , K < start > 3 < end >",klebsiella,0
+105,FA,"UI/l , lactatodeshidrogenasa ( LDH ) 254 UI/l , FA < start > 1 < end >",fosfatasa alcalino,1
+106,FA,"UI/l , lactatodeshidrogenasa ( LDH ) 254 UI/l , FA < start > 1 < end >",faceta articular,0
+107,L,broncoaspiración asociada a hiponatremia hipoosmolar ( sodio : 101 meq/ < start > L < end >,litro,1
+108,L,broncoaspiración asociada a hiponatremia hipoosmolar ( sodio : 101 meq/ < start > L < end >,leucocito,0
+109,L,positiva produciendo situación de hipernatremia ( sodio : 157 meq/ < start > L < end >,litro,1
+110,L,positiva produciendo situación de hipernatremia ( sodio : 157 meq/ < start > L < end >,leucocito,0
+111,L,provocando fallo pre-renal con hiponatremia ( sodio : 115 meq/ < start > L < end >,litro,1
+112,L,provocando fallo pre-renal con hiponatremia ( sodio : 115 meq/ < start > L < end >,leucocito,0
+113,L,"y procalcitonina : 4.01 mcg/L ( R.N : 0,0-0,5 mcg/ < start > L < end >",litro,1
+114,L,"y procalcitonina : 4.01 mcg/L ( R.N : 0,0-0,5 mcg/ < start > L < end >",leucocito,0
+115,L,"R.N : 0,0-0,5 mg/dL ) y procalcitonina : 4.01 mcg/ < start > L < end >",litro,1
+116,L,"R.N : 0,0-0,5 mg/dL ) y procalcitonina : 4.01 mcg/ < start > L < end >",leucocito,0
+117,L,"meticilin-resistente , sensible a vancomicina ( CMI = 2 mg/ < start > L < end >",litro,1
+118,L,"meticilin-resistente , sensible a vancomicina ( CMI = 2 mg/ < start > L < end >",leucocito,0
+119,L,meq/L ( rango normalidad ( R.N . ) 135-145 meq/ < start > L < end >,litro,1
+120,L,meq/L ( rango normalidad ( R.N . ) 135-145 meq/ < start > L < end >,leucocito,0
+121,L,objetiva mejoría clínica y analítica ( sodio : 130 meq/ < start > L < end >,litro,1
+122,L,objetiva mejoría clínica y analítica ( sodio : 130 meq/ < start > L < end >,leucocito,0
+123,mg,radical . Su tratamiento habitual consta de ácido acetilsalicílico 100 < start > mg < end >,miligramo,1
+124,mg,radical . Su tratamiento habitual consta de ácido acetilsalicílico 100 < start > mg < end >,miligramar,0
+125,mg,"renal agudo y se alcanzan valores de creatinina de 5,07 < start > mg < end >",miligramo,1
+126,mg,"renal agudo y se alcanzan valores de creatinina de 5,07 < start > mg < end >",miligramar,0
+127,mg,"a la elevación de los niveles de creatinina hasta 2,46 < start > mg < end >",miligramo,1
+128,mg,"a la elevación de los niveles de creatinina hasta 2,46 < start > mg < end >",miligramar,0
+129,mg,dosis a 1000 mg/8 h. Se añade metronidazol oral 500 < start > mg < end >,miligramo,1
+130,mg,dosis a 1000 mg/8 h. Se añade metronidazol oral 500 < start > mg < end >,miligramar,0
+131,mg,6.4 h y realizando un incremento de dosis a 1000 < start > mg < end >,miligramo,1
+132,mg,6.4 h y realizando un incremento de dosis a 1000 < start > mg < end >,miligramar,0
+133,mg,"febriles , PCR : 9,6 mg/dL ( R.N : 0,0-0,5 < start > mg < end >",miligramo,1
+134,mg,"febriles , PCR : 9,6 mg/dL ( R.N : 0,0-0,5 < start > mg < end >",miligramar,0
+135,mg,"h por persistencia de picos febriles , PCR : 9,6 < start > mg < end >",miligramo,1
+136,mg,"h por persistencia de picos febriles , PCR : 9,6 < start > mg < end >",miligramar,0
+137,mg,"del tratamiento , se aumenta dosis de vancomicina a 1250 < start > mg < end >",miligramo,1
+138,mg,"del tratamiento , se aumenta dosis de vancomicina a 1250 < start > mg < end >",miligramar,0
+139,mg,"epidermidis meticilin-resistente , sensible a vancomicina ( CMI = 2 < start > mg < end >",miligramo,1
+140,mg,"epidermidis meticilin-resistente , sensible a vancomicina ( CMI = 2 < start > mg < end >",miligramar,0
+141,mg,"mg/12 h , vancomicina 1000 mg/12 h y oseltamivir 75 < start > mg < end >",miligramo,1
+142,mg,"mg/12 h , vancomicina 1000 mg/12 h y oseltamivir 75 < start > mg < end >",miligramar,0
+143,mg,"tratamiento empírico con cefepime 2000 mg/12 h , vancomicina 1000 < start > mg < end >",miligramo,1
+144,mg,"tratamiento empírico con cefepime 2000 mg/12 h , vancomicina 1000 < start > mg < end >",miligramar,0
+145,mg,"sin foco claro , iniciándose tratamiento empírico con cefepime 2000 < start > mg < end >",miligramo,1
+146,mg,"sin foco claro , iniciándose tratamiento empírico con cefepime 2000 < start > mg < end >",miligramar,0
+147,mg,) y posteriormente se aumenta a dosis habitual de 15 < start > mg < end >,miligramo,1
+148,mg,) y posteriormente se aumenta a dosis habitual de 15 < start > mg < end >,miligramar,0
+149,mg,"bajas de tolvaptan para evitar corrección en exceso ( 7,5 < start > mg < end >",miligramo,1
+150,mg,"bajas de tolvaptan para evitar corrección en exceso ( 7,5 < start > mg < end >",miligramar,0
+151,mg,"por vía periférica , tratamiento antibiótico empírico con meropenem 1000 < start > mg < end >",miligramo,1
+152,mg,"por vía periférica , tratamiento antibiótico empírico con meropenem 1000 < start > mg < end >",miligramar,0
+153,mg,"lorazepam 1 mg , silidosina 8 mg y omeprazol 20 < start > mg < end >",miligramo,1
+154,mg,"lorazepam 1 mg , silidosina 8 mg y omeprazol 20 < start > mg < end >",miligramar,0
+155,mg,"acetilsalicílico 100 mg , lorazepam 1 mg , silidosina 8 < start > mg < end >",miligramo,1
+156,mg,"acetilsalicílico 100 mg , lorazepam 1 mg , silidosina 8 < start > mg < end >",miligramar,0
+157,mg,"habitual consta de ácido acetilsalicílico 100 mg , lorazepam 1 < start > mg < end >",miligramo,1
+158,mg,"habitual consta de ácido acetilsalicílico 100 mg , lorazepam 1 < start > mg < end >",miligramar,0
+159,μg,"de 132 h y alcanzándose una concentración plasmática de 25,5 < start > μg < end >",microgramo,1
+160,μg,"de 132 h y alcanzándose una concentración plasmática de 25,5 < start > μg < end >",picogramo,0
+161,μg,"extraen nuevas concentraciones plasmáticas , siendo aún inferiores ( 8,4 < start > μg < end >",microgramo,1
+162,μg,"extraen nuevas concentraciones plasmáticas , siendo aún inferiores ( 8,4 < start > μg < end >",picogramo,0
+163,μg,"y elevación de concentraciones plasmáticas predosis de vancomicina hasta 43,1 < start > μg < end >",microgramo,1
+164,μg,"y elevación de concentraciones plasmáticas predosis de vancomicina hasta 43,1 < start > μg < end >",picogramo,0
+165,μg,"de 132 h y alcanzándose una concentración plasmática de 25,5 < start > μg < end >",microgramo,0
+166,μg,"de 132 h y alcanzándose una concentración plasmática de 25,5 < start > μg < end >",picogramo,1
+167,μg,"extraen nuevas concentraciones plasmáticas , siendo aún inferiores ( 8,4 < start > μg < end >",microgramo,0
+168,μg,"extraen nuevas concentraciones plasmáticas , siendo aún inferiores ( 8,4 < start > μg < end >",picogramo,1
+169,μg,"y elevación de concentraciones plasmáticas predosis de vancomicina hasta 43,1 < start > μg < end >",microgramo,0
+170,μg,"y elevación de concentraciones plasmáticas predosis de vancomicina hasta 43,1 < start > μg < end >",picogramo,1
+171,PCR,"a 1250 mg/12 h por persistencia de picos febriles , < start > PCR < end >",proteina c reactivo,1
+172,PCR,"a 1250 mg/12 h por persistencia de picos febriles , < start > PCR < end >",polimerase chain reaction,0
+173,T2,en relación al tejido cerebeloso en T1 e hiperintensa en < start > T2 < end >,tiempo relajacion transversal,1
+174,T2,en relación al tejido cerebeloso en T1 e hiperintensa en < start > T2 < end >,tamano 2,0
+175,T1,era heterogénea e hipointensa en relación al tejido cerebeloso en < start > T1 < end >,tiempo relajacion longitudinal,1
+176,T1,era heterogénea e hipointensa en relación al tejido cerebeloso en < start > T1 < end >,primero vertebra toracico,0
+177,mg,Comisión on Radiation Units ) concomitante con Temozolomida 75 mg < start > /m < end >,miligramo,1
+178,mg,Comisión on Radiation Units ) concomitante con Temozolomida 75 mg < start > /m < end >,miligramar,0
+179,HLA,cerebral espontánea . El donante tenía un tipaje H < start > LA : < end >,histocompatibilityr locus antiger,1
+180,HLA,cerebral espontánea . El donante tenía un tipaje H < start > LA : < end >,human leucocyte antiger,0
+181,C3,. La inmunofluorescencia directa evidenció depósitos glomerulares parietales granulares de < start > C3 < end >,tercero componente complemento,1
+182,C3,. La inmunofluorescencia directa evidenció depósitos glomerulares parietales granulares de < start > C3 < end >,tercero vertebra cervical,0
+183,C3,. La inmunofluorescencia directa evidenció depósitos glomerulares parietales granulares de < start > C3 < end >,complemento 3,0
+184,C3,. La inmunofluorescencia directa evidenció depósitos glomerulares parietales granulares de < start > C3 < end >,nivel c subnivel 3,0
+185,C3,"inmunofluorescencia observó depósitos mesangiales granulares de IgA y C < start > 3 , < end >",tercero componente complemento,1
+186,C3,"inmunofluorescencia observó depósitos mesangiales granulares de IgA y C < start > 3 , < end >",tercero vertebra cervical,0
+187,C3,"inmunofluorescencia observó depósitos mesangiales granulares de IgA y C < start > 3 , < end >",complemento 3,0
+188,C3,"inmunofluorescencia observó depósitos mesangiales granulares de IgA y C < start > 3 , < end >",nivel c subnivel 3,0
+189,mg,"síndrome nefrótico , microhematuria e insuficiencia renal ( creatinina 1,5 < start > mg < end >",miligramo,1
+190,mg,"síndrome nefrótico , microhematuria e insuficiencia renal ( creatinina 1,5 < start > mg < end >",miligramar,0
+191,mg,creatinina en el momento de la extracción de 1 m < start > g/ < end >,miligramo,1
+192,mg,creatinina en el momento de la extracción de 1 m < start > g/ < end >,miligramar,0
+193,PCR,"donante específicos , así como antigenemia para citomegalovirus y P < start > CR < end >",proteina c reactivo,0
+194,PCR,"donante específicos , así como antigenemia para citomegalovirus y P < start > CR < end >",polimerase chain reaction,1
+195,CD 117,"libre de lesión . IHQ : WT1 +++ , < start > CD 117 < end >",cumulo diferenciacion 117,1
+196,CD 117,"libre de lesión . IHQ : WT1 +++ , < start > CD 117 < end >",cluster of differentiation 117,0
+197,mg,"consecutivos , se continúo con prednisona a dosis de 1 < start > mg < end >",miligramo,1
+198,mg,"consecutivos , se continúo con prednisona a dosis de 1 < start > mg < end >",miligramar,0
+199,mg,"monocitos 100/mm3 , plaquetas 200.000 mm3 , glucemia pre-prandial 159 < start > mg < end >",miligramo,1
+200,mg,"monocitos 100/mm3 , plaquetas 200.000 mm3 , glucemia pre-prandial 159 < start > mg < end >",miligramar,0
+201,mg,semanas consecutivas e inmunoglobulina 20 g por día ( 400 < start > mg < end >,miligramo,1
+202,mg,semanas consecutivas e inmunoglobulina 20 g por día ( 400 < start > mg < end >,miligramar,0
+203,mg,con prednisona a dosis de 1 mg/kg/día y azatioprina 100 < start > mg < end >,miligramo,1
+204,mg,con prednisona a dosis de 1 mg/kg/día y azatioprina 100 < start > mg < end >,miligramar,0
+205,mg,ambas manos . Se realizaron pulsos con metilprednisolona de 500 < start > mg < end >,miligramo,1
+206,mg,ambas manos . Se realizaron pulsos con metilprednisolona de 500 < start > mg < end >,miligramar,0
+207,mg,"12 mg/dl ( 70-170 ) y complemento 4 , 0 < start > mg < end >",miligramo,1
+208,mg,"12 mg/dl ( 70-170 ) y complemento 4 , 0 < start > mg < end >",miligramar,0
+209,mg,"de 24 h : 899 mg. Complemento 3 , 12 < start > mg < end >",miligramo,1
+210,mg,"de 24 h : 899 mg. Complemento 3 , 12 < start > mg < end >",miligramar,0
+211,mg,negativos . Proteinuria en orina de 24 h : 899 < start > mg < end >,miligramo,1
+212,mg,negativos . Proteinuria en orina de 24 h : 899 < start > mg < end >,miligramar,0
+213,mg,", presencia de cilindros hematicos y granulosos . PCR 2,6 < start > mg < end >",miligramo,1
+214,mg,", presencia de cilindros hematicos y granulosos . PCR 2,6 < start > mg < end >",miligramar,0
+215,mg,"mmol/l , nitrógeno ureico sérico 46,9 mg/dl , creatinina 2,9 < start > mg < end >",miligramo,1
+216,mg,"mmol/l , nitrógeno ureico sérico 46,9 mg/dl , creatinina 2,9 < start > mg < end >",miligramar,0
+217,mg,"Cl . serico 118 mmol/l , nitrógeno ureico sérico 46,9 < start > mg < end >",miligramo,1
+218,mg,"Cl . serico 118 mmol/l , nitrógeno ureico sérico 46,9 < start > mg < end >",miligramar,0
+219,L,"TSH 5,54 uU/ml ( 0,63-4,19 ) , T3 0,07 nmol/ < start > L < end >",litro,1
+220,L,"TSH 5,54 uU/ml ( 0,63-4,19 ) , T3 0,07 nmol/ < start > L < end >",leucocito,0
+221,PCR,"a 50 , presencia de cilindros hematicos y granulosos . < start > PCR < end >",proteina c reactivo,1
+222,PCR,"a 50 , presencia de cilindros hematicos y granulosos . < start > PCR < end >",polimerase chain reaction,0
+223,mmol,"mg/dl , Na sérico l43 mmol/l , K sérico 4,2 < start > mmol < end >",chloryde,1
+224,mmol,"mg/dl , Na sérico l43 mmol/l , K sérico 4,2 < start > mmol < end >",milimol,0
+225,mmol,"mm3 , glucemia pre-prandial 159 mg/dl , Na sérico l43 < start > mmol < end >",chloryde,1
+226,mmol,"mm3 , glucemia pre-prandial 159 mg/dl , Na sérico l43 < start > mmol < end >",milimol,0
+227,mmol,"mmol/l , K sérico 4,2 mmol/l Cl . serico 118 < start > mmol < end >",chloryde,1
+228,mmol,"mmol/l , K sérico 4,2 mmol/l Cl . serico 118 < start > mmol < end >",milimol,0
+229,ELISA,"ELISA positiva 2,1 ( > 1,1 ) , citomegalovirus IgG < start > ELISA < end >",enzymelinked immunosorbent assay,1
+230,ELISA,"ELISA positiva 2,1 ( > 1,1 ) , citomegalovirus IgG < start > ELISA < end >",analisis inmunoabsorcion ligado enzima,0
+231,ELISA,< 13 ) . Serología viral : con toxoplasma IgG < start > ELISA < end >,enzymelinked immunosorbent assay,1
+232,ELISA,< 13 ) . Serología viral : con toxoplasma IgG < start > ELISA < end >,analisis inmunoabsorcion ligado enzima,0
+233,ELISA,"IgG ELISA positiva 4,4 ( > 1,1 ) e IgM < start > ELISA < end >",enzymelinked immunosorbent assay,1
+234,ELISA,"IgG ELISA positiva 4,4 ( > 1,1 ) e IgM < start > ELISA < end >",analisis inmunoabsorcion ligado enzima,0
+235,K,"glucemia pre-prandial 159 mg/dl , Na sérico l43 mmol/l , < start > K < end >",kalium,1
+236,K,"glucemia pre-prandial 159 mg/dl , Na sérico l43 mmol/l , < start > K < end >",klebsiella,0
+237,mmol,"mg/dl , Na sérico l43 mmol/l , K sérico 4,2 < start > mmol < end >",chloryde,0
+238,mmol,"mg/dl , Na sérico l43 mmol/l , K sérico 4,2 < start > mmol < end >",milimol,1
+239,mmol,"mm3 , glucemia pre-prandial 159 mg/dl , Na sérico l43 < start > mmol < end >",chloryde,0
+240,mmol,"mm3 , glucemia pre-prandial 159 mg/dl , Na sérico l43 < start > mmol < end >",milimol,1
+241,mmol,"mmol/l , K sérico 4,2 mmol/l Cl . serico 118 < start > mmol < end >",chloryde,0
+242,mmol,"mmol/l , K sérico 4,2 mmol/l Cl . serico 118 < start > mmol < end >",milimol,1
+243,ELISA,"ELISA positiva 2,1 ( > 1,1 ) , citomegalovirus IgG < start > ELISA < end >",enzymelinked immunosorbent assay,0
+244,ELISA,"ELISA positiva 2,1 ( > 1,1 ) , citomegalovirus IgG < start > ELISA < end >",analisis inmunoabsorcion ligado enzima,1
+245,ELISA,< 13 ) . Serología viral : con toxoplasma IgG < start > ELISA < end >,enzymelinked immunosorbent assay,0
+246,ELISA,< 13 ) . Serología viral : con toxoplasma IgG < start > ELISA < end >,analisis inmunoabsorcion ligado enzima,1
+247,ELISA,"IgG ELISA positiva 4,4 ( > 1,1 ) e IgM < start > ELISA < end >",enzymelinked immunosorbent assay,0
+248,ELISA,"IgG ELISA positiva 4,4 ( > 1,1 ) e IgM < start > ELISA < end >",analisis inmunoabsorcion ligado enzima,1
+249,mg,"tratamiento con enemas de corticoides ( budesonida , 2 m < start > g < end >",miligramo,1
+250,mg,"tratamiento con enemas de corticoides ( budesonida , 2 m < start > g < end >",miligramar,0
+251,mg,"dicho citostático . La solución madre utilizada fue bendamustina 2,5 < start > mg < end >",miligramo,1
+252,mg,"dicho citostático . La solución madre utilizada fue bendamustina 2,5 < start > mg < end >",miligramar,0
+253,mg,con Rituximab 375mg/m2 día 1 del ciclo y Bendamustina 90 < start > mg < end >,miligramo,1
+254,mg,con Rituximab 375mg/m2 día 1 del ciclo y Bendamustina 90 < start > mg < end >,miligramar,0
+255,mg,enfermedad e inició tratamiento de segunda línea con Rituximab 375 < start > mg < end >,miligramo,1
+256,mg,enfermedad e inició tratamiento de segunda línea con Rituximab 375 < start > mg < end >,miligramar,0
+257,mg,"la administración de la dosis total del fármaco ( 186,3 < start > mg < end >",miligramo,1
+258,mg,"la administración de la dosis total del fármaco ( 186,3 < start > mg < end >",miligramar,0
+259,mg,alta en tratamiento con prednisona a dosis de 40 mg < start > /d < end >,miligramo,1
+260,mg,alta en tratamiento con prednisona a dosis de 40 mg < start > /d < end >,miligramar,0
+261,mg,"monoclonal IgM , siendo su concentración sérica de 305 mg < start > /d < end >",miligramo,1
+262,mg,"monoclonal IgM , siendo su concentración sérica de 305 mg < start > /d < end >",miligramar,0
+263,mg,"de orina mostró inicialmente un índice microalbuminuria/creatininuria de 261,9 mg < start > /g < end >",miligramo,1
+264,mg,"de orina mostró inicialmente un índice microalbuminuria/creatininuria de 261,9 mg < start > /g < end >",miligramar,0
+265,mg,222 mg/dl y triglicéridos 260 mg/dL con Colesterol HDL 41 < start > mg < end >,miligramo,1
+266,mg,222 mg/dl y triglicéridos 260 mg/dL con Colesterol HDL 41 < start > mg < end >,miligramar,0
+267,mg,. En analítica destacaba colesterol 222 mg/dl y triglicéridos 260 < start > mg < end >,miligramo,1
+268,mg,. En analítica destacaba colesterol 222 mg/dl y triglicéridos 260 < start > mg < end >,miligramar,0
+269,mg,kg/m2 . tA 145/92 . En analítica destacaba colesterol 222 < start > mg < end >,miligramo,1
+270,mg,kg/m2 . tA 145/92 . En analítica destacaba colesterol 222 < start > mg < end >,miligramar,0
+271,mg,"ciclosporina 50 mg cada 12 horas , prednisona 5 m < start > g < end >",miligramo,1
+272,mg,"ciclosporina 50 mg cada 12 horas , prednisona 5 m < start > g < end >",miligramar,0
+273,mg,"posaconazol 400 mg cada 12 horas , ciclosporina 50 m < start > g < end >",miligramo,1
+274,mg,"posaconazol 400 mg cada 12 horas , ciclosporina 50 m < start > g < end >",miligramar,0
+275,mg,. Posteriormente se da de alta con posaconazol 400 m < start > g < end >,miligramo,1
+276,mg,. Posteriormente se da de alta con posaconazol 400 m < start > g < end >,miligramar,0
+277,mg,", micofenolato 3000 mg al día y tacrolimus XL 7 < start > mg < end >",miligramo,1
+278,mg,", micofenolato 3000 mg al día y tacrolimus XL 7 < start > mg < end >",miligramar,0
+279,mg,"1500 mg , prednisona 50 mg día , micofenolato 3000 < start > mg < end >",miligramo,1
+280,mg,"1500 mg , prednisona 50 mg día , micofenolato 3000 < start > mg < end >",miligramar,0
+281,mg,". Recibió tratamiento con metilprednisolona 1500 mg , prednisona 50 < start > mg < end >",miligramo,1
+282,mg,". Recibió tratamiento con metilprednisolona 1500 mg , prednisona 50 < start > mg < end >",miligramar,0
+283,mg,celular agudo Banff IA . Recibió tratamiento con metilprednisolona 1500 < start > mg < end >,miligramo,1
+284,mg,celular agudo Banff IA . Recibió tratamiento con metilprednisolona 1500 < start > mg < end >,miligramar,0
+285,mg,"aceptable función del injerto renal ( creatinina de 1,5 m < start > g/ < end >",miligramo,1
+286,mg,"aceptable función del injerto renal ( creatinina de 1,5 m < start > g/ < end >",miligramar,0
+287,K,". Adicionalmente se aislaron E. cloacae , C. sedlakii , < start > K < end >",kalium,0
+288,K,". Adicionalmente se aislaron E. cloacae , C. sedlakii , < start > K < end >",klebsiella,1
+289,C.,"infección por Mucor . Adicionalmente se aislaron E. cloacae , < start > C. < end >",citrobacter,1
+290,C.,"infección por Mucor . Adicionalmente se aislaron E. cloacae , < start > C. < end >",chlamydia,0
+291,E.,la patología confirman infección por Mucor . Adicionalmente se aislaron < start > E. < end >,enterobacter,1
+292,E.,la patología confirman infección por Mucor . Adicionalmente se aislaron < start > E. < end >,escherichia,0
+293,mg,Gemcitabina 1000 mg/m2 días 1 y 8 + Capecitabina 1000 < start > mg < end >,miligramo,1
+294,mg,Gemcitabina 1000 mg/m2 días 1 y 8 + Capecitabina 1000 < start > mg < end >,miligramar,0
+295,mg,útil en el carcinoma renal estadio IV : Gemcitabina 1000 < start > mg < end >,miligramo,1
+296,mg,útil en el carcinoma renal estadio IV : Gemcitabina 1000 < start > mg < end >,miligramar,0
+297,mg,en infusión contínua de 24h x 1día + Adriamicina 60 < start > mg < end >,miligramo,1
+298,mg,en infusión contínua de 24h x 1día + Adriamicina 60 < start > mg < end >,miligramar,0
+299,FR,"ANA , anticuerpos anti-Ro , anti-LA y factor reumatoide ( < start > FR < end >",factor reumatoidir,1
+300,FR,"ANA , anticuerpos anti-Ro , anti-LA y factor reumatoide ( < start > FR < end >",frecuencia respiratorio,0
+301,C4,"normales . ANA positivos , anti-ADN negativos . C3 y < start > C4 < end >",cuarto componente complemento,1
+302,C4,"normales . ANA positivos , anti-ADN negativos . C3 y < start > C4 < end >",complemento 4,0
+303,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",tercero componente complemento,1
+304,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",tercero vertebra cervical,0
+305,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",complemento 3,0
+306,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",nivel c subnivel 3,0
+307,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",tercero componente complemento,1
+308,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",tercero vertebra cervical,0
+309,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",complemento 3,0
+310,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",nivel c subnivel 3,0
+311,mg,"estudio analítico se detectaron Hb 9,2 g/dl , creatinina 2,9 < start > mg < end >",miligramo,1
+312,mg,"estudio analítico se detectaron Hb 9,2 g/dl , creatinina 2,9 < start > mg < end >",miligramar,0
+313,mg,"negativos . C3 y C4 bajos , 46 y 1,6 < start > mg < end >",miligramo,1
+314,mg,"negativos . C3 y C4 bajos , 46 y 1,6 < start > mg < end >",miligramar,0
+315,mg,"Hb 9,2 g/dl , creatinina 2,9 mg/dl , urea 110 < start > mg < end >",miligramo,1
+316,mg,"Hb 9,2 g/dl , creatinina 2,9 mg/dl , urea 110 < start > mg < end >",miligramar,0
+317,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",tercero componente complemento,0
+318,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",tercero vertebra cervical,1
+319,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",complemento 3,0
+320,C3,"e inmunoglobulinas normales . ANA positivos , anti-ADN negativos . < start > C3 < end >",nivel c subnivel 3,0
+321,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",tercero componente complemento,0
+322,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",tercero vertebra cervical,1
+323,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",complemento 3,0
+324,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end >",nivel c subnivel 3,0
+325,T1,"1x1 cm. , con centro isointenso y periferia hipointensa en < start > T1 < end >",tiempo relajacion longitudinal,1
+326,T1,"1x1 cm. , con centro isointenso y periferia hipointensa en < start > T1 < end >",primero vertebra toracico,0
+327,L,hemograma se constató una tombocitopenia grave ( 9 x 109/ < start > L < end >,litro,1
+328,L,hemograma se constató una tombocitopenia grave ( 9 x 109/ < start > L < end >,leucocito,0
+329,L,con muy buena respuesta ( plaquetas > 100 x 109/ < start > L < end >,litro,1
+330,L,con muy buena respuesta ( plaquetas > 100 x 109/ < start > L < end >,leucocito,0
+331,mg,". La calcemia era normal ( 9,5 y 8,8 m < start > g/ < end >",miligramo,1
+332,mg,". La calcemia era normal ( 9,5 y 8,8 m < start > g/ < end >",miligramar,0
+333,T2,contenido proteináceo ( ligeramente hiperintensa en T1 e hipointensa en < start > T2 < end >,tiempo relajacion transversal,1
+334,T2,contenido proteináceo ( ligeramente hiperintensa en T1 e hipointensa en < start > T2 < end >,tamano 2,0
+335,T1,porción quística supraselar de contenido proteináceo ( ligeramente hiperintensa en < start > T1 < end >,tiempo relajacion longitudinal,1
+336,T1,porción quística supraselar de contenido proteináceo ( ligeramente hiperintensa en < start > T1 < end >,primero vertebra toracico,0
+337,PTH,. Se realizó estudio analítico destacando incremento de niveles de < start > PTH < end >,parathyroid hormoner,1
+338,PTH,. Se realizó estudio analítico destacando incremento de niveles de < start > PTH < end >,paratohormona,0
+339,mg,"del hematocrito , 18 % ; bilirrubina total , 5,1 < start > mg < end >",miligramo,1
+340,mg,"del hematocrito , 18 % ; bilirrubina total , 5,1 < start > mg < end >",miligramar,0
+341,P,"de 130 lpm ) , asociada a presión arterial > < start > P < end >",presion,1
+342,P,"de 130 lpm ) , asociada a presión arterial > < start > P < end >",fosforo,0
+343,mg,"( 6,9 mg/kg ) y de 270 mg ( 20,7 < start > mg < end >",miligramo,1
+344,mg,"( 6,9 mg/kg ) y de 270 mg ( 20,7 < start > mg < end >",miligramar,0
+345,mg,"de 90 mg ( 6,9 mg/kg ) y de 270 < start > mg < end >",miligramo,1
+346,mg,"de 90 mg ( 6,9 mg/kg ) y de 270 < start > mg < end >",miligramar,0
+347,mg,"una dosis ingerida de dextrometorfano de 90 mg ( 6,9 < start > mg < end >",miligramo,1
+348,mg,"una dosis ingerida de dextrometorfano de 90 mg ( 6,9 < start > mg < end >",miligramar,0
+349,mg,. Se estimó una dosis ingerida de dextrometorfano de 90 < start > mg < end >,miligramo,1
+350,mg,. Se estimó una dosis ingerida de dextrometorfano de 90 < start > mg < end >,miligramar,0
+351,mg,( 2 mg/ml ) y clorhidrato de pseudoefedrina ( 6 < start > mg < end >,miligramo,1
+352,mg,( 2 mg/ml ) y clorhidrato de pseudoefedrina ( 6 < start > mg < end >,miligramar,0
+353,mg,compuesto por la combinación de bromhidrato de dextrometorfano ( 2 < start > mg < end >,miligramo,1
+354,mg,compuesto por la combinación de bromhidrato de dextrometorfano ( 2 < start > mg < end >,miligramar,0
+355,C4,"Shigella y Yersinia , dosificación del complemento ( C3 y < start > C4 < end >",cuarto componente complemento,0
+356,C4,"Shigella y Yersinia , dosificación del complemento ( C3 y < start > C4 < end >",complemento 4,1
+357,C3,"Salmonella , Shigella y Yersinia , dosificación del complemento ( < start > C3 < end >",tercero componente complemento,0
+358,C3,"Salmonella , Shigella y Yersinia , dosificación del complemento ( < start > C3 < end >",tercero vertebra cervical,0
+359,C3,"Salmonella , Shigella y Yersinia , dosificación del complemento ( < start > C3 < end >",complemento 3,1
+360,C3,"Salmonella , Shigella y Yersinia , dosificación del complemento ( < start > C3 < end >",nivel c subnivel 3,0
+361,L,"120 mm/1ª hora . Proteína C reactiva : 51,7 mg/ < start > L < end >",litro,1
+362,L,"120 mm/1ª hora . Proteína C reactiva : 51,7 mg/ < start > L < end >",leucocito,0
+363,L,"51,7 mg/L . El hemograma mostró 6,5 x 109 leucocitos/ < start > L < end >",litro,1
+364,L,"51,7 mg/L . El hemograma mostró 6,5 x 109 leucocitos/ < start > L < end >",leucocito,0
+365,L,", 14 % monocitos ) , Hb : 99 g/ < start > L < end >",litro,1
+366,L,", 14 % monocitos ) , Hb : 99 g/ < start > L < end >",leucocito,0
+367,L,"hematocrito : 28,7 L/L , plaquetas : 442 x 109/ < start > L < end >",litro,1
+368,L,"hematocrito : 28,7 L/L , plaquetas : 442 x 109/ < start > L < end >",leucocito,0
+369,L,", Hb : 99 g/L , hematocrito : 28,7 L/ < start > L < end >",litro,1
+370,L,", Hb : 99 g/L , hematocrito : 28,7 L/ < start > L < end >",leucocito,0
+371,L,") , Hb : 99 g/L , hematocrito : 28,7 < start > L < end >",litro,1
+372,L,") , Hb : 99 g/L , hematocrito : 28,7 < start > L < end >",leucocito,0
+373,mg,"estable y oligosintomática con bajas dosis de prednisona ( 7,5 < start > mg < end >",miligramo,1
+374,mg,"estable y oligosintomática con bajas dosis de prednisona ( 7,5 < start > mg < end >",miligramar,0
+375,mg,mg/kg/8 horas ; manteniendo una concentración entre 4 y 9 < start > mg < end >,miligramo,1
+376,mg,mg/kg/8 horas ; manteniendo una concentración entre 4 y 9 < start > mg < end >,miligramar,0
+377,mg,g de ampicilina cada 6 h y gentamicina ( 3 < start > mg < end >,miligramo,1
+378,mg,g de ampicilina cada 6 h y gentamicina ( 3 < start > mg < end >,miligramar,0
+379,mg,"mg/dl ; VN : 90-210 ) , kappa ( 276 < start > mg < end >",miligramo,1
+380,mg,"mg/dl ; VN : 90-210 ) , kappa ( 276 < start > mg < end >",miligramar,0
+381,mg,x 109/L . Dosificación de inmuglobulinas : IgA ( 25 < start > mg < end >,miligramo,1
+382,mg,x 109/L . Dosificación de inmuglobulinas : IgA ( 25 < start > mg < end >,miligramar,0
+383,mg,< 230 ) ; cadenas ligeras : lambda ( 44 < start > mg < end >,miligramo,1
+384,mg,< 230 ) ; cadenas ligeras : lambda ( 44 < start > mg < end >,miligramar,0
+385,mg,", IgG ( 405 mg/dl ) , IgM ( 2.300 < start > mg < end >",miligramo,1
+386,mg,", IgG ( 405 mg/dl ) , IgM ( 2.300 < start > mg < end >",miligramar,0
+387,mg,": IgA ( 25 mg/dl ) , IgG ( 405 < start > mg < end >",miligramo,1
+388,mg,": IgA ( 25 mg/dl ) , IgG ( 405 < start > mg < end >",miligramar,0
+389,mg,"de 120 mm/1ª hora . Proteína C reactiva : 51,7 < start > mg < end >",miligramo,1
+390,mg,"de 120 mm/1ª hora . Proteína C reactiva : 51,7 < start > mg < end >",miligramar,0
+391,mg,"prednisona ( 7,5 mg/día ) y metrotrexato oral ( 7,5 < start > mg < end >",miligramo,1
+392,mg,"prednisona ( 7,5 mg/día ) y metrotrexato oral ( 7,5 < start > mg < end >",miligramar,0
+393,AV,acude a urgencias por presentar disminución de agudeza visual ( < start > AV < end >,agudeza visual,1
+394,AV,acude a urgencias por presentar disminución de agudeza visual ( < start > AV < end >,arteriovenoso,0
+395,AV,acude a urgencias por presentar disminución de agudeza visual ( < start > AV < end >,auriculoventricular,0
+396,AV,"ranibizumab , acude a revisión al hospital y presenta una < start > AV < end >",agudeza visual,1
+397,AV,"ranibizumab , acude a revisión al hospital y presenta una < start > AV < end >",arteriovenoso,0
+398,AV,"ranibizumab , acude a revisión al hospital y presenta una < start > AV < end >",auriculoventricular,0
+399,AV,"este procedimiento , acude de nuevo a revisión con una < start > AV < end >",agudeza visual,1
+400,AV,"este procedimiento , acude de nuevo a revisión con una < start > AV < end >",arteriovenoso,0
+401,AV,"este procedimiento , acude de nuevo a revisión con una < start > AV < end >",auriculoventricular,0
+402,AV,La exploración oftalmológica en la urgencia es la siguiente . < start > AV < end >,agudeza visual,1
+403,AV,La exploración oftalmológica en la urgencia es la siguiente . < start > AV < end >,arteriovenoso,0
+404,AV,La exploración oftalmológica en la urgencia es la siguiente . < start > AV < end >,auriculoventricular,0
+405,PL,al hospital y presenta una AV por el OD de < start > PL < end >,puncion lumbar,1
+406,PL,al hospital y presenta una AV por el OD de < start > PL < end >,percepcion luz,0
+407,PL,al hospital y presenta una AV por el OD de < start > PL < end >,periodo lavado,0
+408,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,puncion lumbar,1
+409,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,percepcion luz,0
+410,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,periodo lavado,0
+411,μg,"días después se inyectan , de forma intravítrea , 25 < start > μg < end >",microgramo,1
+412,μg,"días después se inyectan , de forma intravítrea , 25 < start > μg < end >",picogramo,0
+413,PL,al hospital y presenta una AV por el OD de < start > PL < end >,puncion lumbar,0
+414,PL,al hospital y presenta una AV por el OD de < start > PL < end >,percepcion luz,1
+415,PL,al hospital y presenta una AV por el OD de < start > PL < end >,periodo lavado,0
+416,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,puncion lumbar,0
+417,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,percepcion luz,1
+418,PL,siguiente . AV por OD : percepción de luz ( < start > PL < end >,periodo lavado,0
+419,L,"cifras de hemoglobina de 8,8 g/l , hematocrito de 0,249 < start > L < end >",litro,1
+420,L,"cifras de hemoglobina de 8,8 g/l , hematocrito de 0,249 < start > L < end >",leucocito,0
+421,L,"de hemoglobina de 8,8 g/l , hematocrito de 0,249 L/ < start > L < end >",litro,1
+422,L,"de hemoglobina de 8,8 g/l , hematocrito de 0,249 L/ < start > L < end >",leucocito,0
+423,mmol,"( pH 7,21 ; HCO3 14 mmol/l ; EB -11,1 < start > mmol < end >",chloryde,0
+424,mmol,"( pH 7,21 ; HCO3 14 mmol/l ; EB -11,1 < start > mmol < end >",milimol,1
+425,mmol,") y acidosis metabólica ( pH 7,21 ; HCO3 14 < start > mmol < end >",chloryde,0
+426,mmol,") y acidosis metabólica ( pH 7,21 ; HCO3 14 < start > mmol < end >",milimol,1
+427,PCR,", cultivo y reacción en cadena de la polimerasa ( < start > PCR < end >",proteina c reactivo,0
+428,PCR,", cultivo y reacción en cadena de la polimerasa ( < start > PCR < end >",polimerase chain reaction,1
+429,CA19-9,"marcadores tumorales habituales ( CA 125 , CA 15-3 , < start > CA19-9 < end >",cancer antiger 199,1
+430,CA19-9,"marcadores tumorales habituales ( CA 125 , CA 15-3 , < start > CA19-9 < end >",carbohydrate antigen 199,0
+431,PET,patología tumoral . La tomografía con emisión de positrones ( < start > PET < end >,positr emissior tomograph,1
+432,PET,patología tumoral . La tomografía con emisión de positrones ( < start > PET < end >,emision positron,0
+433,mg,"de sangre , se objetivó una creatinina de 2,2 m < start > g/ < end >",miligramo,1
+434,mg,"de sangre , se objetivó una creatinina de 2,2 m < start > g/ < end >",miligramar,0
+435,mg,"se objetivó la recuperación de función renal ( creatinina 1,6 < start > mg < end >",miligramo,1
+436,mg,"se objetivó la recuperación de función renal ( creatinina 1,6 < start > mg < end >",miligramar,0
+437,mg,"días sin diálisis , la creatinina sérica permaneció en 2,7 < start > mg < end >",miligramo,1
+438,mg,"días sin diálisis , la creatinina sérica permaneció en 2,7 < start > mg < end >",miligramar,0
+439,mg,de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end >,miligramo,1
+440,mg,de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end >,miligramar,0
+441,mg,cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end >,miligramo,1
+442,mg,cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end >,miligramar,0
+443,mg,"de función renal previa , con creatinina sérica de 2,8 < start > mg < end >",miligramo,1
+444,mg,"de función renal previa , con creatinina sérica de 2,8 < start > mg < end >",miligramar,0
+445,mg,"la función renal permanecía estable con creatinina sérica de 1,4 < start > mg < end >",miligramo,1
+446,mg,"la función renal permanecía estable con creatinina sérica de 1,4 < start > mg < end >",miligramar,0
+447,mg,") ( Cockcroft-Gault 28 ml/min ) , ácido úrico 9,4 < start > mg < end >",miligramo,1
+448,mg,") ( Cockcroft-Gault 28 ml/min ) , ácido úrico 9,4 < start > mg < end >",miligramar,0
+449,mg,"al ingreso fue : creatinina 1,5 mg/dl ( previas 1,4-1,6 < start > mg < end >",miligramo,1
+450,mg,"al ingreso fue : creatinina 1,5 mg/dl ( previas 1,4-1,6 < start > mg < end >",miligramar,0
+451,mg,"La analítica en sangre al ingreso fue : creatinina 1,5 < start > mg < end >",miligramo,1
+452,mg,"La analítica en sangre al ingreso fue : creatinina 1,5 < start > mg < end >",miligramar,0
+453,FA,"ambas articulares , curetaje de las carillas de las FA < start > s < end >",fosfatasa alcalino,0
+454,FA,"ambas articulares , curetaje de las carillas de las FA < start > s < end >",faceta articular,1
+455,DQ2,"HLA ] ) de baja resolución , obteniéndose un haplotipo < start > DQ2 < end >",dq antiger,1
+456,DQ2,"HLA ] ) de baja resolución , obteniéndose un haplotipo < start > DQ2 < end >",dq antigen 2,0
+457,HLA,realizó tipificación sistema de histocompatibilidad ( human leukocyte antigen [ < start > HLA < end >,histocompatibilityr locus antiger,0
+458,HLA,realizó tipificación sistema de histocompatibilidad ( human leukocyte antigen [ < start > HLA < end >,human leucocyte antiger,1
+459,AV,año de seguimiento persistía la pérdida campimétrica y de AV < start > . < end >,agudeza visual,1
+460,AV,año de seguimiento persistía la pérdida campimétrica y de AV < start > . < end >,arteriovenoso,0
+461,AV,año de seguimiento persistía la pérdida campimétrica y de AV < start > . < end >,auriculoventricular,0
+462,AV,de 63 años que refería déficit de agudeza visual ( < start > AV < end >,agudeza visual,1
+463,AV,de 63 años que refería déficit de agudeza visual ( < start > AV < end >,arteriovenoso,0
+464,AV,de 63 años que refería déficit de agudeza visual ( < start > AV < end >,auriculoventricular,0
+465,AV,200 mg de carbamazepina diarios desde el traumatismo . La < start > AV < end >,agudeza visual,1
+466,AV,200 mg de carbamazepina diarios desde el traumatismo . La < start > AV < end >,arteriovenoso,0
+467,AV,200 mg de carbamazepina diarios desde el traumatismo . La < start > AV < end >,auriculoventricular,0
+468,mg,"encontraba en tratamiento con 1,5 gr de vigabatrina y 200 < start > mg < end >",miligramo,1
+469,mg,"encontraba en tratamiento con 1,5 gr de vigabatrina y 200 < start > mg < end >",miligramar,0
+470,CD34,", a-actina de músculo liso , desmina y CD < start > 34 . < end >",cluster of differentiation 34,1
+471,CD34,", a-actina de músculo liso , desmina y CD < start > 34 . < end >",cumulo diferenciacion 34,0
+472,CD34,"( Becton-Dickinson 7660 , USA , 10/500 ) , C < start > D34 < end >",cluster of differentiation 34,1
+473,CD34,"( Becton-Dickinson 7660 , USA , 10/500 ) , C < start > D34 < end >",cumulo diferenciacion 34,0
+474,m,fluorescencia ( FISH ) se realizó en cortes parafinados de 50m < start > < end >,metro,1
+475,m,fluorescencia ( FISH ) se realizó en cortes parafinados de 50m < start > < end >,mitosis,0
+476,m,procesaron mediante técnicas de rutina : se cortaron secciones de 4m < start > < end >,metro,1
+477,m,procesaron mediante técnicas de rutina : se cortaron secciones de 4m < start > < end >,mitosis,0
+478,NSE,"Biogenex 6670-0154 , USA ) , enolasa neuroespecífica N < start > SE , < end >",enolasa neuroespecifico,1
+479,NSE,"Biogenex 6670-0154 , USA ) , enolasa neuroespecífica N < start > SE , < end >",neuronspecific enolar,0
+480,NSE,"eran positivas para la proteína S-100 , la NS < start > E y < end >",enolasa neuroespecifico,1
+481,NSE,"eran positivas para la proteína S-100 , la NS < start > E y < end >",neuronspecific enolar,0
+482,NSE,"vimentina y negativas para la proteína S-100 , NS < start > E , < end >",enolasa neuroespecifico,1
+483,NSE,"vimentina y negativas para la proteína S-100 , NS < start > E , < end >",neuronspecific enolar,0
+484,NSE,"Biogenex 6670-0154 , USA ) , enolasa neuroespecífica N < start > SE , < end >",enolasa neuroespecifico,0
+485,NSE,"Biogenex 6670-0154 , USA ) , enolasa neuroespecífica N < start > SE , < end >",neuronspecific enolar,1
+486,NSE,"eran positivas para la proteína S-100 , la NS < start > E y < end >",enolasa neuroespecifico,0
+487,NSE,"eran positivas para la proteína S-100 , la NS < start > E y < end >",neuronspecific enolar,1
+488,NSE,"vimentina y negativas para la proteína S-100 , NS < start > E , < end >",enolasa neuroespecifico,0
+489,NSE,"vimentina y negativas para la proteína S-100 , NS < start > E , < end >",neuronspecific enolar,1
+490,mg,de sedimentación 79 mm/h y proteína C reactiva de 50 < start > mg < end >,miligramo,1
+491,mg,de sedimentación 79 mm/h y proteína C reactiva de 50 < start > mg < end >,miligramar,0
+492,mg,el procedimiento se administró de forma previa midazolam ( 1 < start > mg < end >,miligramo,1
+493,mg,el procedimiento se administró de forma previa midazolam ( 1 < start > mg < end >,miligramar,0
+494,mg,i.m ) y a los 5 minutos ketamina ( 60 < start > mg < end >,miligramo,1
+495,mg,i.m ) y a los 5 minutos ketamina ( 60 < start > mg < end >,miligramar,0
+496,mg,"de su función renal , con una creatinina de 7,5 < start > mg < end >",miligramo,1
+497,mg,"de su función renal , con una creatinina de 7,5 < start > mg < end >",miligramar,0
+498,mg,"y presentaba una insuficiencia renal moderada ( creatinina de 3,7 < start > mg < end >",miligramo,1
+499,mg,"y presentaba una insuficiencia renal moderada ( creatinina de 3,7 < start > mg < end >",miligramar,0
+500,AV,presentaba la siguiente exploración oftalmológica : la agudeza visual ( < start > AV < end >,agudeza visual,1
+501,AV,presentaba la siguiente exploración oftalmológica : la agudeza visual ( < start > AV < end >,arteriovenoso,0
+502,AV,presentaba la siguiente exploración oftalmológica : la agudeza visual ( < start > AV < end >,auriculoventricular,0
+503,C3,"Paciente de 39 años VIH positivo , categoría < start > C3 < end >",tercero componente complemento,0
+504,C3,"Paciente de 39 años VIH positivo , categoría < start > C3 < end >",tercero vertebra cervical,0
+505,C3,"Paciente de 39 años VIH positivo , categoría < start > C3 < end >",complemento 3,0
+506,C3,"Paciente de 39 años VIH positivo , categoría < start > C3 < end >",nivel c subnivel 3,1
+507,mg,"( Triglicéridos : 800 mg/dl , colesterol total : 47 < start > mg < end >",miligramo,1
+508,mg,"( Triglicéridos : 800 mg/dl , colesterol total : 47 < start > mg < end >",miligramar,0
+509,mg,el líquido quiloso mediante estudio bioquímico ( Triglicéridos : 800 < start > mg < end >,miligramo,1
+510,mg,el líquido quiloso mediante estudio bioquímico ( Triglicéridos : 800 < start > mg < end >,miligramar,0
+511,PL,"positiva VJC y , tras un periodo de lavado ( < start > PL < end >",puncion lumbar,0
+512,PL,"positiva VJC y , tras un periodo de lavado ( < start > PL < end >",percepcion luz,0
+513,PL,"positiva VJC y , tras un periodo de lavado ( < start > PL < end >",periodo lavado,1
+514,mg,", posteriormente de 23 % y una urea de 67 < start > mg < end >",miligramo,1
+515,mg,", posteriormente de 23 % y una urea de 67 < start > mg < end >",miligramar,0
+516,BAL,Tras los resultados se realizó fibrobroncoscopia con lavado bronquioalveolar ( < start > BAL < end >,lavado bronquioalveolar,1
+517,BAL,Tras los resultados se realizó fibrobroncoscopia con lavado bronquioalveolar ( < start > BAL < end >,bronchoalveolar lavage,0
+518,BAL,"de Legionella , Gram , BAAR y hongos negativo . < start > BAL < end >",lavado bronquioalveolar,1
+519,BAL,"de Legionella , Gram , BAAR y hongos negativo . < start > BAL < end >",bronchoalveolar lavage,0
+520,BAL,"endoluminales , ni alteración de la mucosa . Microbiología de < start > BAL < end >",lavado bronquioalveolar,1
+521,BAL,"endoluminales , ni alteración de la mucosa . Microbiología de < start > BAL < end >",bronchoalveolar lavage,0
+522,BAL,Tras los resultados se realizó fibrobroncoscopia con lavado bronquioalveolar ( < start > BAL < end >,lavado bronquioalveolar,0
+523,BAL,Tras los resultados se realizó fibrobroncoscopia con lavado bronquioalveolar ( < start > BAL < end >,bronchoalveolar lavage,1
+524,BAL,"de Legionella , Gram , BAAR y hongos negativo . < start > BAL < end >",lavado bronquioalveolar,0
+525,BAL,"de Legionella , Gram , BAAR y hongos negativo . < start > BAL < end >",bronchoalveolar lavage,1
+526,BAL,"endoluminales , ni alteración de la mucosa . Microbiología de < start > BAL < end >",lavado bronquioalveolar,0
+527,BAL,"endoluminales , ni alteración de la mucosa . Microbiología de < start > BAL < end >",bronchoalveolar lavage,1
+528,mg,. Se inició tratamiento con prednisona a dosis de 1 < start > mg < end >,miligramo,1
+529,mg,. Se inició tratamiento con prednisona a dosis de 1 < start > mg < end >,miligramar,0
+530,CD8,y 5 % PMN . Poblaciones linfocitarias : cociente CD4/ < start > CD8 < end >,cluster of differentiation 8,1
+531,CD8,y 5 % PMN . Poblaciones linfocitarias : cociente CD4/ < start > CD8 < end >,cumulo diferenciacion 8,0
+532,CD4,eosinófilos y 5 % PMN . Poblaciones linfocitarias : cociente < start > CD4 < end >,cluster of differentiation 8,1
+533,CD4,eosinófilos y 5 % PMN . Poblaciones linfocitarias : cociente < start > CD4 < end >,cumulo diferenciacion 4,0
+534,mg,diagnóstico hasta abril de 2011 recibió tratamiento con imatinib 400 < start > mg < end >,miligramo,1
+535,mg,diagnóstico hasta abril de 2011 recibió tratamiento con imatinib 400 < start > mg < end >,miligramar,0
+536,mg,"45mg día , que tuvo que ser disminuida a 30 < start > mg < end >",miligramo,1
+537,mg,"45mg día , que tuvo que ser disminuida a 30 < start > mg < end >",miligramar,0
+538,mg,de 2012 . Inicialmente la dosis administrada fue de 45 < start > mg < end >,miligramo,1
+539,mg,de 2012 . Inicialmente la dosis administrada fue de 45 < start > mg < end >,miligramar,0
+540,mg,"( MO ) , se sustituyó imatinib por dasatinib 100 < start > mg < end >",miligramo,1
+541,mg,"( MO ) , se sustituyó imatinib por dasatinib 100 < start > mg < end >",miligramar,0
+542,I,diagnóstico de crisis blástica linfoide y detectándose la mutación T315 < start > I < end >,isoleucina,1
+543,I,diagnóstico de crisis blástica linfoide y detectándose la mutación T315 < start > I < end >,izquierdo,0
+544,I,diagnóstico de crisis blástica linfoide y detectándose la mutación T315 < start > I < end >,yodo,0
+545,T,el diagnóstico de crisis blástica linfoide y detectándose la mutación < start > T < end >,treonina,1
+546,T,el diagnóstico de crisis blástica linfoide y detectándose la mutación < start > T < end >,thymus,0
+547,T,el diagnóstico de crisis blástica linfoide y detectándose la mutación < start > T < end >,onda t,0
+548,F,la señal molecular y la adquisición de la mutación Y253 < start > F < end >,filamentous,0
+549,F,la señal molecular y la adquisición de la mutación Y253 < start > F < end >,fenilalanina,1
+550,F,la señal molecular y la adquisición de la mutación Y253 < start > F < end >,french,0
+551,F,se sustituyó imatinib por dasatinib 100mg/día . La mutación Y253 < start > F < end >,filamentous,0
+552,F,se sustituyó imatinib por dasatinib 100mg/día . La mutación Y253 < start > F < end >,fenilalanina,1
+553,F,se sustituyó imatinib por dasatinib 100mg/día . La mutación Y253 < start > F < end >,french,0
+554,HLA,"donante no emparentado , ya que no dispone de hermano < start > HLA < end >",histocompatibilityr locus antiger,1
+555,HLA,"donante no emparentado , ya que no dispone de hermano < start > HLA < end >",human leucocyte antiger,0
+556,TTPA,", 211000 ; actividad de protrombina , 97 % ; < start > TTPA < end >",tromboplastina parcial activado,1
+557,TTPA,", 211000 ; actividad de protrombina , 97 % ; < start > TTPA < end >",tiempo parcial tromboplastina activado,0
+558,m,fascicular . El índice mitótico es elevado ( 7 m < start > / < end >,metro,0
+559,m,fascicular . El índice mitótico es elevado ( 7 m < start > / < end >,mitosis,1
+560,mg,"tras haber administrado 300 mg de ácido acetilsalicílico , 300 < start > mg < end >",miligramo,1
+561,mg,"tras haber administrado 300 mg de ácido acetilsalicílico , 300 < start > mg < end >",miligramar,0
+562,mg,"un stent , sin complicaciones , tras haber administrado 300 < start > mg < end >",miligramo,1
+563,mg,"un stent , sin complicaciones , tras haber administrado 300 < start > mg < end >",miligramar,0
+564,ST,Se diagnosticó un síndrome coronario agudo con ascenso del segmento < start > ST < end >,segmento onda onda t,1
+565,ST,Se diagnosticó un síndrome coronario agudo con ascenso del segmento < start > ST < end >,segmento st,0
+566,ST,Se diagnosticó un síndrome coronario agudo con ascenso del segmento < start > ST < end >,segmento electrocardiograma onda t,0
+567,CD117,"y S-100 , siendo negativo para PLAP , CD30 , < start > CD117 < end >",cumulo diferenciacion 117,1
+568,CD117,"y S-100 , siendo negativo para PLAP , CD30 , < start > CD117 < end >",cluster of differentiation 117,0
+569,CD117,"y S-100 , siendo negativo para PLAP , CD30 , < start > CD117 < end >",cluster diferenciacion 117,0
+570,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,agudeza visual,0
+571,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,arteriovenoso,1
+572,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,auriculoventricular,0
+573,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,agudeza visual,0
+574,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,arteriovenoso,1
+575,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,auriculoventricular,0
+576,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,agudeza visual,1
+577,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,arteriovenoso,0
+578,AV,año 1996 . En dicho estudio se halló un bloqueo < start > AV < end >,auriculoventricular,0
+579,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,agudeza visual,1
+580,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,arteriovenoso,0
+581,AV,frecuencia de estimulación sin obtener ritmo ventricular propio ( bloqueo < start > AV < end >,auriculoventricular,0
+582,HB,"( 82 % N , 14 % L ) , < start > HB < end >",hemoglobina,1
+583,HB,"( 82 % N , 14 % L ) , < start > HB < end >",hepatitis b,0
+584,L,"presenta 2.900 leucocitos/mm3 ( 82 % N , 14 % < start > L < end >",litro,0
+585,L,"presenta 2.900 leucocitos/mm3 ( 82 % N , 14 % < start > L < end >",leucocito,1
+586,N,. Analíticamente al ingreso presenta 2.900 leucocitos/mm3 ( 82 % < start > N < end >,neutrofilo,1
+587,N,. Analíticamente al ingreso presenta 2.900 leucocitos/mm3 ( 82 % < start > N < end >,nitrogeno,0
+588,FR,"y mucosas . TA 140/80 , FC 100 ppm , < start > FR < end >",factor reumatoidir,0
+589,FR,"y mucosas . TA 140/80 , FC 100 ppm , < start > FR < end >",frecuencia respiratorio,1
+590,CD 117,tumor no expresaba marcadores epiteliales ni otros marcadores como < start > CD 117 < end >,cumulo diferenciacion 117,0
+591,CD 117,tumor no expresaba marcadores epiteliales ni otros marcadores como < start > CD 117 < end >,cluster of differentiation 117,1
+592,mg,"ansiedad asociado , que fue resuelto con éxito con 0,25 < start > mg < end >",miligramo,1
+593,mg,"ansiedad asociado , que fue resuelto con éxito con 0,25 < start > mg < end >",miligramar,0
+594,CD117,"CD5 ) , así como para TdT , CD34 y < start > CD117 < end >",cumulo diferenciacion 117,0
+595,CD117,"CD5 ) , así como para TdT , CD34 y < start > CD117 < end >",cluster of differentiation 117,1
+596,CD117,"CD5 ) , así como para TdT , CD34 y < start > CD117 < end >",cluster diferenciacion 117,0
+597,CD34,"CD3 , CD5 ) , así como para TdT , < start > CD34 < end >",cluster of differentiation 34,1
+598,CD34,"CD3 , CD5 ) , así como para TdT , < start > CD34 < end >",cumulo diferenciacion 34,0
+599,G,dicha punción se emplea la aguja Echotip Wilson-Cook de 19 < start > G < end >,gauge,1
+600,G,dicha punción se emplea la aguja Echotip Wilson-Cook de 19 < start > G < end >,guanine,0
+601,mg,"horas ) , aporte de glucosa , actocortina ( 100 < start > mg < end >",miligramo,1
+602,mg,"horas ) , aporte de glucosa , actocortina ( 100 < start > mg < end >",miligramar,0
+603,mg,La analítica a su ingreso muestra una glucemia de 59 < start > mg < end >,miligramo,1
+604,mg,La analítica a su ingreso muestra una glucemia de 59 < start > mg < end >,miligramar,0
+605,mg,dentro de la normalidad y con tratamiento con hidroaltresona 20 < start > mg < end >,miligramo,1
+606,mg,dentro de la normalidad y con tratamiento con hidroaltresona 20 < start > mg < end >,miligramar,0
+607,mg,"determinación de la función suprarrenal mostraban un cortisol basal 4,0 < start > mg < end >",miligramo,1
+608,mg,"determinación de la función suprarrenal mostraban un cortisol basal 4,0 < start > mg < end >",miligramar,0
+609,mg,( 100 mg i.v . en bolo seguidos de 400 < start > mg < end >,miligramo,1
+610,mg,( 100 mg i.v . en bolo seguidos de 400 < start > mg < end >,miligramar,0
+611,mg,"Na 123 mg/dL , K 8,0 mg/dL , Ca 8,2 < start > mg < end >",miligramo,1
+612,mg,"Na 123 mg/dL , K 8,0 mg/dL , Ca 8,2 < start > mg < end >",miligramar,0
+613,mg,"urea 214 mg/dL , Na 123 mg/dL , K 8,0 < start > mg < end >",miligramo,1
+614,mg,"urea 214 mg/dL , Na 123 mg/dL , K 8,0 < start > mg < end >",miligramar,0
+615,mg,"creatinina 4,32 mg/dL , urea 214 mg/dL , Na 123 < start > mg < end >",miligramo,1
+616,mg,"creatinina 4,32 mg/dL , urea 214 mg/dL , Na 123 < start > mg < end >",miligramar,0
+617,mg,"de 59 mg/dL , creatinina 4,32 mg/dL , urea 214 < start > mg < end >",miligramo,1
+618,mg,"de 59 mg/dL , creatinina 4,32 mg/dL , urea 214 < start > mg < end >",miligramar,0
+619,mg,"ingreso muestra una glucemia de 59 mg/dL , creatinina 4,32 < start > mg < end >",miligramo,1
+620,mg,"ingreso muestra una glucemia de 59 mg/dL , creatinina 4,32 < start > mg < end >",miligramar,0
+621,QT,a 110 lpm con configuración RSR ' y prolongación de < start > QT < end >,q timir,1
+622,QT,a 110 lpm con configuración RSR ' y prolongación de < start > QT < end >,quimioterapia,0
+623,L,") , bicarbonato 14,4 mmol/L , EB - 11,3 mmol/ < start > L < end >",litro,1
+624,L,") , bicarbonato 14,4 mmol/L , EB - 11,3 mmol/ < start > L < end >",leucocito,0
+625,L,"con O2 a 4 litros/minuto ) , bicarbonato 14,4 mmol/ < start > L < end >",litro,1
+626,L,"con O2 a 4 litros/minuto ) , bicarbonato 14,4 mmol/ < start > L < end >",leucocito,0
+627,mmol,"( con O2 a 4 litros/minuto ) , bicarbonato 14,4 < start > mmol < end >",chloryde,0
+628,mmol,"( con O2 a 4 litros/minuto ) , bicarbonato 14,4 < start > mmol < end >",milimol,1
+629,mmol,"litros/minuto ) , bicarbonato 14,4 mmol/L , EB - 11,3 < start > mmol < end >",chloryde,0
+630,mmol,"litros/minuto ) , bicarbonato 14,4 mmol/L , EB - 11,3 < start > mmol < end >",milimol,1
+631,K,"mg/dL , urea 214 mg/dL , Na 123 mg/dL , < start > K < end >",kalium,1
+632,K,"mg/dL , urea 214 mg/dL , Na 123 mg/dL , < start > K < end >",klebsiella,0
+633,mg,de 100 ml de contraste iodado hipoosmolar ( Optiray® 300 < start > mg < end >,miligramo,1
+634,mg,de 100 ml de contraste iodado hipoosmolar ( Optiray® 300 < start > mg < end >,miligramar,0
+635,L,estudio analítico evidenció valores de amilasa pancreática de 469 UI/ < start > L < end >,litro,1
+636,L,estudio analítico evidenció valores de amilasa pancreática de 469 UI/ < start > L < end >,leucocito,0
+637,AV,radiofrecuencia ( RF ) sobre la vía accesoria auriculo-ventricular ( < start > AV < end >,agudeza visual,0
+638,AV,radiofrecuencia ( RF ) sobre la vía accesoria auriculo-ventricular ( < start > AV < end >,arteriovenoso,0
+639,AV,radiofrecuencia ( RF ) sobre la vía accesoria auriculo-ventricular ( < start > AV < end >,auriculoventricular,1
+640,mg,se inicia tratamiento con praziquantel a dosis de 50 m < start > g/ < end >,miligramo,1
+641,mg,se inicia tratamiento con praziquantel a dosis de 50 m < start > g/ < end >,miligramar,0
+642,mg,. En la inmunoquímica la IgE total era de 960 < start > mg < end >,miligramo,1
+643,mg,. En la inmunoquímica la IgE total era de 960 < start > mg < end >,miligramar,0
+644,T2,en las secuencias potenciadas en T1 e hiperintensa en secuencias < start > T2 < end >,tiempo relajacion transversal,1
+645,T2,en las secuencias potenciadas en T1 e hiperintensa en secuencias < start > T2 < end >,tamano 2,0
+646,T1,quiasma . Se mostraba isointensa en las secuencias potenciadas en < start > T1 < end >,tiempo relajacion longitudinal,1
+647,T1,quiasma . Se mostraba isointensa en las secuencias potenciadas en < start > T1 < end >,primero vertebra toracico,0
+648,CHOP,pauta Rituximab y al día siguiente el primer ciclo de < start > CHOP < end >,ciclofosfamido hidroxidaunomicina oncovin prednisono,1
+649,CHOP,pauta Rituximab y al día siguiente el primer ciclo de < start > CHOP < end >,cyclophosphamidir hydroxydaunomycin oncovin prednisoner,0
+650,mg,mg/8 h iv+tiamina 100 mg/24 h iv + metoclopramida 10 < start > mg < end >,miligramo,1
+651,mg,mg/8 h iv+tiamina 100 mg/24 h iv + metoclopramida 10 < start > mg < end >,miligramar,0
+652,mg,la hiperémesis gravídica con piridoxina 10 mg/8 h iv+tiamina 100 < start > mg < end >,miligramo,1
+653,mg,la hiperémesis gravídica con piridoxina 10 mg/8 h iv+tiamina 100 < start > mg < end >,miligramar,0
+654,mg,se instauró tratamiento para la hiperémesis gravídica con piridoxina 10 < start > mg < end >,miligramo,1
+655,mg,se instauró tratamiento para la hiperémesis gravídica con piridoxina 10 < start > mg < end >,miligramar,0
+656,mg,sospecha de QUP grave se inicia tratamiento con prednisona 1 < start > mg < end >,miligramo,1
+657,mg,sospecha de QUP grave se inicia tratamiento con prednisona 1 < start > mg < end >,miligramar,0
+658,mg,"con metrotexato 25mg/semanales/sc , prednisona 5-10mg/día variables e infliximab 5 < start > mg < end >",miligramo,1
+659,mg,"con metrotexato 25mg/semanales/sc , prednisona 5-10mg/día variables e infliximab 5 < start > mg < end >",miligramar,0
+660,mg,"Seguía tratamiento de fondo con metrotexato 25mg/semanales/sc , prednisona 5-10 < start > mg < end >",miligramo,1
+661,mg,"Seguía tratamiento de fondo con metrotexato 25mg/semanales/sc , prednisona 5-10 < start > mg < end >",miligramar,0
+662,mg,por ineficacia . Seguía tratamiento de fondo con metrotexato 25 < start > mg < end >,miligramo,1
+663,mg,por ineficacia . Seguía tratamiento de fondo con metrotexato 25 < start > mg < end >,miligramar,0
+664,mg,"paciente , se pautó tratamiento con AINEs ( ibuprofeno 600 < start > mg < end >",miligramo,1
+665,mg,"paciente , se pautó tratamiento con AINEs ( ibuprofeno 600 < start > mg < end >",miligramar,0
+666,mg,negativa en pleura . Se inició tratamiento con Isoniazida 300 < start > mg < end >,miligramo,1
+667,mg,negativa en pleura . Se inició tratamiento con Isoniazida 300 < start > mg < end >,miligramar,0
+668,mg,"Isoniazida 300 mg/día , Rifampicina 600 mg/día y Pirazinamida 1250 < start > mg < end >",miligramo,1
+669,mg,"Isoniazida 300 mg/día , Rifampicina 600 mg/día y Pirazinamida 1250 < start > mg < end >",miligramar,0
+670,mg,"Se inició tratamiento con Isoniazida 300 mg/día , Rifampicina 600 < start > mg < end >",miligramo,1
+671,mg,"Se inició tratamiento con Isoniazida 300 mg/día , Rifampicina 600 < start > mg < end >",miligramar,0
+672,L,"10,2 mmol/L , ADA 16 U/L , colesterol 1,75 mmol/ < start > L < end >",litro,1
+673,L,"10,2 mmol/L , ADA 16 U/L , colesterol 1,75 mmol/ < start > L < end >",leucocito,0
+674,L,"0,75 ) , glucosa 10,2 mmol/L , ADA 16 U/ < start > L < end >",litro,1
+675,L,"0,75 ) , glucosa 10,2 mmol/L , ADA 16 U/ < start > L < end >",leucocito,0
+676,L,"( cociente pleuroplasmático : 0,75 ) , glucosa 10,2 mmol/ < start > L < end >",litro,1
+677,L,"( cociente pleuroplasmático : 0,75 ) , glucosa 10,2 mmol/ < start > L < end >",leucocito,0
+678,L,"16 U/L , colesterol 1,75 mmol/L y triglicéridos 12,8 mmol/ < start > L < end >",litro,1
+679,L,"16 U/L , colesterol 1,75 mmol/L y triglicéridos 12,8 mmol/ < start > L < end >",leucocito,0
+680,L,"( cociente pleuroplasmático : 0'66 ) , LDH 262 U/ < start > L < end >",litro,1
+681,L,"( cociente pleuroplasmático : 0'66 ) , LDH 262 U/ < start > L < end >",leucocito,0
+682,L,"neutrófilos y 90 % de linfocitos , proteinas 49 gr/ < start > L < end >",litro,1
+683,L,"neutrófilos y 90 % de linfocitos , proteinas 49 gr/ < start > L < end >",leucocito,0
+684,PCR,con tuberculosis tanto en pleura como en pulmón . La < start > PCR < end >,proteina c reactivo,0
+685,PCR,con tuberculosis tanto en pleura como en pulmón . La < start > PCR < end >,polimerase chain reaction,1
+686,mmol,"ADA 16 U/L , colesterol 1,75 mmol/L y triglicéridos 12,8 < start > mmol < end >",chloryde,0
+687,mmol,"ADA 16 U/L , colesterol 1,75 mmol/L y triglicéridos 12,8 < start > mmol < end >",milimol,1
+688,mmol,"glucosa 10,2 mmol/L , ADA 16 U/L , colesterol 1,75 < start > mmol < end >",chloryde,0
+689,mmol,"glucosa 10,2 mmol/L , ADA 16 U/L , colesterol 1,75 < start > mmol < end >",milimol,1
+690,mmol,"U/L ( cociente pleuroplasmático : 0,75 ) , glucosa 10,2 < start > mmol < end >",chloryde,0
+691,mmol,"U/L ( cociente pleuroplasmático : 0,75 ) , glucosa 10,2 < start > mmol < end >",milimol,1
+692,AP,de renina plasmática ( ARP ) y aldosterona plasmática ( < start > AP < end >,aldosterona plasmatico,1
+693,AP,de renina plasmática ( ARP ) y aldosterona plasmática ( < start > AP < end >,atencion primario,0
+694,AP,ecográficamente compatible con angiomiolipoma . Los niveles de ARP y < start > AP < end >,aldosterona plasmatico,1
+695,AP,ecográficamente compatible con angiomiolipoma . Los niveles de ARP y < start > AP < end >,atencion primario,0
+696,mg,PA con el agregado de espironolactona en dosis de 100 < start > mg < end >,miligramo,1
+697,mg,PA con el agregado de espironolactona en dosis de 100 < start > mg < end >,miligramar,0
+698,mg,", creatinina plásmatica de 0,6mg/dl y urea plasmática de 25 < start > mg < end >",miligramo,1
+699,mg,", creatinina plásmatica de 0,6mg/dl y urea plasmática de 25 < start > mg < end >",miligramar,0
+700,mg,"se detectó hipokalemia de 2mEq/l , creatinina plásmatica de 0,6 < start > mg < end >",miligramo,1
+701,mg,"se detectó hipokalemia de 2mEq/l , creatinina plásmatica de 0,6 < start > mg < end >",miligramar,0
+702,CD34,para vimentina y mostraron una positividad fuerte y difusa para < start > CD34 < end >,cluster of differentiation 34,0
+703,CD34,para vimentina y mostraron una positividad fuerte y difusa para < start > CD34 < end >,cumulo diferenciacion 34,1
+704,AP,de renina plasmática ( ARP ) y aldosterona plasmática ( < start > AP < end >,aldosterona plasmatico,0
+705,AP,de renina plasmática ( ARP ) y aldosterona plasmática ( < start > AP < end >,atencion primario,1
+706,AP,ecográficamente compatible con angiomiolipoma . Los niveles de ARP y < start > AP < end >,aldosterona plasmatico,0
+707,AP,ecográficamente compatible con angiomiolipoma . Los niveles de ARP y < start > AP < end >,atencion primario,1
+708,mg,tratamiento con immunosupresores tipo azatioprina a la dosis de 100 < start > mg < end >,miligramo,1
+709,mg,tratamiento con immunosupresores tipo azatioprina a la dosis de 100 < start > mg < end >,miligramar,0
+710,EC,de pérdida de peso . El paciente fue diagnosticado de < start > EC < end >,enfermedad celiaco,1
+711,EC,de pérdida de peso . El paciente fue diagnosticado de < start > EC < end >,esofagitis candidiasico,0
+712,EC,submucoso constituido por linfocitos . El paciente fue diagnosticado de < start > EC < end >,enfermedad celiaco,1
+713,EC,submucoso constituido por linfocitos . El paciente fue diagnosticado de < start > EC < end >,esofagitis candidiasico,0
+714,EC,una hermana del paciente y dos sobrinos presentaban también una < start > EC < end >,enfermedad celiaco,1
+715,EC,una hermana del paciente y dos sobrinos presentaban también una < start > EC < end >,esofagitis candidiasico,0
+716,HLA,) . El tipaje HLA fue positivo para DQ2 ( < start > HLA < end >,histocompatibilityr locus antiger,0
+717,HLA,) . El tipaje HLA fue positivo para DQ2 ( < start > HLA < end >,human leucocyte antiger,1
+718,HLA,y anti-músculo liso positivos ( 1/80 ) . El tipaje < start > HLA < end >,histocompatibilityr locus antiger,0
+719,HLA,y anti-músculo liso positivos ( 1/80 ) . El tipaje < start > HLA < end >,human leucocyte antiger,1
+720,PET,RMN ) y la tomografía por emisión de positrones ( < start > PET < end >,positr emissior tomograph,1
+721,PET,RMN ) y la tomografía por emisión de positrones ( < start > PET < end >,emision positron,0
+722,DQ2,( 1/80 ) . El tipaje HLA fue positivo para < start > DQ2 < end >,dq antiger,1
+723,DQ2,( 1/80 ) . El tipaje HLA fue positivo para < start > DQ2 < end >,dq antigen 2,0
+724,Q,"en V4 y algo menor en V5 , sin ondas < start > Q < end >",glutamina,0
+725,Q,"en V4 y algo menor en V5 , sin ondas < start > Q < end >",onda q,1
+726,PR,hay anomalías en la onda P ni en el segmento < start > PR < end >,onda p onda r,1
+727,PR,hay anomalías en la onda P ni en el segmento < start > PR < end >,polimialgia reumatico,0
+728,V4,V3-V6 . Observamos un marcado descenso del segmento ST en < start > V4 < end >,cuarto derivacion precordial,1
+729,V4,V3-V6 . Observamos un marcado descenso del segmento ST en < start > V4 < end >,derivacion precordial 4,0
+730,ST,las derivaciones V3-V6 . Observamos un marcado descenso del segmento < start > ST < end >,segmento onda onda t,0
+731,ST,las derivaciones V3-V6 . Observamos un marcado descenso del segmento < start > ST < end >,segmento st,1
+732,ST,las derivaciones V3-V6 . Observamos un marcado descenso del segmento < start > ST < end >,segmento electrocardiograma onda t,0
+733,T2,El diámetro máximo del tumor primario era 3 cm ( < start > T2 < end >,tiempo relajacion transversal,0
+734,T2,El diámetro máximo del tumor primario era 3 cm ( < start > T2 < end >,tamano 2,1
+735,N,"con hemoglobina de 9,4 g/dL , y 22.500 leucocitos ( < start > N < end >",neutrofilo,1
+736,N,"con hemoglobina de 9,4 g/dL , y 22.500 leucocitos ( < start > N < end >",nitrogeno,0
+737,mg,"IgA 23 mg/dl , IgM 17 mg/dl e IgE 10,8 < start > mg < end >",miligramo,1
+738,mg,"IgA 23 mg/dl , IgM 17 mg/dl e IgE 10,8 < start > mg < end >",miligramar,0
+739,mg,"IgG 153 mg/dl , IgA 23 mg/dl , IgM 17 < start > mg < end >",miligramo,1
+740,mg,"IgG 153 mg/dl , IgA 23 mg/dl , IgM 17 < start > mg < end >",miligramar,0
+741,mg,"de subclases descendida : IgG 153 mg/dl , IgA 23 < start > mg < end >",miligramo,1
+742,mg,"de subclases descendida : IgG 153 mg/dl , IgA 23 < start > mg < end >",miligramar,0
+743,mg,absoluta de inmunoglobulinas y de subclases descendida : IgG 153 < start > mg < end >,miligramo,1
+744,mg,absoluta de inmunoglobulinas y de subclases descendida : IgG 153 < start > mg < end >,miligramar,0
+745,mg,. Se inicia tratamiento con gammaglobulina intravenosa mensual ( 400 < start > mg < end >,miligramo,1
+746,mg,. Se inicia tratamiento con gammaglobulina intravenosa mensual ( 400 < start > mg < end >,miligramar,0
+747,mg,"su centro de atención primaria presenta una calcemia de 15,35 < start > mg < end >",miligramo,0
+748,mg,"su centro de atención primaria presenta una calcemia de 15,35 < start > mg < end >",miligramar,1
+749,mg,"6,3 mg/dL ( v.r . entre 4,2 mg/dL y 5,4 < start > mg < end >",miligramo,0
+750,mg,"6,3 mg/dL ( v.r . entre 4,2 mg/dL y 5,4 < start > mg < end >",miligramar,1
+751,mg,"calcio iónico de 6,3 mg/dL ( v.r . entre 4,2 < start > mg < end >",miligramo,0
+752,mg,"calcio iónico de 6,3 mg/dL ( v.r . entre 4,2 < start > mg < end >",miligramar,1
+753,mg,"calcemia de 16,1 mg/dL con un calcio iónico de 6,3 < start > mg < end >",miligramo,0
+754,mg,"calcemia de 16,1 mg/dL con un calcio iónico de 6,3 < start > mg < end >",miligramar,1
+755,mg,"se realiza una analítica que muestra una calcemia de 16,1 < start > mg < end >",miligramo,0
+756,mg,"se realiza una analítica que muestra una calcemia de 16,1 < start > mg < end >",miligramar,1
+757,mg,"referencia [ v.r . ] entre 8,8 mg/dL y 10,2 < start > mg < end >",miligramo,0
+758,mg,"referencia [ v.r . ] entre 8,8 mg/dL y 10,2 < start > mg < end >",miligramar,1
+759,mg,"( valores de referencia [ v.r . ] entre 8,8 < start > mg < end >",miligramo,0
+760,mg,"( valores de referencia [ v.r . ] entre 8,8 < start > mg < end >",miligramar,1
+761,mg,"su centro de atención primaria presenta una calcemia de 15,35 < start > mg < end >",miligramo,1
+762,mg,"su centro de atención primaria presenta una calcemia de 15,35 < start > mg < end >",miligramar,0
+763,mg,"6,3 mg/dL ( v.r . entre 4,2 mg/dL y 5,4 < start > mg < end >",miligramo,1
+764,mg,"6,3 mg/dL ( v.r . entre 4,2 mg/dL y 5,4 < start > mg < end >",miligramar,0
+765,mg,"calcio iónico de 6,3 mg/dL ( v.r . entre 4,2 < start > mg < end >",miligramo,1
+766,mg,"calcio iónico de 6,3 mg/dL ( v.r . entre 4,2 < start > mg < end >",miligramar,0
+767,mg,"calcemia de 16,1 mg/dL con un calcio iónico de 6,3 < start > mg < end >",miligramo,1
+768,mg,"calcemia de 16,1 mg/dL con un calcio iónico de 6,3 < start > mg < end >",miligramar,0
+769,mg,"se realiza una analítica que muestra una calcemia de 16,1 < start > mg < end >",miligramo,1
+770,mg,"se realiza una analítica que muestra una calcemia de 16,1 < start > mg < end >",miligramar,0
+771,mg,"referencia [ v.r . ] entre 8,8 mg/dL y 10,2 < start > mg < end >",miligramo,1
+772,mg,"referencia [ v.r . ] entre 8,8 mg/dL y 10,2 < start > mg < end >",miligramar,0
+773,mg,"( valores de referencia [ v.r . ] entre 8,8 < start > mg < end >",miligramo,1
+774,mg,"( valores de referencia [ v.r . ] entre 8,8 < start > mg < end >",miligramar,0
+775,PTH,"objetiva : VSG 106 mm/h , albúmina 3,16 g/dL , < start > PTH < end >",parathyroid hormoner,0
+776,PTH,"objetiva : VSG 106 mm/h , albúmina 3,16 g/dL , < start > PTH < end >",paratohormona,1
+777,CD34,"7 y EMA en las células epiteliales , y C < start > D34 < end >",cluster of differentiation 34,0
+778,CD34,"7 y EMA en las células epiteliales , y C < start > D34 < end >",cumulo diferenciacion 34,1
+779,CD34,"citoqueratina 7 , citoqueratina de amplio espectro , C < start > D34 , < end >",cluster of differentiation 34,0
+780,CD34,"citoqueratina 7 , citoqueratina de amplio espectro , C < start > D34 , < end >",cumulo diferenciacion 34,1
+781,QT,se añadió RT local . A pesar del tratamiento de < start > QT < end >,q timir,0
+782,QT,se añadió RT local . A pesar del tratamiento de < start > QT < end >,quimioterapia,1
+783,QT,por células plasmáticas . El paciente estaba siendo sometido a < start > QT < end >,q timir,0
+784,QT,por células plasmáticas . El paciente estaba siendo sometido a < start > QT < end >,quimioterapia,1
+785,QT,"Metotrexate , Citarabina y Metilprednisolana . Esta segunda línea de < start > QT < end >",q timir,0
+786,QT,"Metotrexate , Citarabina y Metilprednisolana . Esta segunda línea de < start > QT < end >",quimioterapia,1
+787,QT,) . Se suspendió la RT y se sustituyó la < start > QT < end >,q timir,0
+788,QT,) . Se suspendió la RT y se sustituyó la < start > QT < end >,quimioterapia,1
+789,MM,años de edad ingresado en el Servicio de Hematología por < start > MM < end >,mieloma multiple,1
+790,MM,años de edad ingresado en el Servicio de Hematología por < start > MM < end >,movimiento mano,0
+791,TTPA,( por debajo de 20.000/mm3 ) . Los TP y < start > TTPA < end >,tromboplastina parcial activado,0
+792,TTPA,( por debajo de 20.000/mm3 ) . Los TP y < start > TTPA < end >,tiempo parcial tromboplastina activado,1
+793,TTPA,protrombina ( TP ) y de tromboplastina parcial activada ( < start > TTPA < end >,tromboplastina parcial activado,0
+794,TTPA,protrombina ( TP ) y de tromboplastina parcial activada ( < start > TTPA < end >,tiempo parcial tromboplastina activado,1
+795,PL,eran normales . A las pocas horas de esta última < start > PL < end >,puncion lumbar,1
+796,PL,eran normales . A las pocas horas de esta última < start > PL < end >,percepcion luz,0
+797,PL,eran normales . A las pocas horas de esta última < start > PL < end >,periodo lavado,0
+798,PL,un transplante de médula ósea . Se realizó una nueva < start > PL < end >,puncion lumbar,1
+799,PL,un transplante de médula ósea . Se realizó una nueva < start > PL < end >,percepcion luz,0
+800,PL,un transplante de médula ósea . Se realizó una nueva < start > PL < end >,periodo lavado,0
+801,PL,se realizó en ningún caso transfusión plaquetaria previa a la < start > PL < end >,puncion lumbar,1
+802,PL,se realizó en ningún caso transfusión plaquetaria previa a la < start > PL < end >,percepcion luz,0
+803,PL,se realizó en ningún caso transfusión plaquetaria previa a la < start > PL < end >,periodo lavado,0
+804,PL,tratamiento quimioterápico intravenoso de inducción y quimioterapia profiláctica intratecal mediante < start > PL < end >,puncion lumbar,1
+805,PL,tratamiento quimioterápico intravenoso de inducción y quimioterapia profiláctica intratecal mediante < start > PL < end >,percepcion luz,0
+806,PL,tratamiento quimioterápico intravenoso de inducción y quimioterapia profiláctica intratecal mediante < start > PL < end >,periodo lavado,0
+807,TTPA,( por debajo de 20.000/mm3 ) . Los TP y < start > TTPA < end >,tromboplastina parcial activado,1
+808,TTPA,( por debajo de 20.000/mm3 ) . Los TP y < start > TTPA < end >,tiempo parcial tromboplastina activado,0
+809,TTPA,protrombina ( TP ) y de tromboplastina parcial activada ( < start > TTPA < end >,tromboplastina parcial activado,1
+810,TTPA,protrombina ( TP ) y de tromboplastina parcial activada ( < start > TTPA < end >,tiempo parcial tromboplastina activado,0
+811,L,". En la analítica presentaba una hemoglobina de 12,4 g/ < start > L < end >",litro,1
+812,L,". En la analítica presentaba una hemoglobina de 12,4 g/ < start > L < end >",leucocito,0
+813,mg,24 millones de unidades en perfusión contínua y Gentamicina 80 < start > mg < end >,miligramo,1
+814,mg,24 millones de unidades en perfusión contínua y Gentamicina 80 < start > mg < end >,miligramar,0
+815,c,distal autosómica dominante ( ATR-AD ) . Dicha mutación ( < start > c < end >,coding dno,1
+816,c,distal autosómica dominante ( ATR-AD ) . Dicha mutación ( < start > c < end >,coding dno sequence,0
+817,c,distal autosómica dominante ( ATR-AD ) . Dicha mutación ( < start > c < end >,comprimido,0
+818,mg,"pg/ml ; vitamina D 18,27 ng/ml y ácido úrico 8,8 < start > mg < end >",miligramo,1
+819,mg,"pg/ml ; vitamina D 18,27 ng/ml y ácido úrico 8,8 < start > mg < end >",miligramar,0
+820,mg,"analíticas diferidas mostraban : calcio 7,4 mg/dl ; fósforo 5,6 < start > mg < end >",miligramo,1
+821,mg,"analíticas diferidas mostraban : calcio 7,4 mg/dl ; fósforo 5,6 < start > mg < end >",miligramar,0
+822,mg,"normales . Otras determinaciones analíticas diferidas mostraban : calcio 7,4 < start > mg < end >",miligramo,1
+823,mg,"normales . Otras determinaciones analíticas diferidas mostraban : calcio 7,4 < start > mg < end >",miligramar,0
+824,mg,"0,69 mmol/l ( normal 1,13-1,32 ) ; magnesio de 1 < start > mg < end >",miligramo,1
+825,mg,"0,69 mmol/l ( normal 1,13-1,32 ) ; magnesio de 1 < start > mg < end >",miligramar,0
+826,mg,"la función renal ( creatinina 5,1 mg/dl y urea 245 < start > mg < end >",miligramo,1
+827,mg,"la función renal ( creatinina 5,1 mg/dl y urea 245 < start > mg < end >",miligramar,0
+828,mg,"confirmó el deterioro de la función renal ( creatinina 5,1 < start > mg < end >",miligramo,1
+829,mg,"confirmó el deterioro de la función renal ( creatinina 5,1 < start > mg < end >",miligramar,0
+830,mg,"era de 6 años antes con una creatinina de 1,5 < start > mg < end >",miligramo,1
+831,mg,"era de 6 años antes con una creatinina de 1,5 < start > mg < end >",miligramar,0
+832,mg,"un control analítico y se detectó una creatinina de 4,6 < start > mg < end >",miligramo,1
+833,mg,"un control analítico y se detectó una creatinina de 4,6 < start > mg < end >",miligramar,0
+834,mg,permaneció asintomática y pudo ser dada de alta con 500 < start > mg < end >,miligramo,1
+835,mg,permaneció asintomática y pudo ser dada de alta con 500 < start > mg < end >,miligramar,0
+836,mg,"status focal , sin respuesta a diacepam ( hasta 10 < start > mg < end >",miligramo,1
+837,mg,"status focal , sin respuesta a diacepam ( hasta 10 < start > mg < end >",miligramar,0
+838,mg,ondas agudas ) . Se inició tratamiento con levetiracetam 250 < start > mg < end >,miligramo,1
+839,mg,ondas agudas ) . Se inició tratamiento con levetiracetam 250 < start > mg < end >,miligramar,0
+840,mg,"mg/dl ; calcio iónico corregido 1,16 mmol/l y magnesio 1,9 < start > mg < end >",miligramo,1
+841,mg,"mg/dl ; calcio iónico corregido 1,16 mmol/l y magnesio 1,9 < start > mg < end >",miligramar,0
+842,mg,"; pH 7,43 ; bicarbonato 24,6 mmol/l ; calcio 8,6 < start > mg < end >",miligramo,1
+843,mg,"; pH 7,43 ; bicarbonato 24,6 mmol/l ; calcio 8,6 < start > mg < end >",miligramar,0
+844,mg,"normal . La analítica en sangre fue : creatinina 3,6 < start > mg < end >",miligramo,1
+845,mg,"normal . La analítica en sangre fue : creatinina 3,6 < start > mg < end >",miligramar,0
+846,mg,"; fósforo 2,9 , PTHi 103 ng/ml y magnesio 1,9 < start > mg < end >",miligramo,1
+847,mg,"; fósforo 2,9 , PTHi 103 ng/ml y magnesio 1,9 < start > mg < end >",miligramar,0
+848,mg,"; pH 7,43 ; bicarbonato 24,6 mmol/l ; calcio 8,6 < start > mg < end >",miligramo,1
+849,mg,"; pH 7,43 ; bicarbonato 24,6 mmol/l ; calcio 8,6 < start > mg < end >",miligramar,0
+850,mg,"ingreso . Los valores analíticos al alta fueron creatinina 3,6 < start > mg < end >",miligramo,1
+851,mg,"ingreso . Los valores analíticos al alta fueron creatinina 3,6 < start > mg < end >",miligramar,0
+852,mg,", la calciuria < 4 mg/kg y la oxaluria 10 < start > mg < end >",miligramo,1
+853,mg,", la calciuria < 4 mg/kg y la oxaluria 10 < start > mg < end >",miligramar,0
+854,mg,"la uricosuria de 600 mg , la calciuria < 4 < start > mg < end >",miligramo,1
+855,mg,"la uricosuria de 600 mg , la calciuria < 4 < start > mg < end >",miligramar,0
+856,mg,"de creatinina de 12 ml/min , la uricosuria de 600 < start > mg < end >",miligramo,1
+857,mg,"de creatinina de 12 ml/min , la uricosuria de 600 < start > mg < end >",miligramar,0
+858,mmol,"pCO2 de 20 mmHg ; calcio iónico corregido de 0,69 < start > mmol < end >",chloryde,0
+859,mmol,"pCO2 de 20 mmHg ; calcio iónico corregido de 0,69 < start > mmol < end >",milimol,1
+860,mmol,"3,5 mmol/l ; pH de 7,08 ; bicarbonato de 5,9 < start > mmol < end >",chloryde,0
+861,mmol,"3,5 mmol/l ; pH de 7,08 ; bicarbonato de 5,9 < start > mmol < end >",milimol,1
+862,mmol,", junto con sodio de 124mmol/l ; potasio de 3,5 < start > mmol < end >",chloryde,0
+863,mmol,", junto con sodio de 124mmol/l ; potasio de 3,5 < start > mmol < end >",milimol,1
+864,mmol,"mmol/l ; calcio 8,6 mg/dl ; calcio iónico corregido 1,16 < start > mmol < end >",chloryde,0
+865,mmol,"mmol/l ; calcio 8,6 mg/dl ; calcio iónico corregido 1,16 < start > mmol < end >",milimol,1
+866,mmol,"; potasio 4,4 mmol/l ; pH 7,43 ; bicarbonato 24,6 < start > mmol < end >",chloryde,0
+867,mmol,"; potasio 4,4 mmol/l ; pH 7,43 ; bicarbonato 24,6 < start > mmol < end >",milimol,1
+868,mmol,"creatinina 3,6 mg/dl ; sodio 141 mmol/l ; potasio 4,4 < start > mmol < end >",chloryde,0
+869,mmol,"creatinina 3,6 mg/dl ; sodio 141 mmol/l ; potasio 4,4 < start > mmol < end >",milimol,1
+870,mmol,"en sangre fue : creatinina 3,6 mg/dl ; sodio 141 < start > mmol < end >",chloryde,0
+871,mmol,"en sangre fue : creatinina 3,6 mg/dl ; sodio 141 < start > mmol < end >",milimol,1
+872,mmol,"mmol/l ; calcio 8,6 mg/dl ; calcio iónico corregido 1,16 < start > mmol < end >",chloryde,0
+873,mmol,"mmol/l ; calcio 8,6 mg/dl ; calcio iónico corregido 1,16 < start > mmol < end >",milimol,1
+874,mmol,"; potasio 4,4 mmol/l ; pH 7,43 ; bicarbonato 24,6 < start > mmol < end >",chloryde,0
+875,mmol,"; potasio 4,4 mmol/l ; pH 7,43 ; bicarbonato 24,6 < start > mmol < end >",milimol,1
+876,mmol,"creatinina 3,6 mg/dl ; sodio 142 mmol/l ; potasio 4,4 < start > mmol < end >",chloryde,0
+877,mmol,"creatinina 3,6 mg/dl ; sodio 142 mmol/l ; potasio 4,4 < start > mmol < end >",milimol,1
+878,mmol,"analíticos al alta fueron creatinina 3,6 mg/dl ; sodio 142 < start > mmol < end >",chloryde,0
+879,mmol,"analíticos al alta fueron creatinina 3,6 mg/dl ; sodio 142 < start > mmol < end >",milimol,1
+880,ST,". El electrocardiograma mostraba ritmo sinusal , con elevación de < start > ST < end >",segmento onda onda t,0
+881,ST,". El electrocardiograma mostraba ritmo sinusal , con elevación de < start > ST < end >",segmento st,1
+882,ST,". El electrocardiograma mostraba ritmo sinusal , con elevación de < start > ST < end >",segmento electrocardiograma onda t,0
+883,A,dominante ( ATR-AD ) . Dicha mutación ( c.1766G > < start > A < end >,adeniner,1
+884,A,dominante ( ATR-AD ) . Dicha mutación ( c.1766G > < start > A < end >,adenina,0
+885,G,autosómica dominante ( ATR-AD ) . Dicha mutación ( c.1766 < start > G < end >,gauge,0
+886,G,autosómica dominante ( ATR-AD ) . Dicha mutación ( c.1766 < start > G < end >,guanine,1
+887,CA,"con Stratus OCT-3 ( Carl Zeiss Meditec , Dublin , < start > CA < end >",carbohydrate antiger,0
+888,CA,"con Stratus OCT-3 ( Carl Zeiss Meditec , Dublin , < start > CA < end >",california,1
+889,CA,"con Stratus OCT-3 ( Carl Zeiss Meditec , Dublin , < start > CA < end >",cancer antiger,0
+890,AV,y otro con baja visión . La agudeza visual ( < start > AV < end >,agudeza visual,1
+891,AV,y otro con baja visión . La agudeza visual ( < start > AV < end >,arteriovenoso,0
+892,AV,y otro con baja visión . La agudeza visual ( < start > AV < end >,auriculoventricular,0
+893,AV,"con hipoacusia neurosensorial , remitido por baja agudeza visual ( < start > AV < end >",agudeza visual,1
+894,AV,"con hipoacusia neurosensorial , remitido por baja agudeza visual ( < start > AV < end >",arteriovenoso,0
+895,AV,"con hipoacusia neurosensorial , remitido por baja agudeza visual ( < start > AV < end >",auriculoventricular,0
+896,c,confirmándose de manera definitiva que es portadora de la mutación < start > c < end >,coding dno,1
+897,c,confirmándose de manera definitiva que es portadora de la mutación < start > c < end >,coding dno sequence,0
+898,c,confirmándose de manera definitiva que es portadora de la mutación < start > c < end >,comprimido,0
+899,mg,", hemoglobina 13,9 mg/dl , proteína C reactiva < 2,9 < start > mg < end >",miligramo,1
+900,mg,", hemoglobina 13,9 mg/dl , proteína C reactiva < 2,9 < start > mg < end >",miligramar,0
+901,mg,"neutrófilos 2370 μl ( 44 % ) , hemoglobina 13,9 < start > mg < end >",miligramo,1
+902,mg,"neutrófilos 2370 μl ( 44 % ) , hemoglobina 13,9 < start > mg < end >",miligramar,0
+903,AV,padecimiento actual . A la exploración oftalmológica se encontró una < start > AV < end >,agudeza visual,1
+904,AV,padecimiento actual . A la exploración oftalmológica se encontró una < start > AV < end >,arteriovenoso,0
+905,AV,padecimiento actual . A la exploración oftalmológica se encontró una < start > AV < end >,auriculoventricular,0
+906,AV,"evolución , acompañada de disminución de la agudeza visual ( < start > AV < end >",agudeza visual,1
+907,AV,"evolución , acompañada de disminución de la agudeza visual ( < start > AV < end >",arteriovenoso,0
+908,AV,"evolución , acompañada de disminución de la agudeza visual ( < start > AV < end >",auriculoventricular,0
+909,FO,y distribución irregular . El diagnóstico histopatológico fue FO . < start > Co < end >,fondo ojo,0
+910,FO,y distribución irregular . El diagnóstico histopatológico fue FO . < start > Co < end >,fibroma osificante,1
+911,mg,Niega antecedentes de hepatitis B o C. Medicado con 160 < start > mg < end >,miligramo,1
+912,mg,Niega antecedentes de hepatitis B o C. Medicado con 160 < start > mg < end >,miligramar,0
+913,mg,"El último control analítico tenía una creatinina sérica de 1,2 < start > mg < end >",miligramo,1
+914,mg,"El último control analítico tenía una creatinina sérica de 1,2 < start > mg < end >",miligramar,0
+915,mg,", Leuc 13.800/µL , Neut 76,1 % , Creat 1,4 < start > mg < end >",miligramo,1
+916,mg,", Leuc 13.800/µL , Neut 76,1 % , Creat 1,4 < start > mg < end >",miligramar,0
+917,L,"104 UI/L , TGP 74 UI/L , LDH 1.890 UI/ < start > L < end >",litro,1
+918,L,"104 UI/L , TGP 74 UI/L , LDH 1.890 UI/ < start > L < end >",leucocito,0
+919,L,"1,4 mg/dL , TGO 104 UI/L , TGP 74 UI/ < start > L < end >",litro,1
+920,L,"1,4 mg/dL , TGO 104 UI/L , TGP 74 UI/ < start > L < end >",leucocito,0
+921,L,"76,1 % , Creat 1,4 mg/dL , TGO 104 UI/ < start > L < end >",litro,1
+922,L,"76,1 % , Creat 1,4 mg/dL , TGO 104 UI/ < start > L < end >",leucocito,0
+923,CD34,"eran : intensamente positivas para : vimentina , CD < start > 34 y < end >",cluster of differentiation 34,0
+924,CD34,"eran : intensamente positivas para : vimentina , CD < start > 34 y < end >",cumulo diferenciacion 34,1
+925,AV,", abriéndose las tarsorrafias . La exploración de OD mostró < start > AV < end >",agudeza visual,1
+926,AV,", abriéndose las tarsorrafias . La exploración de OD mostró < start > AV < end >",arteriovenoso,0
+927,AV,", abriéndose las tarsorrafias . La exploración de OD mostró < start > AV < end >",auriculoventricular,0
+928,BAL,alteraciones ni lesiones de la mucosa . Se realizaron tres < start > BAL < end >,lavado bronquioalveolar,0
+929,BAL,alteraciones ni lesiones de la mucosa . Se realizaron tres < start > BAL < end >,bronchoalveolar lavage,1
+930,mg,"edemox® , Chiesi wassermann , Madrid , Spain ) 125 < start > mg < end >",miligramo,1
+931,mg,"edemox® , Chiesi wassermann , Madrid , Spain ) 125 < start > mg < end >",miligramar,0
+932,AV,desarrollo de un edema macular quístico que había reducido la < start > AV < end >,agudeza visual,1
+933,AV,desarrollo de un edema macular quístico que había reducido la < start > AV < end >,arteriovenoso,0
+934,AV,desarrollo de un edema macular quístico que había reducido la < start > AV < end >,auriculoventricular,0
+935,AV,"de iniciar el tratamiento , el paciente refería disminución de < start > AV < end >",agudeza visual,1
+936,AV,"de iniciar el tratamiento , el paciente refería disminución de < start > AV < end >",arteriovenoso,0
+937,AV,"de iniciar el tratamiento , el paciente refería disminución de < start > AV < end >",auriculoventricular,0
+938,AV,íntegra la cápsula posterior y logrando una agudeza visual ( < start > AV < end >,agudeza visual,1
+939,AV,íntegra la cápsula posterior y logrando una agudeza visual ( < start > AV < end >,arteriovenoso,0
+940,AV,íntegra la cápsula posterior y logrando una agudeza visual ( < start > AV < end >,auriculoventricular,0
+941,AV,"veces al día . A las dos semanas , la < start > AV < end >",agudeza visual,1
+942,AV,"veces al día . A las dos semanas , la < start > AV < end >",arteriovenoso,0
+943,AV,"veces al día . A las dos semanas , la < start > AV < end >",auriculoventricular,0
+944,D,de infarto pulmonar . Riñones de peso normal ( D < start > : < end >,aspartic acid,1
+945,D,de infarto pulmonar . Riñones de peso normal ( D < start > : < end >,derecho,0
+946,D,arteria pulmonar . Pulmones de peso discretamente elevado ( D < start > : < end >,aspartic acid,1
+947,D,arteria pulmonar . Pulmones de peso discretamente elevado ( D < start > : < end >,derecho,0
+948,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,isoleucina,0
+949,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,izquierdo,1
+950,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,yodo,0
+951,I,de peso normal ( D : 180 g ; I < start > : < end >,isoleucina,0
+952,I,de peso normal ( D : 180 g ; I < start > : < end >,izquierdo,1
+953,I,de peso normal ( D : 180 g ; I < start > : < end >,yodo,0
+954,D,de infarto pulmonar . Riñones de peso normal ( D < start > : < end >,aspartic acid,0
+955,D,de infarto pulmonar . Riñones de peso normal ( D < start > : < end >,derecho,1
+956,D,arteria pulmonar . Pulmones de peso discretamente elevado ( D < start > : < end >,aspartic acid,0
+957,D,arteria pulmonar . Pulmones de peso discretamente elevado ( D < start > : < end >,derecho,1
+958,T1,por proyectil de arma de fuego a nivel de vértebra < start > T1 < end >,tiempo relajacion longitudinal,0
+959,T1,por proyectil de arma de fuego a nivel de vértebra < start > T1 < end >,primero vertebra toracico,1
+960,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,isoleucina,0
+961,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,izquierdo,0
+962,I,peso discretamente elevado ( D : 640 g ; I < start > : < end >,yodo,1
+963,I,de peso normal ( D : 180 g ; I < start > : < end >,isoleucina,0
+964,I,de peso normal ( D : 180 g ; I < start > : < end >,izquierdo,0
+965,I,de peso normal ( D : 180 g ; I < start > : < end >,yodo,1
+966,T,que se observa un proceso necrótico asociado a proliferación linfoide < start > T < end >,treonina,0
+967,T,que se observa un proceso necrótico asociado a proliferación linfoide < start > T < end >,thymus,1
+968,T,que se observa un proceso necrótico asociado a proliferación linfoide < start > T < end >,onda t,0
+969,FR,"ANTI-RNP , ANTI-SSB , ANTI-Sm , ANTI-RO , ANTI-CENTROMERO , < start > FR < end >",factor reumatoidir,1
+970,FR,"ANTI-RNP , ANTI-SSB , ANTI-Sm , ANTI-RO , ANTI-CENTROMERO , < start > FR < end >",frecuencia respiratorio,0
+971,C.,", VHB , VHC , Salmonella typhi y paratyphi , < start > C. < end >",citrobacter,0
+972,C.,", VHB , VHC , Salmonella typhi y paratyphi , < start > C. < end >",chlamydia,1
+973,A,la mutación 1691 G-A del factor V y 20210 G- < start > A < end >,adeniner,0
+974,A,la mutación 1691 G-A del factor V y 20210 G- < start > A < end >,adenina,1
+975,A,realizándose posteriormente una electroforesis que identificó la mutación 1691 G- < start > A < end >,adeniner,0
+976,A,realizándose posteriormente una electroforesis que identificó la mutación 1691 G- < start > A < end >,adenina,1
+977,AV,que acudió a urgencias por déficit de agudeza visual ( < start > AV < end >,agudeza visual,1
+978,AV,que acudió a urgencias por déficit de agudeza visual ( < start > AV < end >,arteriovenoso,0
+979,AV,que acudió a urgencias por déficit de agudeza visual ( < start > AV < end >,auriculoventricular,0
+980,AV,"fotocoagulación , ya que no desarrolló isquemias retinianas . La < start > AV < end >",agudeza visual,1
+981,AV,"fotocoagulación , ya que no desarrolló isquemias retinianas . La < start > AV < end >",arteriovenoso,0
+982,AV,"fotocoagulación , ya que no desarrolló isquemias retinianas . La < start > AV < end >",auriculoventricular,0
+983,AV,AV ) en ojo derecho ( OD ) . La < start > AV < end >,agudeza visual,1
+984,AV,AV ) en ojo derecho ( OD ) . La < start > AV < end >,arteriovenoso,0
+985,AV,AV ) en ojo derecho ( OD ) . La < start > AV < end >,auriculoventricular,0
+986,G,identificó la mutación 1691 G-A del factor V y 20210 < start > G < end >,gauge,0
+987,G,identificó la mutación 1691 G-A del factor V y 20210 < start > G < end >,guanine,1
+988,G,", realizándose posteriormente una electroforesis que identificó la mutación 1691 < start > G < end >",gauge,0
+989,G,", realizándose posteriormente una electroforesis que identificó la mutación 1691 < start > G < end >",guanine,1
+990,PCR,"1,5 ) . En el análisis genético se amplificaron mediante < start > PCR < end >",proteina c reactivo,0
+991,PCR,"1,5 ) . En el análisis genético se amplificaron mediante < start > PCR < end >",polimerase chain reaction,1
+992,PCR,abultados en forma de mazas . La amplificación genómica ( < start > PCR < end >,proteina c reactivo,0
+993,PCR,abultados en forma de mazas . La amplificación genómica ( < start > PCR < end >,polimerase chain reaction,1
+994,P.,"( 1o ) , S. Sprophiticus ( 2o ) , < start > P. < end >",proteus,1
+995,P.,"( 1o ) , S. Sprophiticus ( 2o ) , < start > P. < end >",plasmodium,0
+996,E.,Cultivo de orina : estéril . Cultivos de semen : < start > E. < end >,enterobacter,0
+997,E.,Cultivo de orina : estéril . Cultivos de semen : < start > E. < end >,escherichia,1
+998,CA19-9,"Los marcadores tumorales ( antígeno carcinoembrionario [ CEA ] , < start > CA19-9 < end >",cancer antiger 199,0
+999,CA19-9,"Los marcadores tumorales ( antígeno carcinoembrionario [ CEA ] , < start > CA19-9 < end >",carbohydrate antigen 199,1
+1000,mg,"el complemento , normal . La IgG fue de 450 < start > mg < end >",miligramo,1
+1001,mg,"el complemento , normal . La IgG fue de 450 < start > mg < end >",miligramar,0
+1002,mg,diagnosticado de PR y se indicó tratamiento con prednisona 30 < start > mg < end >,miligramo,1
+1003,mg,diagnosticado de PR y se indicó tratamiento con prednisona 30 < start > mg < end >,miligramar,0
+1004,mg,"última revisión de Nefrología , en mantenimiento con prednisona 10 < start > mg < end >",miligramo,1
+1005,mg,"última revisión de Nefrología , en mantenimiento con prednisona 10 < start > mg < end >",miligramar,0
+1006,mg,que se decidió incrementar la dosis de prednisona a 10 < start > mg < end >,miligramo,1
+1007,mg,que se decidió incrementar la dosis de prednisona a 10 < start > mg < end >,miligramar,0
+1008,mg,"mes después de mantener prednisona a la dosis de 2,5 < start > mg < end >",miligramo,1
+1009,mg,"mes después de mantener prednisona a la dosis de 2,5 < start > mg < end >",miligramar,0
+1010,mg,"pauta descendente de prednisona hasta alcanzar la dosis de 2,5 < start > mg < end >",miligramo,1
+1011,mg,"pauta descendente de prednisona hasta alcanzar la dosis de 2,5 < start > mg < end >",miligramar,0
+1012,mg,que obligó a incrementar la dosis de prednisona a 50 < start > mg < end >,miligramo,1
+1013,mg,que obligó a incrementar la dosis de prednisona a 50 < start > mg < end >,miligramar,0
+1014,mg,se encontraba en terapia de mantenimiento con prednisona de 5 < start > mg < end >,miligramo,1
+1015,mg,se encontraba en terapia de mantenimiento con prednisona de 5 < start > mg < end >,miligramar,0
+1016,mg,la biopsia se incrementó la dosis de prednisona a 1 < start > mg < end >,miligramo,1
+1017,mg,la biopsia se incrementó la dosis de prednisona a 1 < start > mg < end >,miligramar,0
+1018,mg,"; albúmina : 2,2 g/dl ; proteínas totales : 5 < start > mg < end >",miligramo,1
+1019,mg,"; albúmina : 2,2 g/dl ; proteínas totales : 5 < start > mg < end >",miligramar,0
+1020,mg,mg/dl ; colesterol : 354 mg/dl ; triglicéridos : 104 < start > mg < end >,miligramo,1
+1021,mg,mg/dl ; colesterol : 354 mg/dl ; triglicéridos : 104 < start > mg < end >,miligramar,0
+1022,mg,"destacaba : creatinina : 0,8 mg/dl ; colesterol : 354 < start > mg < end >",miligramo,1
+1023,mg,"destacaba : creatinina : 0,8 mg/dl ; colesterol : 354 < start > mg < end >",miligramar,0
+1024,mg,"analítica en sangre al ingreso destacaba : creatinina : 0,8 < start > mg < end >",miligramo,1
+1025,mg,"analítica en sangre al ingreso destacaba : creatinina : 0,8 < start > mg < end >",miligramar,0
+1026,mg,"cada 12 horas , levotiroxina 25 mg/día , clortalidona 12,5 < start > mg < end >",miligramo,1
+1027,mg,"cada 12 horas , levotiroxina 25 mg/día , clortalidona 12,5 < start > mg < end >",miligramar,0
+1028,mg,", enalapril 5 mg cada 12 horas , levotiroxina 25 < start > mg < end >",miligramo,1
+1029,mg,", enalapril 5 mg cada 12 horas , levotiroxina 25 < start > mg < end >",miligramar,0
+1030,mg,"prednisona 5 mg , omeprazol 20 mg/día , enalapril 5 < start > mg < end >",miligramo,1
+1031,mg,"prednisona 5 mg , omeprazol 20 mg/día , enalapril 5 < start > mg < end >",miligramar,0
+1032,mg,"encontraba en terapia con prednisona 5 mg , omeprazol 20 < start > mg < end >",miligramo,1
+1033,mg,"encontraba en terapia con prednisona 5 mg , omeprazol 20 < start > mg < end >",miligramar,0
+1034,mg,"PR ) , se encontraba en terapia con prednisona 5 < start > mg < end >",miligramo,1
+1035,mg,"PR ) , se encontraba en terapia con prednisona 5 < start > mg < end >",miligramar,0
+1036,PR,inguinal bilateral . En agosto de 2010 fue diagnosticado de < start > PR < end >,onda p onda r,0
+1037,PR,inguinal bilateral . En agosto de 2010 fue diagnosticado de < start > PR < end >,polimialgia reumatico,1
+1038,PR,Servicio de Nefrología ( 8 meses después de diagnosticarse la < start > PR < end >,onda p onda r,0
+1039,PR,Servicio de Nefrología ( 8 meses después de diagnosticarse la < start > PR < end >,polimialgia reumatico,1
+1040,C3,"los marcadores estudiados ( IgG , IgA , IgM y < start > C3 < end >",tercero componente complemento,1
+1041,C3,"los marcadores estudiados ( IgG , IgA , IgM y < start > C3 < end >",tercero vertebra cervical,0
+1042,C3,"los marcadores estudiados ( IgG , IgA , IgM y < start > C3 < end >",complemento 3,0
+1043,C3,"los marcadores estudiados ( IgG , IgA , IgM y < start > C3 < end >",nivel c subnivel 3,0
+1044,CA,[ PSA ] ) estaban dentro de valores normales . < start > CA < end >,carbohydrate antiger,0
+1045,CA,[ PSA ] ) estaban dentro de valores normales . < start > CA < end >,california,0
+1046,CA,[ PSA ] ) estaban dentro de valores normales . < start > CA < end >,cancer antiger,1
+1047,mg,"ingreso por anuria , ascenso de creatinina ( basal 0,7 < start > mg < end >",miligramo,1
+1048,mg,"ingreso por anuria , ascenso de creatinina ( basal 0,7 < start > mg < end >",miligramar,0
+1049,mg,", y un descenso de creatinina de 2,7 a 1,8 < start > mg < end >",miligramo,1
+1050,mg,", y un descenso de creatinina de 2,7 a 1,8 < start > mg < end >",miligramar,0
+1051,mg,"36 h de la creatinina de 4,2 mg/dl a 3,3 < start > mg < end >",miligramo,1
+1052,mg,"36 h de la creatinina de 4,2 mg/dl a 3,3 < start > mg < end >",miligramar,0
+1053,mg,"con descenso en 36 h de la creatinina de 4,2 < start > mg < end >",miligramo,1
+1054,mg,"con descenso en 36 h de la creatinina de 4,2 < start > mg < end >",miligramar,0
+1055,mg,estabilización de la tendencia ascendente de la creatinina en 4 < start > mg < end >,miligramo,1
+1056,mg,estabilización de la tendencia ascendente de la creatinina en 4 < start > mg < end >,miligramar,0
+1057,mg,"ascenso de creatinina ( basal 0,7 mg/dl , posterior 2,3 < start > mg < end >",miligramo,1
+1058,mg,"ascenso de creatinina ( basal 0,7 mg/dl , posterior 2,3 < start > mg < end >",miligramar,0
+1059,mg,con fluconazol 100 mg/día durante 21 días y pantoprazol 40 < start > mg < end >,miligramo,1
+1060,mg,con fluconazol 100 mg/día durante 21 días y pantoprazol 40 < start > mg < end >,miligramar,0
+1061,mg,esofagitis candidiásica . La paciente fue tratada con fluconazol 100 < start > mg < end >,miligramo,1
+1062,mg,esofagitis candidiásica . La paciente fue tratada con fluconazol 100 < start > mg < end >,miligramar,0
+1063,mg,. Se instauró tratamiento con medidas higiénico-dietéticas y omeprazol 20 < start > mg < end >,miligramo,1
+1064,mg,. Se instauró tratamiento con medidas higiénico-dietéticas y omeprazol 20 < start > mg < end >,miligramar,0
+1065,EC,", logrando la remisión completa . Ante el diagnóstico de < start > EC < end >",enfermedad celiaco,0
+1066,EC,", logrando la remisión completa . Ante el diagnóstico de < start > EC < end >",esofagitis candidiasico,1
+1067,EC,"inmunocompetente . En la literatura revisada , los pacientes con < start > EC < end >",enfermedad celiaco,0
+1068,EC,"inmunocompetente . En la literatura revisada , los pacientes con < start > EC < end >",esofagitis candidiasico,1
+1069,EC,( IBP ) . Finalmente la paciente fue diagnosticada de < start > EC < end >,enfermedad celiaco,0
+1070,EC,( IBP ) . Finalmente la paciente fue diagnosticada de < start > EC < end >,esofagitis candidiasico,1
+1071,K,"glucemia : 229 mg/dl , Na : 147 mmol/L , < start > K < end >",kalium,1
+1072,K,"glucemia : 229 mg/dl , Na : 147 mmol/L , < start > K < end >",klebsiella,0
+1073,L,", glucemia : 229 mg/dl , Na : 147 mmol/ < start > L < end >",litro,1
+1074,L,", glucemia : 229 mg/dl , Na : 147 mmol/ < start > L < end >",leucocito,0
+1075,L,", amilasa : 1.485 Ul/l , ALAT : 1.008 U/ < start > L < end >",litro,1
+1076,L,", amilasa : 1.485 Ul/l , ALAT : 1.008 U/ < start > L < end >",leucocito,0
+1077,L,", Na : 147 mmol/L , K : 3,2 mmol/ < start > L < end >",litro,1
+1078,L,", Na : 147 mmol/L , K : 3,2 mmol/ < start > L < end >",leucocito,0
+1079,mmol,"l , glucemia : 229 mg/dl , Na : 147 < start > mmol < end >",chloryde,0
+1080,mmol,"l , glucemia : 229 mg/dl , Na : 147 < start > mmol < end >",milimol,1
+1081,mmol,"mg/dl , Na : 147 mmol/L , K : 3,2 < start > mmol < end >",chloryde,0
+1082,mmol,"mg/dl , Na : 147 mmol/L , K : 3,2 < start > mmol < end >",milimol,1
+1083,mg,"neutró-filos . Amilasa 286 UI/ l , glucemia : 229 < start > mg < end >",miligramo,1
+1084,mg,"neutró-filos . Amilasa 286 UI/ l , glucemia : 229 < start > mg < end >",miligramar,0
+1085,mg,", bicarbonato : 22,6 mEq/l y ácido láctico de 33 < start > mg < end >",miligramo,1
+1086,mg,", bicarbonato : 22,6 mEq/l y ácido láctico de 33 < start > mg < end >",miligramar,0
+1087,mg,"lpm , tensión arterial de 80/60 . Glucemia : 430 < start > mg < end >",miligramo,1
+1088,mg,"lpm , tensión arterial de 80/60 . Glucemia : 430 < start > mg < end >",miligramar,0
+1089,CK,"3,2 mmol/L , LDH : 570 y creatín quinasa ( < start > CK < end >",creatinar kinar,1
+1090,CK,"3,2 mmol/L , LDH : 570 y creatín quinasa ( < start > CK < end >",cytokeratin,0
+1091,CK,", ALAT : 1.008 U/L , LDH : 8.102 , < start > CK < end >",creatinar kinar,1
+1092,CK,", ALAT : 1.008 U/L , LDH : 8.102 , < start > CK < end >",cytokeratin,0
+1093,CK,"3,2 mmol/L , LDH : 570 y creatín quinasa ( < start > CK < end >",creatinar kinar,0
+1094,CK,"3,2 mmol/L , LDH : 570 y creatín quinasa ( < start > CK < end >",cytokeratin,1
+1095,CK,", ALAT : 1.008 U/L , LDH : 8.102 , < start > CK < end >",creatinar kinar,0
+1096,CK,", ALAT : 1.008 U/L , LDH : 8.102 , < start > CK < end >",cytokeratin,1
+1097,E.,clínica como analíticamente . En los hemocultivos crece un E < start > . < end >,enterobacter,0
+1098,E.,clínica como analíticamente . En los hemocultivos crece un E < start > . < end >,escherichia,1
+1099,F,técnica transvesical y catéter doble J ( 26 cm/6 F < start > ) < end >,filamentous,0
+1100,F,técnica transvesical y catéter doble J ( 26 cm/6 F < start > ) < end >,fenilalanina,0
+1101,F,técnica transvesical y catéter doble J ( 26 cm/6 F < start > ) < end >,french,1
+1102,F,"la indemnidad del uréter distal izquierdo con catéter ureteral 5F < start > , < end >",filamentous,0
+1103,F,"la indemnidad del uréter distal izquierdo con catéter ureteral 5F < start > , < end >",fenilalanina,0
+1104,F,"la indemnidad del uréter distal izquierdo con catéter ureteral 5F < start > , < end >",french,1
+1105,mg,. Como antecedente personal destaca el tratamiento con Topamax 150 < start > mg < end >,miligramo,1
+1106,mg,. Como antecedente personal destaca el tratamiento con Topamax 150 < start > mg < end >,miligramar,0
+1107,AV,2 meses por epilepsia refractaria a terapia convencional . La < start > AV < end >,agudeza visual,1
+1108,AV,2 meses por epilepsia refractaria a terapia convencional . La < start > AV < end >,arteriovenoso,0
+1109,AV,2 meses por epilepsia refractaria a terapia convencional . La < start > AV < end >,auriculoventricular,0
+1110,G,"procedimiento , se decidió colocación de catéter epidural de 20 < start > G < end >",gauge,1
+1111,G,"procedimiento , se decidió colocación de catéter epidural de 20 < start > G < end >",guanine,0
+1112,G,catéter epidural de 20G mediante aguja de Tuohy de 18 < start > G < end >,gauge,1
+1113,G,catéter epidural de 20G mediante aguja de Tuohy de 18 < start > G < end >,guanine,0
+1114,G,"procedimiento , se decidió colocación de catéter epidural de 20 < start > G < end >",gauge,0
+1115,G,"procedimiento , se decidió colocación de catéter epidural de 20 < start > G < end >",guanine,1
+1116,G,catéter epidural de 20G mediante aguja de Tuohy de 18 < start > G < end >,gauge,0
+1117,G,catéter epidural de 20G mediante aguja de Tuohy de 18 < start > G < end >,guanine,1
+1118,mg,"8 ml de bupivacaína 0,25 % sin vasoconstrictor y 100 < start > mg < end >",miligramo,1
+1119,mg,"8 ml de bupivacaína 0,25 % sin vasoconstrictor y 100 < start > mg < end >",miligramar,0
+1120,mg,"y vacuolización de neutrófilos ; PCR 58,1 mg/l ( 88,2 < start > mg < end >",miligramo,1
+1121,mg,"y vacuolización de neutrófilos ; PCR 58,1 mg/l ( 88,2 < start > mg < end >",miligramar,0
+1122,mg,", linfocitos activados y vacuolización de neutrófilos ; PCR 58,1 < start > mg < end >",miligramo,1
+1123,mg,", linfocitos activados y vacuolización de neutrófilos ; PCR 58,1 < start > mg < end >",miligramar,0
+1124,PCR,"en casco , linfocitos activados y vacuolización de neutrófilos ; < start > PCR < end >",proteina c reactivo,1
+1125,PCR,"en casco , linfocitos activados y vacuolización de neutrófilos ; < start > PCR < end >",polimerase chain reaction,0
+1126,mg,"metoclopramida , mejorando el dolor gástrico , y pantoprazol 40 < start > mg < end >",miligramo,1
+1127,mg,"metoclopramida , mejorando el dolor gástrico , y pantoprazol 40 < start > mg < end >",miligramar,0
+1128,EVA,comenzó a las 4 h con dolor 7/10 en la < start > EVA < end >,escala visual analogico,1
+1129,EVA,comenzó a las 4 h con dolor 7/10 en la < start > EVA < end >,escala analogico visual,0
+1130,EVA,pierna afectada de 8/10 en la escala visual analógica ( < start > EVA < end >,escala visual analogico,1
+1131,EVA,pierna afectada de 8/10 en la escala visual analógica ( < start > EVA < end >,escala analogico visual,0
+1132,μg,enero de 2008 Durogesic® 100 μg/h más fentanilo transmucosa 400 < start > μg < end >,microgramo,1
+1133,μg,enero de 2008 Durogesic® 100 μg/h más fentanilo transmucosa 400 < start > μg < end >,picogramo,0
+1134,μg,") , se prescribe en enero de 2008 Durogesic® 100 < start > μg < end >",microgramo,1
+1135,μg,") , se prescribe en enero de 2008 Durogesic® 100 < start > μg < end >",picogramo,0
+1136,μg,2 días se le prescribe a la paciente Durogesic® 100 < start > μg < end >,microgramo,1
+1137,μg,2 días se le prescribe a la paciente Durogesic® 100 < start > μg < end >,picogramo,0
+1138,μg,la dosis de fentanilo oral transmucosa de 400 a 600 < start > μg < end >,microgramo,1
+1139,μg,la dosis de fentanilo oral transmucosa de 400 a 600 < start > μg < end >,picogramo,0
+1140,mg,"psicopatológica se consigue con Depakine 1300 mg/día , Olanzapina 20 < start > mg < end >",miligramo,1
+1141,mg,"psicopatológica se consigue con Depakine 1300 mg/día , Olanzapina 20 < start > mg < end >",miligramar,0
+1142,mg,"Depakine 1300 mg/día , Olanzapina 20 mg/día , Risperidona 6 < start > mg < end >",miligramo,1
+1143,mg,"Depakine 1300 mg/día , Olanzapina 20 mg/día , Risperidona 6 < start > mg < end >",miligramar,0
+1144,mg,HSA . La estabilización psicopatológica se consigue con Depakine 1300 < start > mg < end >,miligramo,1
+1145,mg,HSA . La estabilización psicopatológica se consigue con Depakine 1300 < start > mg < end >,miligramar,0
+1146,CI,"reflejan un nivel `` normal '' , en torno a < start > CI < end >",coeficiente intelectual,1
+1147,CI,"reflejan un nivel `` normal '' , en torno a < start > CI < end >",coeficiente inteligencia,0
+1148,HBc,"Antígeno de superficie VHB , Anticuerpo anti-HBs , Anticuerpo anti- < start > HBc < end >",hepatitis b corar,1
+1149,HBc,"Antígeno de superficie VHB , Anticuerpo anti-HBs , Anticuerpo anti- < start > HBc < end >",hemoglobina c,0
+1150,AV,oftalmológica la enfermedad permanecía inactiva y la agudeza visual ( < start > AV < end >,agudeza visual,1
+1151,AV,oftalmológica la enfermedad permanecía inactiva y la agudeza visual ( < start > AV < end >,arteriovenoso,0
+1152,AV,oftalmológica la enfermedad permanecía inactiva y la agudeza visual ( < start > AV < end >,auriculoventricular,0
+1153,HBs,") negativos . Antígeno de superficie VHB , Anticuerpo anti- < start > HBs < end >",hepatitis b superficie,1
+1154,HBs,") negativos . Antígeno de superficie VHB , Anticuerpo anti- < start > HBs < end >",hemoglobina,0
+1155,AV,( AV ) . A la exploración oftalmológica presentaba una < start > AV < end >,agudeza visual,1
+1156,AV,( AV ) . A la exploración oftalmológica presentaba una < start > AV < end >,arteriovenoso,0
+1157,AV,( AV ) . A la exploración oftalmológica presentaba una < start > AV < end >,auriculoventricular,0
+1158,AV,"primaria , que refería pérdida progresiva de agudeza visual ( < start > AV < end >",agudeza visual,1
+1159,AV,"primaria , que refería pérdida progresiva de agudeza visual ( < start > AV < end >",arteriovenoso,0
+1160,AV,"primaria , que refería pérdida progresiva de agudeza visual ( < start > AV < end >",auriculoventricular,0
+1161,AV,parcial de la neovascularización corneal con injerto transparente . Su < start > AV < end >,agudeza visual,1
+1162,AV,parcial de la neovascularización corneal con injerto transparente . Su < start > AV < end >,arteriovenoso,0
+1163,AV,parcial de la neovascularización corneal con injerto transparente . Su < start > AV < end >,auriculoventricular,0
+1164,mg,% tópica : 4 veces/día y prednisona oral : 50 < start > mg < end >,miligramo,1
+1165,mg,% tópica : 4 veces/día y prednisona oral : 50 < start > mg < end >,miligramar,0
+1166,mg,"compasivo , se inició tratamiento tópico con bevacizumab ( 25 < start > mg < end >",miligramo,1
+1167,mg,"compasivo , se inició tratamiento tópico con bevacizumab ( 25 < start > mg < end >",miligramar,0
+1168,mg,ni fiebre y permitiendo el descenso de corticoides hasta 4 < start > mg < end >,miligramo,1
+1169,mg,ni fiebre y permitiendo el descenso de corticoides hasta 4 < start > mg < end >,miligramar,0
+1170,mg,"de entonces la paciente mantiene el tratamiento con etanercept 0,4 < start > mg < end >",miligramo,1
+1171,mg,"de entonces la paciente mantiene el tratamiento con etanercept 0,4 < start > mg < end >",miligramar,0
+1172,mg,"activa , por lo que se decide iniciar etanercept 0,4 < start > mg < end >",miligramo,1
+1173,mg,"activa , por lo que se decide iniciar etanercept 0,4 < start > mg < end >",miligramar,0
+1174,mg,"metotrexate 7,5 mg/semanal subcutáneo junto con folinato cálcico , 7 < start > mg < end >",miligramo,1
+1175,mg,"metotrexate 7,5 mg/semanal subcutáneo junto con folinato cálcico , 7 < start > mg < end >",miligramar,0
+1176,mg,"A los 7 meses de tratamiento se añade metotrexate 7,5 < start > mg < end >",miligramo,1
+1177,mg,"A los 7 meses de tratamiento se añade metotrexate 7,5 < start > mg < end >",miligramar,0
+1178,mg,la dosis de canakinumab a la óptima prevista de 4 < start > mg < end >,miligramo,1
+1179,mg,la dosis de canakinumab a la óptima prevista de 4 < start > mg < end >,miligramar,0
+1180,mg,evolución . Se aumenta la dosis de canakinumab a 3 < start > mg < end >,miligramo,1
+1181,mg,evolución . Se aumenta la dosis de canakinumab a 3 < start > mg < end >,miligramar,0
+1182,mg,", que permite reducir la dosis de corticoide a 8 < start > mg < end >",miligramo,1
+1183,mg,", que permite reducir la dosis de corticoide a 8 < start > mg < end >",miligramar,0
+1184,mg,tolerancia y buena respuesta al biológico a dosis de 2 < start > mg < end >,miligramo,1
+1185,mg,tolerancia y buena respuesta al biológico a dosis de 2 < start > mg < end >,miligramar,0
+1186,mg,La CFT acuerda aprobarlo y se inicia tratamiento a 2 < start > mg < end >,miligramo,1
+1187,mg,La CFT acuerda aprobarlo y se inicia tratamiento a 2 < start > mg < end >,miligramar,0
+1188,mg,en niños de más de 4 años administrado a 4 < start > mg < end >,miligramo,1
+1189,mg,en niños de más de 4 años administrado a 4 < start > mg < end >,miligramar,0
+1190,mg,de receptor de interleucina 1 ( Anakinra ) a 1 < start > mg < end >,miligramo,1
+1191,mg,de receptor de interleucina 1 ( Anakinra ) a 1 < start > mg < end >,miligramar,0
+1192,mg,iniciándose tratamiento con prednisona oral a 2 mg/kg/día ( 10 < start > mg < end >,miligramo,1
+1193,mg,iniciándose tratamiento con prednisona oral a 2 mg/kg/día ( 10 < start > mg < end >,miligramar,0
+1194,mg,"sugieren AlJs , iniciándose tratamiento con prednisona oral a 2 < start > mg < end >",miligramo,1
+1195,mg,"sugieren AlJs , iniciándose tratamiento con prednisona oral a 2 < start > mg < end >",miligramar,0
+1196,PL,tóxicos en orina fueron negativos . La punción lumbar ( < start > PL < end >,puncion lumbar,1
+1197,PL,tóxicos en orina fueron negativos . La punción lumbar ( < start > PL < end >,percepcion luz,0
+1198,PL,tóxicos en orina fueron negativos . La punción lumbar ( < start > PL < end >,periodo lavado,0
+1199,PL,con relación a teratoma no objetivado . Se repitió la < start > PL < end >,puncion lumbar,1
+1200,PL,con relación a teratoma no objetivado . Se repitió la < start > PL < end >,percepcion luz,0
+1201,PL,con relación a teratoma no objetivado . Se repitió la < start > PL < end >,periodo lavado,0
+1202,PL,lo que se suspendió la hemina ) . Se repitió < start > PL < end >,puncion lumbar,1
+1203,PL,lo que se suspendió la hemina ) . Se repitió < start > PL < end >,percepcion luz,0
+1204,PL,lo que se suspendió la hemina ) . Se repitió < start > PL < end >,periodo lavado,0
+1205,PL,", presentaba soliloquios y risas inmotivadas . Se repitió la < start > PL < end >",puncion lumbar,1
+1206,PL,", presentaba soliloquios y risas inmotivadas . Se repitió la < start > PL < end >",percepcion luz,0
+1207,PL,", presentaba soliloquios y risas inmotivadas . Se repitió la < start > PL < end >",periodo lavado,0
+1208,mg,siendo tratada como un cuadro depresivo y pautándosele sertralina 50 < start > mg < end >,miligramo,1
+1209,mg,siendo tratada como un cuadro depresivo y pautándosele sertralina 50 < start > mg < end >,miligramar,0
+1210,mg,"autorreferenciales , iniciándose ziprasidona 40 mg/día , llegando hasta 160 < start > mg < end >",miligramo,1
+1211,mg,"autorreferenciales , iniciándose ziprasidona 40 mg/día , llegando hasta 160 < start > mg < end >",miligramar,0
+1212,mg,catalogó como una depresión psicótica y se pautó venlafaxina 75 < start > mg < end >,miligramo,1
+1213,mg,catalogó como una depresión psicótica y se pautó venlafaxina 75 < start > mg < end >,miligramar,0
+1214,mg,"agitación psicomotriz e ideas delirantes autorreferenciales , iniciándose ziprasidona 40 < start > mg < end >",miligramo,1
+1215,mg,"agitación psicomotriz e ideas delirantes autorreferenciales , iniciándose ziprasidona 40 < start > mg < end >",miligramar,0
+1216,mg,se comenzó el tratamiento con talidomida a dosis de 100 < start > mg < end >,miligramo,1
+1217,mg,se comenzó el tratamiento con talidomida a dosis de 100 < start > mg < end >,miligramar,0
+1218,CD8,"determinadas por inmunohistoquímica era : CD45+/cCD3+/Granzime B +/CD56+ , CD20-/CD4-/ < start > CD8 < end >",cluster of differentiation 8,0
+1219,CD8,"determinadas por inmunohistoquímica era : CD45+/cCD3+/Granzime B +/CD56+ , CD20-/CD4-/ < start > CD8 < end >",cumulo diferenciacion 8,1
+1220,CD4,"determinadas por inmunohistoquímica era : CD45+/cCD3+/Granzime B +/CD56+ , CD20-/ < start > CD4 < end >",cluster of differentiation 8,0
+1221,CD4,"determinadas por inmunohistoquímica era : CD45+/cCD3+/Granzime B +/CD56+ , CD20-/ < start > CD4 < end >",cumulo diferenciacion 4,1
+1222,PCR,En el estudio molecular no se detectó mediante técnica de < start > PCR < end >,proteina c reactivo,0
+1223,PCR,En el estudio molecular no se detectó mediante técnica de < start > PCR < end >,polimerase chain reaction,1
+1224,mg,"492 000/µl , proteína C reactiva ( PCR ) 8,9 < start > mg < end >",miligramo,1
+1225,mg,"492 000/µl , proteína C reactiva ( PCR ) 8,9 < start > mg < end >",miligramar,0
+1226,mg,", agregando en las siguientes 24 horas aciclovir ( 60 < start > mg < end >",miligramo,1
+1227,mg,", agregando en las siguientes 24 horas aciclovir ( 60 < start > mg < end >",miligramar,0
+1228,mg,para tratamiento antibiótico intravenoso con cefotaxima y ampicilina ( 200 < start > mg < end >,miligramo,1
+1229,mg,para tratamiento antibiótico intravenoso con cefotaxima y ampicilina ( 200 < start > mg < end >,miligramar,0
+1230,mg,"realiza punción lumbar : glucosa 51,3 mg/dl , proteínas 133,9 < start > mg < end >",miligramo,1
+1231,mg,"realiza punción lumbar : glucosa 51,3 mg/dl , proteínas 133,9 < start > mg < end >",miligramar,0
+1232,mg,"8,9 mg/l . Se realiza punción lumbar : glucosa 51,3 < start > mg < end >",miligramo,1
+1233,mg,"8,9 mg/l . Se realiza punción lumbar : glucosa 51,3 < start > mg < end >",miligramar,0
+1234,PCR,"% , plaquetas 492 000/µl , proteína C reactiva ( < start > PCR < end >",proteina c reactivo,1
+1235,PCR,"% , plaquetas 492 000/µl , proteína C reactiva ( < start > PCR < end >",polimerase chain reaction,0
+1236,mmol,"capilar : pH 7,32 , PCO2 43,3 y HCO3 21,8 < start > mmol < end >",chloryde,0
+1237,mmol,"capilar : pH 7,32 , PCO2 43,3 y HCO3 21,8 < start > mmol < end >",milimol,1
+1238,mg,"228 mg/dl ; LDL 105,2 mg/dl ; triglicéridos 304 m < start > g/ < end >",miligramo,1
+1239,mg,"228 mg/dl ; LDL 105,2 mg/dl ; triglicéridos 304 m < start > g/ < end >",miligramar,0
+1240,mg,"U/l ; colesterol total 228 mg/dl ; LDL 105,2 m < start > g/ < end >",miligramo,1
+1241,mg,"U/l ; colesterol total 228 mg/dl ; LDL 105,2 m < start > g/ < end >",miligramar,0
+1242,mg,U/l ; GGT 880 U/l ; colesterol total 228 m < start > g/ < end >,miligramo,1
+1243,mg,U/l ; GGT 880 U/l ; colesterol total 228 m < start > g/ < end >,miligramar,0
+1244,AV,"valproico . En la exploración oftalmológica , el paciente tiene < start > AV < end >",agudeza visual,1
+1245,AV,"valproico . En la exploración oftalmológica , el paciente tiene < start > AV < end >",arteriovenoso,0
+1246,AV,"valproico . En la exploración oftalmológica , el paciente tiene < start > AV < end >",auriculoventricular,0
+1247,P,"mEq , K 60 mEq , Mg 15 mEq , < start > P < end >",presion,0
+1248,P,"mEq , K 60 mEq , Mg 15 mEq , < start > P < end >",fosforo,1
+1249,P,"mg/dl ; Na 143 mEq/l ; K 2,6 mEq/l ; < start > P < end >",presion,0
+1250,P,"mg/dl ; Na 143 mEq/l ; K 2,6 mEq/l ; < start > P < end >",fosforo,1
+1251,N,"fue : volumen total 2.500 ml , 1.500 kcal , < start > N < end >",neutrofilo,0
+1252,N,"fue : volumen total 2.500 ml , 1.500 kcal , < start > N < end >",nitrogeno,1
+1253,mmol,"K 6,9 mEq/l ; Cl 73 mEq/l ; HCO3 17 < start > mmol < end >",chloryde,0
+1254,mmol,"K 6,9 mEq/l ; Cl 73 mEq/l ; HCO3 17 < start > mmol < end >",milimol,1
+1255,K,"g/dl ; Ca 10,5 mg/dl ; Na 104 mEq/l ; < start > K < end >",kalium,1
+1256,K,"g/dl ; Ca 10,5 mg/dl ; Na 104 mEq/l ; < start > K < end >",klebsiella,0
+1257,K,"mg/dl ; creatinina 0,5 mg/dl ; Na 143 mEq/l ; < start > K < end >",kalium,1
+1258,K,"mg/dl ; creatinina 0,5 mg/dl ; Na 143 mEq/l ; < start > K < end >",klebsiella,0
+1259,K,"g , lípidos 40 g , Na 120 mEq , < start > K < end >",kalium,1
+1260,K,"g , lípidos 40 g , Na 120 mEq , < start > K < end >",klebsiella,0
+1261,mg,": hemoglobina 12,3 g/dl ; leucocitos 10.400/mm3 ; glucemia 102 < start > mg < end >",miligramo,1
+1262,mg,": hemoglobina 12,3 g/dl ; leucocitos 10.400/mm3 ; glucemia 102 < start > mg < end >",miligramar,0
+1263,mg,suprarrenal . El cortisol tras estímulo con ACTH ( 250 < start > mg < end >,miligramo,1
+1264,mg,suprarrenal . El cortisol tras estímulo con ACTH ( 250 < start > mg < end >,miligramar,0
+1265,mg,"K 2,6 mEq/l ; P 0,5 mg/dl ; Mg 1,5 < start > mg < end >",miligramo,1
+1266,mg,"K 2,6 mEq/l ; P 0,5 mg/dl ; Mg 1,5 < start > mg < end >",miligramar,0
+1267,mg,"Na 143 mEq/l ; K 2,6 mEq/l ; P 0,5 < start > mg < end >",miligramo,1
+1268,mg,"Na 143 mEq/l ; K 2,6 mEq/l ; P 0,5 < start > mg < end >",miligramar,0
+1269,mg,"% de granulocitos ; glucemia 91 mg/dl ; creatinina 0,5 < start > mg < end >",miligramo,1
+1270,mg,"% de granulocitos ; glucemia 91 mg/dl ; creatinina 0,5 < start > mg < end >",miligramar,0
+1271,mg,"12.800 leucocitos con 71,5 % de granulocitos ; glucemia 91 < start > mg < end >",miligramo,1
+1272,mg,"12.800 leucocitos con 71,5 % de granulocitos ; glucemia 91 < start > mg < end >",miligramar,0
+1273,mg,"Mg 15 mEq , P 15 mEq , Zn 12 < start > mg < end >",miligramo,1
+1274,mg,"Mg 15 mEq , P 15 mEq , Zn 12 < start > mg < end >",miligramar,0
+1275,mg,"2,9 mg/dl ; proteínas totales 9,3 g/dl ; Ca 10,5 < start > mg < end >",miligramo,1
+1276,mg,"2,9 mg/dl ; proteínas totales 9,3 g/dl ; Ca 10,5 < start > mg < end >",miligramar,0
+1277,mg,"glucemia 102 mg/dl ; urea 426 mg/dl ; creatinina 2,9 < start > mg < end >",miligramo,1
+1278,mg,"glucemia 102 mg/dl ; urea 426 mg/dl ; creatinina 2,9 < start > mg < end >",miligramar,0
+1279,mg,; leucocitos 10.400/mm3 ; glucemia 102 mg/dl ; urea 426 < start > mg < end >,miligramo,1
+1280,mg,; leucocitos 10.400/mm3 ; glucemia 102 mg/dl ; urea 426 < start > mg < end >,miligramar,0
+1281,m,". La exploración en Consultas muestra una talla de 1,65 < start > m < end >",metro,1
+1282,m,". La exploración en Consultas muestra una talla de 1,65 < start > m < end >",mitosis,0
+1283,mg,"linfangiectasia intestinal primaria , pautándose tratamiento domiciliario con Furosemida 40 < start > mg < end >",miligramo,1
+1284,mg,"linfangiectasia intestinal primaria , pautándose tratamiento domiciliario con Furosemida 40 < start > mg < end >",miligramar,0
+1285,mg,. Dada de alta con tratamiento diurético con espironolactona 100 < start > mg < end >,miligramo,1
+1286,mg,. Dada de alta con tratamiento diurético con espironolactona 100 < start > mg < end >,miligramar,0
+1287,mg,"totales 5,2 g/L , albúmina 3,7 g/L , calcio 8,5 < start > mg < end >",miligramo,1
+1288,mg,"totales 5,2 g/L , albúmina 3,7 g/L , calcio 8,5 < start > mg < end >",miligramar,0
+1289,mg,"Furosemida 40 mg , Espironolactona 100 mg y Prednisona 30 < start > mg < end >",miligramo,1
+1290,mg,"Furosemida 40 mg , Espironolactona 100 mg y Prednisona 30 < start > mg < end >",miligramar,0
+1291,mg,"pautándose tratamiento domiciliario con Furosemida 40 mg , Espironolactona 100 < start > mg < end >",miligramo,1
+1292,mg,"pautándose tratamiento domiciliario con Furosemida 40 mg , Espironolactona 100 < start > mg < end >",miligramar,0
+1293,mg,con tratamiento diurético con espironolactona 100 mg y prednisona 40 < start > mg < end >,miligramo,1
+1294,mg,con tratamiento diurético con espironolactona 100 mg y prednisona 40 < start > mg < end >,miligramar,0
+1295,mg,"totales 3,4 g/dL , albúmina 2,1 g/dL , calcio 7,3 < start > mg < end >",miligramo,1
+1296,mg,"totales 3,4 g/dL , albúmina 2,1 g/dL , calcio 7,3 < start > mg < end >",miligramar,0
+1297,HB,", hipocalcemia . Las determinaciones de perfil celíaco , Ag < start > HB < end >",hemoglobina,0
+1298,HB,", hipocalcemia . Las determinaciones de perfil celíaco , Ag < start > HB < end >",hepatitis b,1
+1299,L,"séricos de proteínas totales 5,2 g/L , albúmina 3,7 g/ < start > L < end >",litro,1
+1300,L,"séricos de proteínas totales 5,2 g/L , albúmina 3,7 g/ < start > L < end >",leucocito,0
+1301,L,", siendo los valores séricos de proteínas totales 5,2 g/ < start > L < end >",litro,1
+1302,L,", siendo los valores séricos de proteínas totales 5,2 g/ < start > L < end >",leucocito,0
+1303,L,", con IMC 19,3 kg/m2 , tras evacuación de 14 < start > L < end >",litro,1
+1304,L,", con IMC 19,3 kg/m2 , tras evacuación de 14 < start > L < end >",leucocito,0
+1305,V2,J junto a una D-ST descendente en las derivaciones V1- < start > V2 < end >,segundo derivacion precordial,1
+1306,V2,J junto a una D-ST descendente en las derivaciones V1- < start > V2 < end >,derivacion precordial 2,0
+1307,V2,una E-ST cóncava con onda T positiva en las derivaciones < start > V2 < end >,segundo derivacion precordial,1
+1308,V2,una E-ST cóncava con onda T positiva en las derivaciones < start > V2 < end >,derivacion precordial 2,0
+1309,V2,una E-ST cóncava con ondas T positivas en las derivaciones < start > V2 < end >,segundo derivacion precordial,1
+1310,V2,una E-ST cóncava con ondas T positivas en las derivaciones < start > V2 < end >,derivacion precordial 2,0
+1311,V2,"onda T , una onda J en las derivaciones V1- < start > V2 < end >",segundo derivacion precordial,1
+1312,V2,"onda T , una onda J en las derivaciones V1- < start > V2 < end >",derivacion precordial 2,0
+1313,V2,"dolor , reveló una onda J marcada en derivaciones V1- < start > V2 < end >",segundo derivacion precordial,1
+1314,V2,"dolor , reveló una onda J marcada en derivaciones V1- < start > V2 < end >",derivacion precordial 2,0
+1315,V1,punto J junto a una D-ST descendente en las derivaciones < start > V1 < end >,primero derivacion precordial,1
+1316,V1,punto J junto a una D-ST descendente en las derivaciones < start > V1 < end >,rama oftalmico,0
+1317,V1,"la onda T , una onda J en las derivaciones < start > V1 < end >",primero derivacion precordial,1
+1318,V1,"la onda T , una onda J en las derivaciones < start > V1 < end >",rama oftalmico,0
+1319,V1,"sin dolor , reveló una onda J marcada en derivaciones < start > V1 < end >",primero derivacion precordial,1
+1320,V1,"sin dolor , reveló una onda J marcada en derivaciones < start > V1 < end >",rama oftalmico,0
+1321,V4,cóncava con onda T positiva en las derivaciones V2 a < start > V4 < end >,cuarto derivacion precordial,0
+1322,V4,cóncava con onda T positiva en las derivaciones V2 a < start > V4 < end >,derivacion precordial 4,1
+1323,V4,cóncava con ondas T positivas en las derivaciones V2 a < start > V4 < end >,cuarto derivacion precordial,0
+1324,V4,cóncava con ondas T positivas en las derivaciones V2 a < start > V4 < end >,derivacion precordial 4,1
+1325,V2,J junto a una D-ST descendente en las derivaciones V1- < start > V2 < end >,segundo derivacion precordial,0
+1326,V2,J junto a una D-ST descendente en las derivaciones V1- < start > V2 < end >,derivacion precordial 2,1
+1327,V2,una E-ST cóncava con onda T positiva en las derivaciones < start > V2 < end >,segundo derivacion precordial,0
+1328,V2,una E-ST cóncava con onda T positiva en las derivaciones < start > V2 < end >,derivacion precordial 2,1
+1329,V2,una E-ST cóncava con ondas T positivas en las derivaciones < start > V2 < end >,segundo derivacion precordial,0
+1330,V2,una E-ST cóncava con ondas T positivas en las derivaciones < start > V2 < end >,derivacion precordial 2,1
+1331,V2,"onda T , una onda J en las derivaciones V1- < start > V2 < end >",segundo derivacion precordial,0
+1332,V2,"onda T , una onda J en las derivaciones V1- < start > V2 < end >",derivacion precordial 2,1
+1333,V2,"dolor , reveló una onda J marcada en derivaciones V1- < start > V2 < end >",segundo derivacion precordial,0
+1334,V2,"dolor , reveló una onda J marcada en derivaciones V1- < start > V2 < end >",derivacion precordial 2,1
+1335,V1,punto J junto a una D-ST descendente en las derivaciones < start > V1 < end >,primero derivacion precordial,0
+1336,V1,punto J junto a una D-ST descendente en las derivaciones < start > V1 < end >,rama oftalmico,1
+1337,V1,"la onda T , una onda J en las derivaciones < start > V1 < end >",primero derivacion precordial,0
+1338,V1,"la onda T , una onda J en las derivaciones < start > V1 < end >",rama oftalmico,1
+1339,V1,"sin dolor , reveló una onda J marcada en derivaciones < start > V1 < end >",primero derivacion precordial,0
+1340,V1,"sin dolor , reveló una onda J marcada en derivaciones < start > V1 < end >",rama oftalmico,1
+1341,ST,marcada en derivaciones V1-V2 y ausencia de desplazamiento del segmento < start > ST < end >,segmento onda onda t,0
+1342,ST,marcada en derivaciones V1-V2 y ausencia de desplazamiento del segmento < start > ST < end >,segmento st,0
+1343,ST,marcada en derivaciones V1-V2 y ausencia de desplazamiento del segmento < start > ST < end >,segmento electrocardiograma onda t,1
+1344,V4,cóncava con onda T positiva en las derivaciones V2 a < start > V4 < end >,cuarto derivacion precordial,1
+1345,V4,cóncava con onda T positiva en las derivaciones V2 a < start > V4 < end >,derivacion precordial 4,0
+1346,V4,cóncava con ondas T positivas en las derivaciones V2 a < start > V4 < end >,cuarto derivacion precordial,1
+1347,V4,cóncava con ondas T positivas en las derivaciones V2 a < start > V4 < end >,derivacion precordial 4,0
+1348,T,en las derivaciones V1-V2 y una E-ST cóncava con ondas < start > T < end >,treonina,0
+1349,T,en las derivaciones V1-V2 y una E-ST cóncava con ondas < start > T < end >,thymus,0
+1350,T,en las derivaciones V1-V2 y una E-ST cóncava con ondas < start > T < end >,onda t,1
+1351,mg,"1 gr cada 12 h , clindamicina de 600 mg < start > c < end >",miligramo,1
+1352,mg,"1 gr cada 12 h , clindamicina de 600 mg < start > c < end >",miligramar,0
+1353,mg,"U/l ; Fosfatasas alcalinas : 277 U/l ; Uratos 2,29 < start > mg < end >",miligramo,1
+1354,mg,"U/l ; Fosfatasas alcalinas : 277 U/l ; Uratos 2,29 < start > mg < end >",miligramar,0
+1355,ALT,la exploración física normal . De la analítica destaca : < start > ALT < end >,alanine aminotransferar,1
+1356,ALT,la exploración física normal . De la analítica destaca : < start > ALT < end >,alanine transferar,0
+1357,L,"6,2 mg/dL , Urea : 176 mg/dL , K+:5,6 mEq/ < start > L < end >",litro,1
+1358,L,"6,2 mg/dL , Urea : 176 mg/dL , K+:5,6 mEq/ < start > L < end >",leucocito,0
+1359,K,"( Creatinina 6,2 mg/dL , Urea : 176 mg/dL , < start > K < end >",kalium,1
+1360,K,"( Creatinina 6,2 mg/dL , Urea : 176 mg/dL , < start > K < end >",klebsiella,0
+1361,mg,". La función renal era normal ( Creatinina : 1,3 < start > mg < end >",miligramo,1
+1362,mg,". La función renal era normal ( Creatinina : 1,3 < start > mg < end >",miligramar,0
+1363,mg,"renal obstructiva ( Creatinina 6,2 mg/dL , Urea : 176 < start > mg < end >",miligramo,1
+1364,mg,"renal obstructiva ( Creatinina 6,2 mg/dL , Urea : 176 < start > mg < end >",miligramar,0
+1365,mg,"( Creatinina : 1,3 mg/dL , Urea plasmática : 42 < start > mg < end >",miligramo,1
+1366,mg,"( Creatinina : 1,3 mg/dL , Urea plasmática : 42 < start > mg < end >",miligramar,0
+1367,mg,"por atrapamiento ureteral e insuficiencia renal obstructiva ( Creatinina 6,2 < start > mg < end >",miligramo,1
+1368,mg,"por atrapamiento ureteral e insuficiencia renal obstructiva ( Creatinina 6,2 < start > mg < end >",miligramar,0
+1369,QT,de la intervención y durante la administración de la QT < start > /R < end >,q timir,0
+1370,QT,de la intervención y durante la administración de la QT < start > /R < end >,quimioterapia,1
+1371,NSE,"( + ) , enolasa neuronal específica ( N < start > SE ) < end >",enolasa neuroespecifico,0
+1372,NSE,"( + ) , enolasa neuronal específica ( N < start > SE ) < end >",neuronspecific enolar,1
+1373,L,"Mg 1,7 mEq/L ( 1,7-2,2 ) , CO3H 25,78 mEq/ < start > L < end >",litro,1
+1374,L,"Mg 1,7 mEq/L ( 1,7-2,2 ) , CO3H 25,78 mEq/ < start > L < end >",leucocito,0
+1375,L,"directa 0,47 mgr/dL ( 0,3-1,9 ) , AST 50 UI/ < start > L < end >",litro,1
+1376,L,"directa 0,47 mgr/dL ( 0,3-1,9 ) , AST 50 UI/ < start > L < end >",leucocito,0
+1377,L,"Ca 9.1 mEq/L ( 8,5-10,2 ) , Mg 1,7 mEq/ < start > L < end >",litro,1
+1378,L,"Ca 9.1 mEq/L ( 8,5-10,2 ) , Mg 1,7 mEq/ < start > L < end >",leucocito,0
+1379,L,"K 3,5 mEq/L ( 3,1-5,1 ) , Ca 9.1 mEq/ < start > L < end >",litro,1
+1380,L,"K 3,5 mEq/L ( 3,1-5,1 ) , Ca 9.1 mEq/ < start > L < end >",leucocito,0
+1381,L,"Na 145 mEq/L ( 132-145 ) , K 3,5 mEq/ < start > L < end >",litro,1
+1382,L,"Na 145 mEq/L ( 132-145 ) , K 3,5 mEq/ < start > L < end >",leucocito,0
+1383,L,"creatinina 0,7 mg/dL ( 0,5-1 ) , Na 145 mEq/ < start > L < end >",litro,1
+1384,L,"creatinina 0,7 mg/dL ( 0,5-1 ) , Na 145 mEq/ < start > L < end >",leucocito,0
+1385,L,". Glucosa 118 mg/dL ( 69-100 ) , urea 0,17g/ < start > L < end >",litro,1
+1386,L,". Glucosa 118 mg/dL ( 69-100 ) , urea 0,17g/ < start > L < end >",leucocito,0
+1387,L,"amoniaco 424 mgr/dL ( 15-45 ) , LDH 310 UI/ < start > L < end >",litro,1
+1388,L,"amoniaco 424 mgr/dL ( 15-45 ) , LDH 310 UI/ < start > L < end >",leucocito,0
+1389,L,"ALT 169 UI/L ( 10-40 ) , GGT 16 UI/ < start > L < end >",litro,1
+1390,L,"ALT 169 UI/L ( 10-40 ) , GGT 16 UI/ < start > L < end >",leucocito,0
+1391,L,"AST 50 UI/L ( 10-40 ) , ALT 169 UI/ < start > L < end >",litro,1
+1392,L,"AST 50 UI/L ( 10-40 ) , ALT 169 UI/ < start > L < end >",leucocito,0
+1393,K,"0,5-1 ) , Na 145 mEq/L ( 132-145 ) , < start > K < end >",kalium,1
+1394,K,"0,5-1 ) , Na 145 mEq/L ( 132-145 ) , < start > K < end >",klebsiella,0
+1395,ALT,"0,3-1,9 ) , AST 50 UI/L ( 10-40 ) , < start > ALT < end >",alanine aminotransferar,1
+1396,ALT,"0,3-1,9 ) , AST 50 UI/L ( 10-40 ) , < start > ALT < end >",alanine transferar,0
+1397,mg,", plaquetas 196.000 mil/mm3 ( 150-400 ) , fibrinógeno 287 < start > mg < end >",miligramo,1
+1398,mg,", plaquetas 196.000 mil/mm3 ( 150-400 ) , fibrinógeno 287 < start > mg < end >",miligramar,0
+1399,mg,coincidiendo con descenso de dosis de dexametasona ( Dacortin 60 < start > mg < end >,miligramo,1
+1400,mg,coincidiendo con descenso de dosis de dexametasona ( Dacortin 60 < start > mg < end >,miligramar,0
+1401,mg,"amoniaco se eleva a 4.535 mg/dL , bajando a 4.004 < start > mg < end >",miligramo,1
+1402,mg,"amoniaco se eleva a 4.535 mg/dL , bajando a 4.004 < start > mg < end >",miligramar,0
+1403,mg,"a 5,4 mg/dL pero el amoniaco se eleva a 4.535 < start > mg < end >",miligramo,1
+1404,mg,"a 5,4 mg/dL pero el amoniaco se eleva a 4.535 < start > mg < end >",miligramar,0
+1405,mg,". Doce horas después logramos descenso de BT a 5,4 < start > mg < end >",miligramo,1
+1406,mg,". Doce horas después logramos descenso de BT a 5,4 < start > mg < end >",miligramar,0
+1407,mg,"pc , Carbaglu 1,5 gr/6h IV , L carnitina 3 < start > mg < end >",miligramo,1
+1408,mg,"pc , Carbaglu 1,5 gr/6h IV , L carnitina 3 < start > mg < end >",miligramar,0
+1409,mg,. Ocho horas después crisis comicial y amoniaco de 1.723 < start > mg < end >,miligramo,1
+1410,mg,. Ocho horas después crisis comicial y amoniaco de 1.723 < start > mg < end >,miligramar,0
+1411,mg,"de 575 mg/dL , BT 12,7 mg/dL y BD 0,3 < start > mg < end >",miligramo,1
+1412,mg,"de 575 mg/dL , BT 12,7 mg/dL y BD 0,3 < start > mg < end >",miligramar,0
+1413,mg,"en este momento era de 575 mg/dL , BT 12,7 < start > mg < end >",miligramo,1
+1414,mg,"en este momento era de 575 mg/dL , BT 12,7 < start > mg < end >",miligramar,0
+1415,mg,normal . El amoniaco en este momento era de 575 < start > mg < end >,miligramo,1
+1416,mg,normal . El amoniaco en este momento era de 575 < start > mg < end >,miligramar,0
+1417,mg,"Al día siguiente , descenso paulatino del amoniaco hasta 67 < start > mg < end >",miligramo,1
+1418,mg,"Al día siguiente , descenso paulatino del amoniaco hasta 67 < start > mg < end >",miligramar,0
+1419,mg,h de ingreso cabe destacar elevación del amoniaco hasta 602 < start > mg < end >,miligramo,1
+1420,mg,h de ingreso cabe destacar elevación del amoniaco hasta 602 < start > mg < end >,miligramar,0
+1421,mg,") , urea 0,17g/L ( 0,1-0,7 ) , creatinina 0,7 < start > mg < end >",miligramo,1
+1422,mg,") , urea 0,17g/L ( 0,1-0,7 ) , creatinina 0,7 < start > mg < end >",miligramar,0
+1423,mg,", LDH 310 UI/L ( 210-420 ) . Glucosa 118 < start > mg < end >",miligramo,1
+1424,mg,", LDH 310 UI/L ( 210-420 ) . Glucosa 118 < start > mg < end >",miligramar,0
+1425,mg,"mes más tarde , la creatinina era de 2,3 m < start > g/ < end >",miligramo,1
+1426,mg,"mes más tarde , la creatinina era de 2,3 m < start > g/ < end >",miligramar,0
+1427,mg,"dado de alta con una creatinina sérica de 2,9 m < start > g/ < end >",miligramo,1
+1428,mg,"dado de alta con una creatinina sérica de 2,9 m < start > g/ < end >",miligramar,0
+1429,mg,", seguidos por prednisona oral a dosis de 0,5 m < start > g/ < end >",miligramo,1
+1430,mg,", seguidos por prednisona oral a dosis de 0,5 m < start > g/ < end >",miligramar,0
+1431,mg,empeoró en pocos días hasta alcanzar creatininas séricas de 4 < start > mg < end >,miligramo,1
+1432,mg,empeoró en pocos días hasta alcanzar creatininas séricas de 4 < start > mg < end >,miligramar,0
+1433,mg,"situación clínica era buena , con creatinina sérica de 1,5 < start > mg < end >",miligramo,1
+1434,mg,"situación clínica era buena , con creatinina sérica de 1,5 < start > mg < end >",miligramar,0
+1435,mg,"inmunosupresores . Sus creatininas séricas oscilaban entre 1,5 y 1,7 < start > mg < end >",miligramo,1
+1436,mg,"inmunosupresores . Sus creatininas séricas oscilaban entre 1,5 y 1,7 < start > mg < end >",miligramar,0
+1437,mg,", el paciente recibió 3 bolos intravenosos de 500 m < start > g < end >",miligramo,1
+1438,mg,", el paciente recibió 3 bolos intravenosos de 500 m < start > g < end >",miligramar,0
+1439,V4,y aVF ) y de la cara anterior ( V2- < start > V4 < end >,cuarto derivacion precordial,1
+1440,V4,y aVF ) y de la cara anterior ( V2- < start > V4 < end >,derivacion precordial 4,0
+1441,V2,III y aVF ) y de la cara anterior ( < start > V2 < end >,segundo derivacion precordial,1
+1442,V2,III y aVF ) y de la cara anterior ( < start > V2 < end >,derivacion precordial 2,0
+1443,ST,200 joules . El electrocardiograma inicial demostró elevación del segmento < start > ST < end >,segmento onda onda t,0
+1444,ST,200 joules . El electrocardiograma inicial demostró elevación del segmento < start > ST < end >,segmento st,1
+1445,ST,200 joules . El electrocardiograma inicial demostró elevación del segmento < start > ST < end >,segmento electrocardiograma onda t,0
+1446,mg,y diaforesis ; que iniciaron después de haber ingerido 100 < start > mg < end >,miligramo,1
+1447,mg,y diaforesis ; que iniciaron después de haber ingerido 100 < start > mg < end >,miligramar,0
+1448,mg,", metoprolol 25 mg cada 12 horas , enoxaparina 60 < start > mg < end >",miligramo,1
+1449,mg,", metoprolol 25 mg cada 12 horas , enoxaparina 60 < start > mg < end >",miligramar,0
+1450,mg,"mg , lovastatina 40 mg cada día , metoprolol 25 < start > mg < end >",miligramo,1
+1451,mg,"mg , lovastatina 40 mg cada día , metoprolol 25 < start > mg < end >",miligramar,0
+1452,mg,"inicial se realizó con aspirina 100 mg , lovastatina 40 < start > mg < end >",miligramo,1
+1453,mg,"inicial se realizó con aspirina 100 mg , lovastatina 40 < start > mg < end >",miligramar,0
+1454,mg,normales . El manejo inicial se realizó con aspirina 100 < start > mg < end >,miligramo,1
+1455,mg,normales . El manejo inicial se realizó con aspirina 100 < start > mg < end >,miligramar,0
+1456,CK,la cara anterior . El seguimiento enzimático demostró aumento de < start > CK < end >,creatinar kinar,0
+1457,CK,la cara anterior . El seguimiento enzimático demostró aumento de < start > CK < end >,cytokeratin,1
+1458,CK,. Las enzimas cardíacas al ingreso revelaron una creatinfosfokinasa ( < start > CK < end >,creatinar kinar,0
+1459,CK,. Las enzimas cardíacas al ingreso revelaron una creatinfosfokinasa ( < start > CK < end >,cytokeratin,1
+1460,CK,la cara anterior . El seguimiento enzimático demostró aumento de < start > CK < end >,creatinar kinar,1
+1461,CK,la cara anterior . El seguimiento enzimático demostró aumento de < start > CK < end >,cytokeratin,0
+1462,CK,. Las enzimas cardíacas al ingreso revelaron una creatinfosfokinasa ( < start > CK < end >,creatinar kinar,1
+1463,CK,. Las enzimas cardíacas al ingreso revelaron una creatinfosfokinasa ( < start > CK < end >,cytokeratin,0
+1464,mg,"un líquido cefalorraquídeo claro , con leve hiperproteinorraquia ( 48 < start > mg < end >",miligramo,1
+1465,mg,"un líquido cefalorraquídeo claro , con leve hiperproteinorraquia ( 48 < start > mg < end >",miligramar,0
+1466,mg,"con leve hiperproteinorraquia ( 48 mg/dl ) , glucosa 74 < start > mg < end >",miligramo,1
+1467,mg,"con leve hiperproteinorraquia ( 48 mg/dl ) , glucosa 74 < start > mg < end >",miligramar,0
+1468,CA,sin hallazgos patológicos . Entre los marcadores tumorales sólo el < start > CA < end >,carbohydrate antiger,0
+1469,CA,sin hallazgos patológicos . Entre los marcadores tumorales sólo el < start > CA < end >,california,0
+1470,CA,sin hallazgos patológicos . Entre los marcadores tumorales sólo el < start > CA < end >,cancer antiger,1
+1471,PTH,"mUI/l , T4 libre 0,6 ng/dl ) y aumento de < start > PTH < end >",parathyroid hormoner,1
+1472,PTH,"mUI/l , T4 libre 0,6 ng/dl ) y aumento de < start > PTH < end >",paratohormona,0
+1473,DQ2,"de las transaminasas . TTG positiva ( 2,46 ) . < start > DQ2 < end >",dq antiger,0
+1474,DQ2,"de las transaminasas . TTG positiva ( 2,46 ) . < start > DQ2 < end >",dq antigen 2,1
+1475,mg,aumento de los reactantes de fase aguda : fibrinógeno 1008 < start > mg < end >,miligramo,1
+1476,mg,aumento de los reactantes de fase aguda : fibrinógeno 1008 < start > mg < end >,miligramar,0
+1477,mg,"fase aguda : fibrinógeno 1008 mg/dl , proteína C-reactiva 173 < start > mg < end >",miligramo,1
+1478,mg,"fase aguda : fibrinógeno 1008 mg/dl , proteína C-reactiva 173 < start > mg < end >",miligramar,0
+1479,AV,se corroboró la resolución de los desprendimientos . La A < start > V < end >,agudeza visual,1
+1480,AV,se corroboró la resolución de los desprendimientos . La A < start > V < end >,arteriovenoso,0
+1481,AV,se corroboró la resolución de los desprendimientos . La A < start > V < end >,auriculoventricular,0
+1482,mg,20 años . El tratamiento de mantenimiento era de 30 < start > mg < end >,miligramo,1
+1483,mg,20 años . El tratamiento de mantenimiento era de 30 < start > mg < end >,miligramar,0
+1484,CHOP,"E , se le administraron 6 ciclos de quimioterapia C < start > HOP < end >",ciclofosfamido hidroxidaunomicina oncovin prednisono,0
+1485,CHOP,"E , se le administraron 6 ciclos de quimioterapia C < start > HOP < end >",cyclophosphamidir hydroxydaunomycin oncovin prednisoner,1
+1486,mg,"U/l , fosfatasa alcalina 116 U/l , bilirrubina total 2,3 < start > mg < end >",miligramo,1
+1487,mg,"U/l , fosfatasa alcalina 116 U/l , bilirrubina total 2,3 < start > mg < end >",miligramar,0
+1488,mg,PegINF alfa 2a 180 mg/semanal sc . y ribavirina 1.000 < start > mg < end >,miligramo,1
+1489,mg,PegINF alfa 2a 180 mg/semanal sc . y ribavirina 1.000 < start > mg < end >,miligramar,0
+1490,mg,inicia tratamiento con terapia combinada con PegINF alfa 2a 180 < start > mg < end >,miligramo,1
+1491,mg,inicia tratamiento con terapia combinada con PegINF alfa 2a 180 < start > mg < end >,miligramar,0
+1492,CK,"de inmunohistoquímica , la tumoración mostró positividad con citoqueratina ( < start > CK < end >",creatinar kinar,0
+1493,CK,"de inmunohistoquímica , la tumoración mostró positividad con citoqueratina ( < start > CK < end >",cytokeratin,1
+1494,mg,páncreas . Se inició tratamiento intravenoso empírico con Gentamicina 80 < start > mg < end >,miligramo,1
+1495,mg,páncreas . Se inició tratamiento intravenoso empírico con Gentamicina 80 < start > mg < end >,miligramar,0
+1496,mg,con Gentamicina 80 mg cada 8 horas y Clindamicina 600 < start > mg < end >,miligramo,1
+1497,mg,con Gentamicina 80 mg cada 8 horas y Clindamicina 600 < start > mg < end >,miligramar,0
+1498,mg,"cinasa de cKit , Imatinib ( Glivec® ) , 100 < start > mg < end >",miligramo,1
+1499,mg,"cinasa de cKit , Imatinib ( Glivec® ) , 100 < start > mg < end >",miligramar,0
+1500,mg,"totales 5,9 g/dl ; albúmina 1,36 g/dl ; colesterol 96 < start > mg < end >",miligramo,1
+1501,mg,"totales 5,9 g/dl ; albúmina 1,36 g/dl ; colesterol 96 < start > mg < end >",miligramar,0
+1502,mg,"% , volumen corpuscular medio 75 , creatinina sérica 1,3 < start > mg < end >",miligramo,1
+1503,mg,"% , volumen corpuscular medio 75 , creatinina sérica 1,3 < start > mg < end >",miligramar,0
+1504,CD117,"sugestiva de GIST , y la inmunohistoquímica presentaba positividad para < start > CD117 < end >",cumulo diferenciacion 117,0
+1505,CD117,"sugestiva de GIST , y la inmunohistoquímica presentaba positividad para < start > CD117 < end >",cluster of differentiation 117,0
+1506,CD117,"sugestiva de GIST , y la inmunohistoquímica presentaba positividad para < start > CD117 < end >",cluster diferenciacion 117,1
+1507,PET,. Con estos datos se decidió anular el estudio PET < start > y < end >,positr emissior tomograph,0
+1508,PET,. Con estos datos se decidió anular el estudio PET < start > y < end >,emision positron,1
+1509,PET,para malignidad . Se planteó realizar un estudio PE < start > T p < end >,positr emissior tomograph,0
+1510,PET,para malignidad . Se planteó realizar un estudio PE < start > T p < end >,emision positron,1
+1511,mg,en la repolarización . Se premedicó al paciente con 7 < start > mg < end >,miligramo,1
+1512,mg,en la repolarización . Se premedicó al paciente con 7 < start > mg < end >,miligramar,0
+1513,mg,", remifentanilo ( 0,25 µg.kg-1.min-1 ) y mivacurio ( 0,6 < start > mg < end >",miligramo,1
+1514,mg,", remifentanilo ( 0,25 µg.kg-1.min-1 ) y mivacurio ( 0,6 < start > mg < end >",miligramar,0
+1515,mg,. El mantenimiento anestésico se realizó con propofol ( 10-4 < start > mg < end >,miligramo,1
+1516,mg,. El mantenimiento anestésico se realizó con propofol ( 10-4 < start > mg < end >,miligramar,0
+1517,mg,". con neumotaponamiento tras bloqueo neuromuscular con mivacurio ( 0,2 < start > mg < end >",miligramo,1
+1518,mg,". con neumotaponamiento tras bloqueo neuromuscular con mivacurio ( 0,2 < start > mg < end >",miligramar,0
+1519,mg,tras canalización de una vía periférica con propofol ( 2 < start > mg < end >,miligramo,1
+1520,mg,tras canalización de una vía periférica con propofol ( 2 < start > mg < end >,miligramar,0
+1521,Q,. En el electrocardiograma ( ECG ) se observaron ondas < start > Q < end >,glutamina,0
+1522,Q,. En el electrocardiograma ( ECG ) se observaron ondas < start > Q < end >,onda q,1
+1523,ALT,"destacaba una elevación de transaminasas ( AST 131 mU.ml-1 , < start > ALT < end >",alanine aminotransferar,1
+1524,ALT,"destacaba una elevación de transaminasas ( AST 131 mU.ml-1 , < start > ALT < end >",alanine transferar,0
+1525,AL,( EVA < 2 ) con la nueva concentración de < start > AL < end >,amiloidosis primario,1
+1526,AL,( EVA < 2 ) con la nueva concentración de < start > AL < end >,anestesico local,0
+1527,AL,horas después de reducir la concentración de anestésico local ( < start > AL < end >,amiloidosis primario,1
+1528,AL,horas después de reducir la concentración de anestésico local ( < start > AL < end >,anestesico local,0
+1529,EVA,otros eventos adversos . La analgesia epidural fue eficaz ( < start > EVA < end >,escala visual analogico,0
+1530,EVA,otros eventos adversos . La analgesia epidural fue eficaz ( < start > EVA < end >,escala analogico visual,1
+1531,G,través de la que se colocó un catéter ( 20 < start > G < end >,gauge,0
+1532,G,través de la que se colocó un catéter ( 20 < start > G < end >,guanine,1
+1533,G,de L4-L5 con una aguja de Tuohy de calibre 18 < start > G < end >,gauge,0
+1534,G,de L4-L5 con una aguja de Tuohy de calibre 18 < start > G < end >,guanine,1
+1535,AL,( EVA < 2 ) con la nueva concentración de < start > AL < end >,amiloidosis primario,0
+1536,AL,( EVA < 2 ) con la nueva concentración de < start > AL < end >,anestesico local,1
+1537,AL,horas después de reducir la concentración de anestésico local ( < start > AL < end >,amiloidosis primario,0
+1538,AL,horas después de reducir la concentración de anestésico local ( < start > AL < end >,anestesico local,1
+1539,G,través de la que se colocó un catéter ( 20 < start > G < end >,gauge,1
+1540,G,través de la que se colocó un catéter ( 20 < start > G < end >,guanine,0
+1541,G,de L4-L5 con una aguja de Tuohy de calibre 18 < start > G < end >,gauge,1
+1542,G,de L4-L5 con una aguja de Tuohy de calibre 18 < start > G < end >,guanine,0
+1543,mg,y en los últimos 3 meses se asoció rosiglitiazona 4 < start > mg < end >,miligramo,1
+1544,mg,y en los últimos 3 meses se asoció rosiglitiazona 4 < start > mg < end >,miligramar,0
+1545,mg,en seguimiento por dermatología y en tratamiento con Etanercept 25 < start > mg < end >,miligramo,1
+1546,mg,en seguimiento por dermatología y en tratamiento con Etanercept 25 < start > mg < end >,miligramar,0
+1547,mg,"1-1-2 , biperideno 4 mg c/24 h y levetiracetam 1000 < start > mg < end >",miligramo,1
+1548,mg,"1-1-2 , biperideno 4 mg c/24 h y levetiracetam 1000 < start > mg < end >",miligramar,0
+1549,mg,"y tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 < start > mg < end >",miligramo,1
+1550,mg,"y tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 < start > mg < end >",miligramar,0
+1551,mg,"de alta con mejoría clínica y tratamiento con clonazepam 0,5 < start > mg < end >",miligramo,1
+1552,mg,"de alta con mejoría clínica y tratamiento con clonazepam 0,5 < start > mg < end >",miligramar,0
+1553,mg,"h , levetiracetam 1000 mg c/12 h y biperideno 2 < start > mg < end >",miligramo,1
+1554,mg,"h , levetiracetam 1000 mg c/12 h y biperideno 2 < start > mg < end >",miligramar,0
+1555,mg,"1-1-2 , valproico 500 mg c/8 h , levetiracetam 1000 < start > mg < end >",miligramo,1
+1556,mg,"1-1-2 , valproico 500 mg c/8 h , levetiracetam 1000 < start > mg < end >",miligramar,0
+1557,mg,"mg 1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 < start > mg < end >",miligramo,1
+1558,mg,"mg 1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 < start > mg < end >",miligramar,0
+1559,mg,"diazepam a dosis de 2,5 mg 1-1-2 , clonazepam 0,5 < start > mg < end >",miligramo,1
+1560,mg,"diazepam a dosis de 2,5 mg 1-1-2 , clonazepam 0,5 < start > mg < end >",miligramar,0
+1561,mg,"responder el cuadro clínico con diazepam a dosis de 2,5 < start > mg < end >",miligramo,1
+1562,mg,"responder el cuadro clínico con diazepam a dosis de 2,5 < start > mg < end >",miligramar,0
+1563,mg,", ácido valproico 500 mg c/8 h y diazepam 2,5 < start > mg < end >",miligramo,1
+1564,mg,", ácido valproico 500 mg c/8 h y diazepam 2,5 < start > mg < end >",miligramar,0
+1565,mg,", levitiracetam 250 mg c/12 h , ácido valproico 500 < start > mg < end >",miligramo,1
+1566,mg,", levitiracetam 250 mg c/12 h , ácido valproico 500 < start > mg < end >",miligramar,0
+1567,mg,"pautó tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 < start > mg < end >",miligramo,1
+1568,mg,"pautó tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 < start > mg < end >",miligramar,0
+1569,mg,"y náuseas . Sucesivamente se pautó tratamiento con clonacepam 0,5 < start > mg < end >",miligramo,1
+1570,mg,"y náuseas . Sucesivamente se pautó tratamiento con clonacepam 0,5 < start > mg < end >",miligramar,0
+1571,mg,descritas con Etanercept . Se comenzó tratamiento con carbamazepina 100 < start > mg < end >,miligramo,1
+1572,mg,descritas con Etanercept . Se comenzó tratamiento con carbamazepina 100 < start > mg < end >,miligramar,0
+1573,mg,un índice PASI de 18.60 . Se reinició etanercept 25 < start > mg < end >,miligramo,1
+1574,mg,un índice PASI de 18.60 . Se reinició etanercept 25 < start > mg < end >,miligramar,0
+1575,mg,"de 2013 . Había iniciado tratamiento con etanercept , 25 < start > mg < end >",miligramo,1
+1576,mg,"de 2013 . Había iniciado tratamiento con etanercept , 25 < start > mg < end >",miligramar,0
+1577,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",coding dno,0
+1578,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",coding dno sequence,1
+1579,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",comprimido,0
+1580,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",coding dno,0
+1581,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",coding dno sequence,1
+1582,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",comprimido,0
+1583,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",coding dno,0
+1584,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",coding dno sequence,1
+1585,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",comprimido,0
+1586,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",coding dno,0
+1587,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",coding dno sequence,1
+1588,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",comprimido,0
+1589,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",coding dno,0
+1590,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",coding dno sequence,1
+1591,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",comprimido,0
+1592,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",coding dno,0
+1593,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",coding dno sequence,1
+1594,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",comprimido,0
+1595,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",coding dno,0
+1596,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",coding dno sequence,1
+1597,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",comprimido,0
+1598,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",coding dno,0
+1599,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",coding dno sequence,0
+1600,c,", biperideno 4 mg c/24 h y levetiracetam 1000 mg < start > c < end >",comprimido,1
+1601,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",coding dno,0
+1602,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",coding dno sequence,0
+1603,c,"tratamiento con clonazepam 0,5 mg 1-1-2 , biperideno 4 mg < start > c < end >",comprimido,1
+1604,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",coding dno,0
+1605,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",coding dno sequence,0
+1606,c,", levetiracetam 1000 mg c/12 h y biperideno 2 mg < start > c < end >",comprimido,1
+1607,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",coding dno,0
+1608,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",coding dno sequence,0
+1609,c,"tratamiento con clonacepam 0,5 mg 1-1-2 , levitiracetam 250 mg < start > c < end >",comprimido,1
+1610,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",coding dno,0
+1611,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",coding dno sequence,0
+1612,c,", valproico 500 mg c/8 h , levetiracetam 1000 mg < start > c < end >",comprimido,1
+1613,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",coding dno,0
+1614,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",coding dno sequence,0
+1615,c,"1-1-2 , clonazepam 0,5 mg 1-1-2 , valproico 500 mg < start > c < end >",comprimido,1
+1616,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",coding dno,0
+1617,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",coding dno sequence,0
+1618,c,"levitiracetam 250 mg c/12 h , ácido valproico 500 mg < start > c < end >",comprimido,1
+1619,HBs,"determinaron : AcIgM contra CMV negativos , AcHBc , AgH < start > Bs < end >",hepatitis b superficie,0
+1620,HBs,"determinaron : AcIgM contra CMV negativos , AcHBc , AgH < start > Bs < end >",hemoglobina,1
+1621,HBs,"AcIgM contra CMV negativos , AcHBc , AgHBs y AgH < start > Bs < end >",hepatitis b superficie,0
+1622,HBs,"AcIgM contra CMV negativos , AcHBc , AgHBs y AgH < start > Bs < end >",hemoglobina,1
+1623,HBc,"se determinaron : AcIgM contra CMV negativos , AcH < start > Bc , < end >",hepatitis b corar,0
+1624,HBc,"se determinaron : AcIgM contra CMV negativos , AcH < start > Bc , < end >",hemoglobina c,1
+1625,L,"creatinina de 1,28 mg/dl con transaminitis de ALT= 78 U/L < start > . < end >",litro,1
+1626,L,"creatinina de 1,28 mg/dl con transaminitis de ALT= 78 U/L < start > . < end >",leucocito,0
+1627,ALT,"destacaba una creatinina de 1,28 mg/dl con transaminitis de A < start > LT= < end >",alanine aminotransferar,1
+1628,ALT,"destacaba una creatinina de 1,28 mg/dl con transaminitis de A < start > LT= < end >",alanine transferar,0
+1629,mg,"28 mm a la primera hora , con PCR=6,62 m < start > g/ < end >",miligramo,1
+1630,mg,"28 mm a la primera hora , con PCR=6,62 m < start > g/ < end >",miligramar,0
+1631,mg,". En la bioquímica destacaba una creatinina de 1,28 m < start > g/ < end >",miligramo,1
+1632,mg,". En la bioquímica destacaba una creatinina de 1,28 m < start > g/ < end >",miligramar,0
+1633,P.,"AcHBc , AgHBs y AgHBs negativos , AcIgM contra P < start > . < end >",proteus,0
+1634,P.,"AcHBc , AgHBs y AgHBs negativos , AcIgM contra P < start > . < end >",plasmodium,1
+1635,PCR,"de 28 mm a la primera hora , con P < start > CR= < end >",proteina c reactivo,1
+1636,PCR,"de 28 mm a la primera hora , con P < start > CR= < end >",polimerase chain reaction,0
+1637,mg,leucocitos 7.700/ml ( N 46 % ) ; glucosa 79 < start > mg < end >,miligramo,1
+1638,mg,leucocitos 7.700/ml ( N 46 % ) ; glucosa 79 < start > mg < end >,miligramar,0
+1639,mg,"41 gl/l , bilirrubina total 2,1 mg/dl , colesterol 206 < start > mg < end >",miligramo,1
+1640,mg,"41 gl/l , bilirrubina total 2,1 mg/dl , colesterol 206 < start > mg < end >",miligramar,0
+1641,mg,"77 g/l , albúmina 41 gl/l , bilirrubina total 2,1 < start > mg < end >",miligramo,1
+1642,mg,"77 g/l , albúmina 41 gl/l , bilirrubina total 2,1 < start > mg < end >",miligramar,0
+1643,mg,"46 % ) ; glucosa 79 mg/dl , creatinina 0,55 < start > mg < end >",miligramo,1
+1644,mg,"46 % ) ; glucosa 79 mg/dl , creatinina 0,55 < start > mg < end >",miligramar,0
+1645,N,"Hb 13,4 g/dl , plaquetas 338.000/ml , leucocitos 7.700/ml ( < start > N < end >",neutrofilo,1
+1646,N,"Hb 13,4 g/dl , plaquetas 338.000/ml , leucocitos 7.700/ml ( < start > N < end >",nitrogeno,0
+1647,L,"GGT 243 UI/L , amilasas 427,8 UI/L , lipasa 1298UI/ < start > L < end >",litro,1
+1648,L,"GGT 243 UI/L , amilasas 427,8 UI/L , lipasa 1298UI/ < start > L < end >",leucocito,0
+1649,L,"215 UI/L , GGT 243 UI/L , amilasas 427,8 UI/ < start > L < end >",litro,1
+1650,L,"215 UI/L , GGT 243 UI/L , amilasas 427,8 UI/ < start > L < end >",leucocito,0
+1651,L,"475 UI/L , AST 215 UI/L , GGT 243 UI/ < start > L < end >",litro,1
+1652,L,"475 UI/L , AST 215 UI/L , GGT 243 UI/ < start > L < end >",leucocito,0
+1653,L,"206 mg/dl , ALT 475 UI/L , AST 215 UI/ < start > L < end >",litro,1
+1654,L,"206 mg/dl , ALT 475 UI/L , AST 215 UI/ < start > L < end >",leucocito,0
+1655,L,"2,1 mg/dl , colesterol 206 mg/dl , ALT 475 UI/ < start > L < end >",litro,1
+1656,L,"2,1 mg/dl , colesterol 206 mg/dl , ALT 475 UI/ < start > L < end >",leucocito,0
+1657,ALT,", bilirrubina total 2,1 mg/dl , colesterol 206 mg/dl , < start > ALT < end >",alanine aminotransferar,0
+1658,ALT,", bilirrubina total 2,1 mg/dl , colesterol 206 mg/dl , < start > ALT < end >",alanine transferar,1
+1659,CI,de Inteligencia Wechsler para Adultos ( WAIS-III ) : CI < start > V < end >,coeficiente intelectual,0
+1660,CI,de Inteligencia Wechsler para Adultos ( WAIS-III ) : CI < start > V < end >,coeficiente inteligencia,1
+1661,CI,WAIS-III ) : CI Verbal= 99 CI Manipulativo= 94 CI < start > T < end >,coeficiente intelectual,0
+1662,CI,WAIS-III ) : CI Verbal= 99 CI Manipulativo= 94 CI < start > T < end >,coeficiente inteligencia,1
+1663,CI,para Adultos ( WAIS-III ) : CI Verbal= 99 CI < start > M < end >,coeficiente intelectual,0
+1664,CI,para Adultos ( WAIS-III ) : CI Verbal= 99 CI < start > M < end >,coeficiente inteligencia,1
+1665,mg,"mantiene tratamiento farmacológico pautado desde CSMIJ ( Sertralina , 100 < start > mg < end >",miligramo,1
+1666,mg,"mantiene tratamiento farmacológico pautado desde CSMIJ ( Sertralina , 100 < start > mg < end >",miligramar,0
+1667,CI,de Inteligencia Wechsler para Adultos ( WAIS-III ) : CI < start > V < end >,coeficiente intelectual,1
+1668,CI,de Inteligencia Wechsler para Adultos ( WAIS-III ) : CI < start > V < end >,coeficiente inteligencia,0
+1669,CI,WAIS-III ) : CI Verbal= 99 CI Manipulativo= 94 CI < start > T < end >,coeficiente intelectual,1
+1670,CI,WAIS-III ) : CI Verbal= 99 CI Manipulativo= 94 CI < start > T < end >,coeficiente inteligencia,0
+1671,CI,para Adultos ( WAIS-III ) : CI Verbal= 99 CI < start > M < end >,coeficiente intelectual,1
+1672,CI,para Adultos ( WAIS-III ) : CI Verbal= 99 CI < start > M < end >,coeficiente inteligencia,0
+1673,mg,bioquímica muestra un mal control glucémico ( glucosa : 571 < start > mg < end >,miligramo,1
+1674,mg,bioquímica muestra un mal control glucémico ( glucosa : 571 < start > mg < end >,miligramar,0
+1675,mg,") y una insuficiencia renal aguda ( creatinina : 2,8 < start > mg < end >",miligramo,1
+1676,mg,") y una insuficiencia renal aguda ( creatinina : 2,8 < start > mg < end >",miligramar,0
+1677,mg,"bilirrubina total : 10,9 mg/dL ; bilirrubina directa : 9,3 < start > mg < end >",miligramo,1
+1678,mg,"bilirrubina total : 10,9 mg/dL ; bilirrubina directa : 9,3 < start > mg < end >",miligramar,0
+1679,mg,"datos de colestasis y citolisis ( bilirrubina total : 10,9 < start > mg < end >",miligramo,1
+1680,mg,"datos de colestasis y citolisis ( bilirrubina total : 10,9 < start > mg < end >",miligramar,0
+1681,L,GGT : 806 U/L ; fosfatasa alcalina : 657 U/ < start > L < end >,litro,1
+1682,L,GGT : 806 U/L ; fosfatasa alcalina : 657 U/ < start > L < end >,leucocito,0
+1683,L,; GPT : 134 U/L ; GGT : 806 U/ < start > L < end >,litro,1
+1684,L,; GPT : 134 U/L ; GGT : 806 U/ < start > L < end >,leucocito,0
+1685,L,; GOT : 57 U/L ; GPT : 134 U/ < start > L < end >,litro,1
+1686,L,; GOT : 57 U/L ; GPT : 134 U/ < start > L < end >,leucocito,0
+1687,L,"bilirrubina directa : 9,3 mg/dL ; GOT : 57 U/ < start > L < end >",litro,1
+1688,L,"bilirrubina directa : 9,3 mg/dL ; GOT : 57 U/ < start > L < end >",leucocito,0
+1689,CA,"( Stratus OCT ; Carl Zeiss Meditec , Dublin , < start > CA < end >",carbohydrate antiger,0
+1690,CA,"( Stratus OCT ; Carl Zeiss Meditec , Dublin , < start > CA < end >",california,1
+1691,CA,"( Stratus OCT ; Carl Zeiss Meditec , Dublin , < start > CA < end >",cancer antiger,0
+1692,FR,"y la determinación de ANCAs , ANAs , PCR , < start > FR < end >",factor reumatoidir,1
+1693,FR,"y la determinación de ANCAs , ANAs , PCR , < start > FR < end >",frecuencia respiratorio,0
+1694,PCR,"de coagulación y la determinación de ANCAs , ANAs , < start > PCR < end >",proteina c reactivo,1
+1695,PCR,"de coagulación y la determinación de ANCAs , ANAs , < start > PCR < end >",polimerase chain reaction,0

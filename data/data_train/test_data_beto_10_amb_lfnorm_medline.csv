@@ -324,8 +324,8 @@
 322,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end > e IgA . C1q y fibrinógeno fueron negativos . El",tercero vertebra cervical,1
 323,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end > e IgA . C1q y fibrinógeno fueron negativos . El",complemento 3,0
 324,C3,"IgM , kappa y lambda , siendo más débil para < start > C3 < end > e IgA . C1q y fibrinógeno fueron negativos . El",nivel c subnivel 3,0
-325,T1,"cm . , con centro isointenso y periferia hipointensa en < start > T1 < end > que tras la administración de gadolinio realza de forma difusa",tiempo relajacion longitudinal,1
-326,T1,"cm . , con centro isointenso y periferia hipointensa en < start > T1 < end > que tras la administración de gadolinio realza de forma difusa",primero vertebra toracico,0
+325,T1,"1x1 cm. , con centro isointenso y periferia hipointensa en < start > T1 < end > que tras la administración de gadolinio realza de forma difusa",tiempo relajacion longitudinal,1
+326,T1,"1x1 cm. , con centro isointenso y periferia hipointensa en < start > T1 < end > que tras la administración de gadolinio realza de forma difusa",primero vertebra toracico,0
 327,L,hemograma se constató una tombocitopenia grave ( 9 x 109/ < start > L < end > . Ante la sospecha clínica de TFNA se transfundió una,litro,1
 328,L,hemograma se constató una tombocitopenia grave ( 9 x 109/ < start > L < end > . Ante la sospecha clínica de TFNA se transfundió una,leucocito,0
 329,L,con muy buena respuesta ( plaquetas > 100 x 109/ < start > L < end > que se mantuvieron a lo largo de todo el ingreso,litro,1
@@ -438,10 +438,10 @@
 436,mg,"se objetivó la recuperación de función renal ( creatinina 1,6 < start > mg < end > dl ) , que persiste en esos niveles dos meses",miligramar,0
 437,mg,"días sin diálisis , la creatinina sérica permaneció en 2,7 < start > mg < end > dl . Una semana después del alta hospitalaria , en",miligramo,1
 438,mg,"días sin diálisis , la creatinina sérica permaneció en 2,7 < start > mg < end > dl . Una semana después del alta hospitalaria , en",miligramar,0
-439,mg,"de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end > 8 horas i.v . , y se procedió a realizar",miligramo,1
-440,mg,"de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end > 8 horas i.v . , y se procedió a realizar",miligramar,0
-441,mg,"cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end > i.v . y posteriormente 100 mg/8 horas i.v . ,",miligramo,1
-442,mg,"cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end > i.v . y posteriormente 100 mg/8 horas i.v . ,",miligramar,0
+439,mg,"de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end > 8 horas i.v. , y se procedió a realizar hemodiálisis",miligramo,1
+440,mg,"de carga de 1000 mg i.v . y posteriormente 100 < start > mg < end > 8 horas i.v. , y se procedió a realizar hemodiálisis",miligramar,0
+441,mg,"cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end > i.v . y posteriormente 100 mg/8 horas i.v. , y",miligramo,1
+442,mg,"cefepime se pautó fenitoína con dosis de carga de 1000 < start > mg < end > i.v . y posteriormente 100 mg/8 horas i.v. , y",miligramar,0
 443,mg,"de función renal previa , con creatinina sérica de 2,8 < start > mg < end > dl . Un día después de haber suspendido el cefepime",miligramo,1
 444,mg,"de función renal previa , con creatinina sérica de 2,8 < start > mg < end > dl . Un día después de haber suspendido el cefepime",miligramar,0
 445,mg,"la función renal permanecía estable con creatinina sérica de 1,4 < start > mg < end > día . El décimo día de tratamiento con cefepime (",miligramo,1
@@ -1145,8 +1145,8 @@
 1143,mg,"Depakine 1300 mg/día , Olanzapina 20 mg/día , Risperidona 6 < start > mg < end > día , Complejo Vitamina B. Participa en el `` grupo",miligramar,0
 1144,mg,"HSA . La estabilización psicopatológica se consigue con Depakine 1300 < start > mg < end > día , Olanzapina 20 mg/día , Risperidona 6 mg/día ,",miligramo,1
 1145,mg,"HSA . La estabilización psicopatológica se consigue con Depakine 1300 < start > mg < end > día , Olanzapina 20 mg/día , Risperidona 6 mg/día ,",miligramar,0
-1146,CI,"reflejan un nivel `` normal `` , en torno a < start > CI < end > de 100 , se presupone con anterioridad mucho más elevada",coeficiente intelectual,1
-1147,CI,"reflejan un nivel `` normal `` , en torno a < start > CI < end > de 100 , se presupone con anterioridad mucho más elevada",coeficiente inteligencia,0
+1146,CI,"reflejan un nivel `` normal '' , en torno a < start > CI < end > de 100 , se presupone con anterioridad mucho más elevada",coeficiente intelectual,1
+1147,CI,"reflejan un nivel `` normal '' , en torno a < start > CI < end > de 100 , se presupone con anterioridad mucho más elevada",coeficiente inteligencia,0
 1148,HBc,"Antígeno de superficie VHB , Anticuerpo anti-HBs , Anticuerpo anti- < start > HBc < end > y Anticuerpo anti-VHC negativos . Se realizó una ecografía hepática",hepatitis b corar,1
 1149,HBc,"Antígeno de superficie VHB , Anticuerpo anti-HBs , Anticuerpo anti- < start > HBc < end > y Anticuerpo anti-VHC negativos . Se realizó una ecografía hepática",hemoglobina c,0
 1150,AV,oftalmológica la enfermedad permanecía inactiva y la agudeza visual ( < start > AV < end > era de la unidad en ambos ojos a pesar de,agudeza visual,1
