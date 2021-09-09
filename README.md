@@ -1,8 +1,8 @@
-# TFM: Acronym Disambiguation in Healthcare Spanish Literature
+# TFM: Acronym Disambiguation in Biomedical Spanish Literature
 
 The following repository contains the code developed for IA Avanzada Master'thesis (UNED).
 
-The objetive is disambiguate acronyms founded in healthcare spanish texts. 
+The objetive is disambiguate acronyms founded in biomedical spanish texts. 
 
 Code is divided in three folders:
 - **data**: All the data is stored in this folder. 
